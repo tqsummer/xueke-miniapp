@@ -1,13 +1,20 @@
 <script setup lang="ts">
-import { computed, ref, onUnmounted } from 'vue'
+import { computed, ref, onUnmounted, watch } from 'vue'
 import { onShow, onHide } from '@dcloudio/uni-app'
 import { words } from './words'
+import { prepareEnglishAudio } from './audio'
+import { useAccountSync } from './use-account-sync'
 import type { Word } from './words'
 import { emptyProgress, parseProgress, STORAGE_KEY, keyOf, judge, updateRecord, selectWords, shuffle } from './core'
 import type { Mode, Progress, RecordItem } from './core'
 const day = ref(1)
+const dayOptions = ['全部 60 天', ...Array.from({length:60},(_,i)=>'Day '+(i+1))]
+function chooseDay(event: { detail: { value: string | number } }) { day.value = Number(event.detail.value) }
 const mode = ref<Mode>('zh-en')
-const progress = ref<Progress>(emptyProgress())
+const account = useAccountSync()
+const { enabled: cloudMode, ready: accountReady, status: syncStatus, warning: syncWarning, cache: accountCache, legacyAvailable } = account
+const localProgress = ref<Progress>(emptyProgress())
+const progress = computed(() => cloudMode ? account.progress.value : localProgress.value)
 const storageWarning = ref('')
 const canSave = ref(true)
 const queue = ref<Word[]>([])
@@ -19,6 +26,9 @@ const feedback = ref<'correct'|'wrong'|''>('')
 const score = ref(0)
 const now = ref(Date.now())
 const before = ref<RecordItem>()
+let practiceGeneration = 0
+let pageVisible = true
+watch(accountReady, (ready, wasReady) => { if(cloudMode && wasReady && !ready) { practiceGeneration++;active.value=false;finished.value=false;feedback.value='';answer.value='';score.value=0;stopAudio() } })
 const current = computed(() => queue.value[index.value])
 const counts = computed(() => ({
  all: selectWords(words,day.value,mode.value,'all',progress.value,now.value).length,
@@ -26,8 +36,10 @@ const counts = computed(() => ({
  due: selectWords(words,day.value,mode.value,'due',progress.value,now.value).length
 }))
 function load() {
+ pageVisible=true;practiceGeneration++
  now.value = Date.now()
- try { progress.value = parseProgress(uni.getStorageSync(STORAGE_KEY)); canSave.value = true; storageWarning.value = '' }
+ if (cloudMode) { void account.open(); return }
+ try { localProgress.value = parseProgress(uni.getStorageSync(STORAGE_KEY)); canSave.value = true; storageWarning.value = '' }
  catch { canSave.value = false; storageWarning.value = '本机记录暂时无法读取。可以练习，但不会覆盖旧记录；请先导出备份。' }
 }
 onShow(load)
@@ -37,10 +49,12 @@ function persist() {
  catch { storageWarning.value = '保存失败，本次进度只在页面内保留。请检查设备存储空间。' }
 }
 function start(kind: 'all'|'mistakes'|'due') {
+ if (cloudMode && !accountReady.value) return uni.showToast({title:'请先联网确认当前账号',icon:'none'})
+ if (cloudMode && accountCache.value?.draft && !account.finishAnswer()) return
  now.value = Date.now()
  const list = selectWords(words,day.value,mode.value,kind,progress.value,now.value)
  if (!list.length) return uni.showToast({ title: kind === 'due' ? '暂无到期复习' : '这个范围没有错词', icon: 'none' })
- stopAudio(); queue.value = shuffle(list); index.value=0; score.value=0; answer.value='';feedback.value='';finished.value=false;active.value=true
+ practiceGeneration++;stopAudio(); queue.value = shuffle(list); index.value=0; score.value=0; answer.value='';feedback.value='';finished.value=false;active.value=true
 }
 function submit() {
  if (feedback.value || !current.value) return
@@ -48,46 +62,70 @@ function submit() {
  const key = keyOf(current.value.id, mode.value)
  before.value = progress.value.records[key] ? {...progress.value.records[key]} : undefined
  const correct = judge(current.value,mode.value,answer.value)
- progress.value.records[key] = updateRecord(before.value, correct, Date.now())
+ if (cloudMode) {
+  if (!account.setAnswer({wordId:current.value.id,mode:mode.value,correct,at:Date.now()})) return
+ } else progress.value.records[key] = updateRecord(before.value, correct, Date.now())
  feedback.value = correct ? 'correct' : 'wrong'
  if (correct) score.value++
- persist()
+ if (!cloudMode) persist()
 }
 function selfCorrect() {
  if (feedback.value !== 'wrong' || mode.value !== 'en-zh') return
+ const session=practiceGeneration, wordId=current.value?.id, owner=accountCache.value?.accountId, draftAt=accountCache.value?.draft?.at
  uni.showModal({title:'确认释义正确？',content:'只在你的表达与参考释义等价时使用。将按本次答对记录，不会改变词库标准答案。',
  success: r => {
-  if (!r.confirm || feedback.value !== 'wrong') return
-  progress.value.records[keyOf(current.value.id,mode.value)] = updateRecord(before.value,true,Date.now())
-  feedback.value='correct';score.value++;persist()
+  if (!r.confirm || feedback.value !== 'wrong' || session!==practiceGeneration || current.value?.id!==wordId || accountCache.value?.accountId!==owner) return
+  if (!active.value || !current.value) return
+  if (cloudMode) {
+   const draft = accountCache.value?.draft
+   if (!draft || draft.wordId!==wordId || draft.at!==draftAt || draft.mode!==mode.value || !account.setAnswer({...draft,correct:true})) return
+  } else progress.value.records[keyOf(current.value.id,mode.value)] = updateRecord(before.value,true,Date.now())
+  feedback.value='correct';score.value++;if (!cloudMode) persist()
  }})
 }
 function next() {
  if (!feedback.value) return
+ if (cloudMode && !account.finishAnswer()) return
  stopAudio()
  if (index.value + 1 >= queue.value.length) {finished.value=true;active.value=false;now.value=Date.now();return}
  index.value++;answer.value='';feedback.value=''
 }
 function leave() {
  if (!active.value) { finished.value=false; return }
- uni.showModal({title:'结束这次练习？',content:'已提交的答案会保留，未完成的题目不会计错。',success:r=>{if(r.confirm){stopAudio();active.value=false;finished.value=false;now.value=Date.now()}}})
+ const session=practiceGeneration
+ uni.showModal({title:'结束这次练习？',content:'已提交的答案会保留，未完成的题目不会计错。',success:r=>{if(r.confirm && session===practiceGeneration && active.value){if(cloudMode && !account.finishAnswer()) return;stopAudio();active.value=false;finished.value=false;now.value=Date.now()}}})
 }
 let audio: ReturnType<typeof uni.createInnerAudioContext> | undefined
-function stopAudio() { if (audio) audio.stop() }
-function speak() {
+let audioRequest = 0
+function stopAudio() { audioRequest++; if (audio) audio.stop() }
+async function speak() {
  if (!current.value) return
  stopAudio()
- if (!audio) {
-  audio = uni.createInnerAudioContext()
-  audio.onError(() => uni.showToast({title:'发音播放失败，请重试',icon:'none'}))
+ const token = audioRequest
+ const word = current.value
+ try {
+  const src = await prepareEnglishAudio(word)
+  if (token !== audioRequest || !active.value || current.value?.id !== word.id) return
+  if (!audio) {
+   audio = uni.createInnerAudioContext()
+   audio.onError(() => uni.showToast({title:'发音播放失败，请重试',icon:'none'}))
+  }
+  audio.src = src
+  audio.play()
+ } catch {
+  if (token === audioRequest) uni.showToast({title:'发音资源加载失败，请联网重试',icon:'none'})
  }
- audio.src = '/static/english/' + current.value.id + '.mp3'
- audio.play()
 }
-onHide(stopAudio)
-onUnmounted(() => { if (audio) { audio.stop(); audio.destroy(); audio = undefined } })
+function networkChanged(result: {isConnected:boolean}) { if(cloudMode && pageVisible && result.isConnected) void (accountReady.value ? account.sync() : account.open()) }
+if(cloudMode) uni.onNetworkStatusChange(networkChanged)
+onHide(() => {
+ pageVisible=false;practiceGeneration++;stopAudio()
+ if (cloudMode) { account.close(); active.value=false;finished.value=false;feedback.value='';answer.value='' }
+})
+onUnmounted(() => { pageVisible=false;if(cloudMode) {uni.offNetworkStatusChange(networkChanged);account.close()}; stopAudio(); if (audio) { audio.stop(); audio.destroy(); audio = undefined } })
 function exportRecords() {
- const raw = canSave.value ? JSON.stringify(progress.value) : String(uni.getStorageSync(STORAGE_KEY))
+ if (cloudMode && !accountReady.value) return uni.showToast({title:'请先确认当前账号',icon:'none'})
+ const raw = cloudMode ? account.exportData() : (canSave.value ? JSON.stringify(progress.value) : String(uni.getStorageSync(STORAGE_KEY)))
  uni.setClipboardData({data:raw,success:()=>uni.showToast({title:'记录已复制，请另存备份',icon:'none'}),fail:()=>uni.showToast({title:'无法复制记录',icon:'none'})})
 }
 const grammar = ref(-1)
@@ -109,13 +147,21 @@ function checkGrammar() {
  <view class="wrap english">
   <view class="top"><text class="eyebrow">英语 · 基础练习</text><text class="heading">每天一点，记得更牢</text></view>
   <view v-if="storageWarning" class="warning">{{ storageWarning }}</view>
+  <view v-if="cloudMode" class="card col gap8">
+   <text class="title">微信账号学习记录</text>
+   <text class="tr">{{ syncStatus }}</text>
+   <text v-if="accountCache" class="tr">账号 {{ accountCache.accountId.slice(-8) }} · 待同步 {{ accountCache.pending.length }} 条{{ accountCache.draft ? '，当前答案已暂存' : '' }}</text>
+   <text v-if="syncWarning" class="warning">{{ syncWarning }}</text>
+   <button class="link" @tap="accountReady ? account.sync() : account.open()">{{ accountReady ? '立即同步' : '重新确认账号' }}</button>
+   <button v-if="legacyAvailable && accountReady" class="link" @tap="account.importLegacy()">确认并导入这台设备的旧记录</button>
+  </view>
   <template v-if="!active && !finished">
    <view class="card col gap8">
     <text class="title">选择学习范围</text>
-    <view class="seg"><view v-for="d in [1,2,0]" :key="d" class="i" :class="{on:day===d}" @tap="day=d">{{ d ? 'Day '+d : '两天一起' }}</view></view>
+    <picker :range="dayOptions" :value="day" @change="chooseDay"><view class="day-picker">{{ dayOptions[day] }} · 点击选择学习日 ▾</view></picker>
     <view class="seg"><view class="i" :class="{on:mode==='zh-en'}" @tap="mode='zh-en'">中文 → 英文</view><view class="i" :class="{on:mode==='en-zh'}" @tap="mode='en-zh'">英文 → 中文</view></view>
     <text class="tr">{{ counts.all }} 个词条 · {{ counts.mistakes }} 个错词 · {{ counts.due }} 个到期</text>
-    <button class="btn" @tap="start('all')">开始默写</button>
+    <button class="btn" :disabled="cloudMode && !accountReady" @tap="start('all')">开始默写</button>
     <view class="actions"><button class="btn ghost" @tap="start('mistakes')">错词再练</button><button class="btn ghost" @tap="start('due')">到期复习</button></view>
     <text class="tr">答错 10 分钟后复习；连续答对按 1 / 3 / 7 / 14 / 30 天安排。两个方向分开记录，也可随时重复练习。</text>
    </view>
@@ -129,10 +175,10 @@ function checkGrammar() {
     </template>
    </view>
    <view class="card col gap8"><text class="title">词库与记录说明</text>
-    <text class="tr">66 个词条来自你提供的两份《中考词汇默写》PDF 第 1 页，合并多词性并补入未编号的 along。PDF 元数据为 2019 年，本版不是当前上海官方完整考纲。</text>
+    <text class="tr">{{ words.length }} 个词条覆盖你提供的两份《中考词汇默写》PDF 共 60 天，按词义对齐并合并多词性。已知勘误与疑项见各词提示及项目来源报告。PDF 元数据为 2019 年，本版不是当前上海官方完整考纲。</text>
     <text class="tr">中文方向写一个正确释义即可；若系统未收录你的同义表达，可核对后手动标记答对。英文不区分大小写，专名请养成正确大写习惯。</text>
-    <text class="tr">记录只保存在本设备，不随微信账号同步。清理缓存、换设备或卸载可能丢失。进入本页即可练习，无需等待后端登录。</text>
-    <text class="tr">发音为离线美式合成语音，非真人录音。原资料音标存在错误，暂不展示。</text>
+    <text class="tr">{{ cloudMode ? '记录按微信账号隔离。已确认账号后可断网练习，待同步答案保存在本机；联网同步后才可跨设备恢复。重新进入页面需联网确认身份，避免显示上一位使用者记录。清理缓存可能丢失未同步答案。' : '当前为本地体验模式，不提供账号同步；同一存储空间共用记录，清缓存可能丢失。云端账号同步请使用微信云模式版本。' }}</text>
+    <text class="tr">发音为美式合成语音，非真人录音。微信首次播放每组词汇需下载对应发音分包，缓存后可离线使用。原资料音标存在错误，暂不展示。</text>
     <button class="link" @tap="exportRecords">复制学习记录备份</button>
    </view>
   </template>
@@ -163,5 +209,5 @@ function checkGrammar() {
  </view>
 </template>
 <style scoped>
-.english{max-width:1000rpx;margin:0 auto;gap:28rpx}.top{display:flex;flex-direction:column;gap:10rpx}.eyebrow{font-size:24rpx;color:var(--accent);font-weight:700}.heading{font-size:44rpx;font-weight:800;line-height:1.3}.title{font-size:32rpx;font-weight:700}.question{font-size:42rpx;font-weight:600;line-height:1.5;overflow-wrap:anywhere}.answer{background:#fff;border:2rpx solid var(--line);border-radius:16rpx;min-height:104rpx;height:104rpx;padding:0 24rpx;font-size:32rpx;width:100%}.feedback{display:flex;flex-direction:column;gap:12rpx;background:#e7f2e9;padding:24rpx;border-radius:20rpx}.feedback.wrong{background:#fff0e8}.solution{font-size:38rpx;font-weight:700;overflow-wrap:anywhere}.warning{background:#fff0ce;padding:20rpx;border-radius:16rpx;font-size:26rpx}.actions{display:flex;gap:16rpx}.actions .btn{flex:1;padding:0 12rpx;font-size:28rpx}.lesson{padding:18rpx 0;border-bottom:1rpx solid var(--line);color:var(--accent)}.seg .i{font-size:28rpx}.card{gap:22rpx}
+.day-picker{padding:22rpx;border:2rpx solid var(--line);border-radius:16rpx;color:var(--accent);font-weight:700}.english{max-width:1000rpx;margin:0 auto;gap:28rpx}.top{display:flex;flex-direction:column;gap:10rpx}.eyebrow{font-size:24rpx;color:var(--accent);font-weight:700}.heading{font-size:44rpx;font-weight:800;line-height:1.3}.title{font-size:32rpx;font-weight:700}.question{font-size:42rpx;font-weight:600;line-height:1.5;overflow-wrap:anywhere}.answer{background:#fff;border:2rpx solid var(--line);border-radius:16rpx;min-height:104rpx;height:104rpx;padding:0 24rpx;font-size:32rpx;width:100%}.feedback{display:flex;flex-direction:column;gap:12rpx;background:#e7f2e9;padding:24rpx;border-radius:20rpx}.feedback.wrong{background:#fff0e8}.solution{font-size:38rpx;font-weight:700;overflow-wrap:anywhere}.warning{background:#fff0ce;padding:20rpx;border-radius:16rpx;font-size:26rpx}.actions{display:flex;gap:16rpx}.actions .btn{flex:1;padding:0 12rpx;font-size:28rpx}.lesson{padding:18rpx 0;border-bottom:1rpx solid var(--line);color:var(--accent)}.seg .i{font-size:28rpx}.card{gap:22rpx}
 </style>

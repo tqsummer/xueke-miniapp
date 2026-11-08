@@ -1,0 +1,231 @@
+{
+  "scope": "Days17–30",
+  "source": "两份用户提供 PDF，raw tables retained in english-full-source.json; not verified official current syllabus",
+  "coverage": [
+    {
+      "day": 17,
+      "rawEnglishRows": 34,
+      "outputWords": 33,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 18,
+      "rawEnglishRows": 34,
+      "outputWords": 32,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 19,
+      "rawEnglishRows": 33,
+      "outputWords": 32,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 20,
+      "rawEnglishRows": 33,
+      "outputWords": 32,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 21,
+      "rawEnglishRows": 36,
+      "outputWords": 32,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 22,
+      "rawEnglishRows": 33,
+      "outputWords": 32,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 23,
+      "rawEnglishRows": 34,
+      "outputWords": 33,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 24,
+      "rawEnglishRows": 33,
+      "outputWords": 32,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 25,
+      "rawEnglishRows": 35,
+      "outputWords": 34,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 26,
+      "rawEnglishRows": 35,
+      "outputWords": 34,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 27,
+      "rawEnglishRows": 33,
+      "outputWords": 31,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 28,
+      "rawEnglishRows": 34,
+      "outputWords": 33,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 29,
+      "rawEnglishRows": 36,
+      "outputWords": 32,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    },
+    {
+      "day": 30,
+      "rawEnglishRows": 36,
+      "outputWords": 32,
+      "omittedEnglishRows": 0,
+      "method": "显式语义行映射，合并同日重复词性；source.alignment 保留原始行号。"
+    }
+  ],
+  "correctionsAndNotes": [
+    {
+      "id": "d17-12",
+      "english": "either",
+      "note": "原英文表 either 音标误抄为 efficient；未沿用音标。"
+    },
+    {
+      "id": "d17-30",
+      "english": "English",
+      "note": "原中文表将 English 列为“英国”，已纠正；国家英国为 Britain/UK。"
+    },
+    {
+      "id": "d19-02",
+      "english": "exercise",
+      "note": "原中文“做操场”疑为笔误，修正为做操。"
+    },
+    {
+      "id": "d21-08",
+      "english": "at first / last",
+      "note": "原表将 at first 与 at last 合并列出；这里按原表组合条目保留，接受两个短语。"
+    },
+    {
+      "id": "d24-08",
+      "english": "goal",
+      "note": "中文表 goal/God 处“达到/目标”异常；goal 按语义对应“目标”，未按行机械匹配。"
+    },
+    {
+      "id": "d24-09",
+      "english": "God",
+      "note": "待核对：中文表“达到/目标”与 goal/God 对应异常；goal 对齐“目标”，God 采用常见释义补正，未沿用“达到”。"
+    },
+    {
+      "id": "d24-22",
+      "english": "ground",
+      "note": "原中文“运动”疑漏“场”，按 ground 常见释义补正。"
+    },
+    {
+      "id": "d25-01",
+      "english": "half",
+      "note": "原英文词性 n & v 有误，按对应中文表修正为 n./adj.。"
+    },
+    {
+      "id": "d25-08",
+      "english": "happen to sb.",
+      "note": "原中文“发生到某人身”不完整，补正为发生在某人身上。"
+    },
+    {
+      "id": "d25-34",
+      "english": "hall",
+      "note": "待核对：中文表有“大厅；礼堂”，英文表未见对应条目；补列 hall，原始表保留。"
+    },
+    {
+      "id": "d26-13",
+      "english": "history",
+      "note": "原中文表“历史上”不合名词词性，修正为历史。"
+    },
+    {
+      "id": "d27-12",
+      "english": "human",
+      "note": "原中文形容词行含“人们”，按词性修正。"
+    },
+    {
+      "id": "d27-17",
+      "english": "hurry",
+      "note": "原英文第 18、20 行重复 hurry，合并为一项；中文表仅一条对应义。"
+    },
+    {
+      "id": "d28-10",
+      "english": "India",
+      "note": "待核对：英文表 India 的两行与中文“印度人/印度的”不符。保留 India 并补正常见释义，另列 Indian；原始两表保留。"
+    },
+    {
+      "id": "d28-11",
+      "english": "Indian",
+      "note": "待核对：原英文第二行仍印 India adj.，依中文释义校正为 Indian；原表“印第安语”不作为唯一语言名沿用。"
+    },
+    {
+      "id": "d29-26",
+      "english": "keep a diary",
+      "note": "原英文 keep a dairy 拼写误印，依据“记日记”纠正为 diary，不接受 dairy。"
+    },
+    {
+      "id": "d29-31",
+      "english": "keep quiet",
+      "note": "原英文 keep quite 拼写误印，依据“保持安静”纠正为 quiet，不接受 quite。"
+    },
+    {
+      "id": "d30-23",
+      "english": "land",
+      "note": "原中文“登陆”重复，合并。"
+    },
+    {
+      "id": "d30-25",
+      "english": "lantern",
+      "note": "原中文仅“灯”，细化为 lantern 对应的灯笼/提灯。"
+    },
+    {
+      "id": "d30-27",
+      "english": "last",
+      "note": "英文标有 v.，中文表漏动词义；补充 last 的“持续”义。"
+    }
+  ],
+  "addedEnglishHeadword": [
+    "hall（原中文有；原英文缺；待核对）",
+    "Indian（校正原第二行 India，与中文释义匹配）"
+  ],
+  "unresolved": [
+    "Day24 中文“n.达到”无法可靠归属，未加入训练答案；goal 对齐“目标”，God 使用补正释义并标待核对。",
+    "Day25 hall 原英文缺项，待人工对照纸本确认。",
+    "Day28 India/Indian 原表不一致，已明示校正及补正，待确认。"
+  ],
+  "semanticOrderCorrections": [
+    "Day19 so far / far away",
+    "Day20 do sb. a favour / in favor of",
+    "Day21 fit POS",
+    "Day22 French POS",
+    "Day23 fruit / frozen",
+    "Day24 goal/God and graduate POS",
+    "Day26 go to hospital / in hospital",
+    "Day27 human POS and hungry / hungrily",
+    "Day30 kid / kind POS"
+  ],
+  "validation": {
+    "uniqueIDs": true,
+    "allHaveEnglishAndMeaning": true,
+    "allHaveAcceptedAnswers": true
+  }
+}

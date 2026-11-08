@@ -7,10 +7,12 @@ function load(file) { const code=transformSync(fs.readFileSync(path.join(root,'s
 const c=load('core.ts'), {words}=load('words.ts')
 let passed=0
 function test(name,fn){fn();passed++;console.log('PASS',name)}
-test('66 unique words, 33 per day with source metadata',()=>{
- assert.equal(words.length,66);assert.equal(new Set(words.map(w=>w.id)).size,66)
- for(const day of [1,2]) assert.equal(words.filter(w=>w.day===day).length,33)
- for(const w of words){assert.ok(w.acceptedEnglish.length);assert.ok(w.acceptedChinese.length);assert.equal(w.source.page,1);assert.equal(w.day,w.source.day)}
+test('Full 60 days with unique IDs and source metadata',()=>{
+ assert.equal(words.length,1966);assert.equal(new Set(words.map(w=>w.id)).size,words.length)
+ for(let day=1;day<=60;day++) assert.ok(words.filter(w=>w.day===day).length>=25,'day '+day)
+ for(const w of words){assert.ok(w.acceptedEnglish.length);assert.ok(w.acceptedChinese.length);assert.equal(w.source.page,Math.ceil(w.day/2));assert.equal(w.day,w.source.day)}
+ const preserved=JSON.parse(fs.readFileSync(path.join(root,'../data/english-days-1-2-preserved.json'),'utf8'))
+ assert.deepEqual(words.filter(w=>w.day<=2),preserved)
 })
 test('Every reference answer passes both directions',()=>{
  for(const w of words){for(const a of w.acceptedEnglish)assert.ok(c.judge(w,'zh-en',a),w.english);for(const a of w.acceptedChinese)assert.ok(c.judge(w,'en-zh',a),w.english)}
@@ -57,11 +59,34 @@ test('Chinese route preserved, English separate subpackage and storage',()=>{
  const backup=fs.readdirSync(path.join(root,'../docs')).filter(x=>x.startsWith('english-backup-')).sort().pop()
  const original=JSON.parse(fs.readFileSync(path.join(root,'../docs',backup,'pages.json'),'utf8'))
  assert.deepEqual(pages.pages,original.pages);assert.deepEqual(pages.tabBar,original.tabBar)
- assert.deepEqual(pages.subPackages.filter(p=>p.root!=='pkg-english'),original.subPackages)
+ assert.deepEqual(pages.subPackages.filter(p=>!p.root.startsWith('pkg-english')),original.subPackages)
  assert.equal(pages.subPackages.filter(p=>p.root==='pkg-english').length,1)
  const home=fs.readFileSync(path.join(root,'src/pages/home/index.vue'),'utf8')
  assert.ok(home.includes("if (m.id === 'wenyan') uni.navigateTo({ url: '/pkg-yuwen/wenyan/index' })"))
  assert.ok(home.includes("current.value === 'yingyu' && m.id === 'english-practice'"))
  assert.ok(!home.includes('english-entry'));assert.ok(c.STORAGE_KEY.startsWith('english-'))
+})
+test('Generated words exactly match reviewed source parts',()=>{
+ const parts=['1-2-preserved','3-16','17-30','31-44','45-60']
+ const expected=parts.flatMap(p=>JSON.parse(fs.readFileSync(path.join(root,'../data/english-days-'+p+'.json'),'utf8')))
+ assert.deepEqual(words,expected)
+ const allowed=JSON.parse(fs.readFileSync(path.join(root,'../cloud/functions/api/english-word-ids.json'),'utf8'))
+ assert.deepEqual([...allowed].sort(),words.map(w=>w.id).sort())
+})
+test('Opposite meanings do not share an automatic answer',()=>{
+ for(const [id,good,bad] of [['d21-08','起先','终于'],['d54-15','少于','多于'],['d56-25','调高','调低']]){
+  const w=words.find(w=>w.id===id);assert.ok(!c.judge(w,'en-zh',bad),id)
+ }
+ assert.ok(!c.judge(words.find(w=>w.id==='d21-08'),'zh-en','at last'))
+ assert.ok(!c.judge(words.find(w=>w.id==='d54-15'),'zh-en','more than'))
+ assert.ok(!c.judge(words.find(w=>w.id==='d56-25'),'zh-en','turn down'))
+ const time=words.find(w=>w.english==='have a good time')
+ assert.ok(c.judge(time,'en-zh','玩得愉快'));assert.ok(!c.judge(time,'en-zh','玩得'))
+})
+test('Explicit supplements and source corrections are visible',()=>{
+ for(const id of ['d34-90','d48-90','d58-90']) {const w=words.find(w=>w.id===id);assert.ok(w.note.includes('补录'));assert.equal(w.source.originalNumber,null)}
+ assert.ok(words.find(w=>w.english==='wisdom').note.includes('wisdon'))
+ const ui=fs.readFileSync(path.join(root,'src/pkg-english/index.vue'),'utf8')
+ assert.ok(ui.includes('length:60'));assert.ok(ui.includes('audioRequest'));assert.ok(ui.includes('prepareEnglishAudio'))
 })
 console.log(passed+' tests passed')

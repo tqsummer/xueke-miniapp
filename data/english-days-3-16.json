@@ -1,0 +1,9430 @@
+[
+  {
+    "id": "d3-01",
+    "day": 3,
+    "english": "America",
+    "meaning": "美国；美洲",
+    "acceptedEnglish": [
+      "America"
+    ],
+    "acceptedChinese": [
+      "美国",
+      "美洲"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "America [əˈmerɪkə] n."
+    }
+  },
+  {
+    "id": "d3-02",
+    "day": 3,
+    "english": "American",
+    "meaning": "美国的；美洲的；美国人",
+    "acceptedEnglish": [
+      "American"
+    ],
+    "acceptedChinese": [
+      "美国的",
+      "美洲的",
+      "美国人"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "American [əˈmerɪkən]\nadj. || American [əˈmerɪkən] n."
+    }
+  },
+  {
+    "id": "d3-03",
+    "day": 3,
+    "english": "among",
+    "meaning": "在三者或三者以上之间",
+    "acceptedEnglish": [
+      "among"
+    ],
+    "acceptedChinese": [
+      "在三者或三者以上之间"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "among [ə'mʌŋ] prep."
+    }
+  },
+  {
+    "id": "d3-04",
+    "day": 3,
+    "english": "amount",
+    "meaning": "数量；总数",
+    "acceptedEnglish": [
+      "amount"
+    ],
+    "acceptedChinese": [
+      "数量",
+      "总数"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "amount [əˈmaʊnt] n."
+    }
+  },
+  {
+    "id": "d3-05",
+    "day": 3,
+    "english": "amusing",
+    "meaning": "引起乐趣的；娱人的",
+    "acceptedEnglish": [
+      "amusing"
+    ],
+    "acceptedChinese": [
+      "引起乐趣的",
+      "娱人的"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "amusing [əˈmjuːzɪŋ] adj."
+    }
+  },
+  {
+    "id": "d3-06",
+    "day": 3,
+    "english": "ancient",
+    "meaning": "古代的",
+    "acceptedEnglish": [
+      "ancient"
+    ],
+    "acceptedChinese": [
+      "古代的"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "ancient [ˈeɪnʃənt] adj."
+    }
+  },
+  {
+    "id": "d3-07",
+    "day": 3,
+    "english": "and",
+    "meaning": "和",
+    "acceptedEnglish": [
+      "and"
+    ],
+    "acceptedChinese": [
+      "和"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "and [ænd] conj."
+    }
+  },
+  {
+    "id": "d3-08",
+    "day": 3,
+    "english": "and so on",
+    "meaning": "等等",
+    "acceptedEnglish": [
+      "and so on"
+    ],
+    "acceptedChinese": [
+      "等等"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "and so on"
+    }
+  },
+  {
+    "id": "d3-09",
+    "day": 3,
+    "english": "angrily",
+    "meaning": "生气地；愤怒地",
+    "acceptedEnglish": [
+      "angrily"
+    ],
+    "acceptedChinese": [
+      "生气地",
+      "愤怒地"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "angrily [ˈæŋgrɪli] adv."
+    }
+  },
+  {
+    "id": "d3-10",
+    "day": 3,
+    "english": "angry",
+    "meaning": "生气的；愤怒的",
+    "acceptedEnglish": [
+      "angry"
+    ],
+    "acceptedChinese": [
+      "生气的",
+      "愤怒的"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "angry ['æŋgri] adj."
+    }
+  },
+  {
+    "id": "d3-11",
+    "day": 3,
+    "english": "be angry with sb.",
+    "meaning": "生某人的气",
+    "acceptedEnglish": [
+      "be angry with sb."
+    ],
+    "acceptedChinese": [
+      "生某人的气"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "be angry with sb."
+    }
+  },
+  {
+    "id": "d3-12",
+    "day": 3,
+    "english": "animal",
+    "meaning": "动物",
+    "acceptedEnglish": [
+      "animal"
+    ],
+    "acceptedChinese": [
+      "动物"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "animal ['æniməl] n."
+    }
+  },
+  {
+    "id": "d3-13",
+    "day": 3,
+    "english": "another",
+    "meaning": "再一；另一；别的；另一个",
+    "acceptedEnglish": [
+      "another"
+    ],
+    "acceptedChinese": [
+      "再一",
+      "另一",
+      "别的",
+      "另一个"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "another[ə'nʌðə]adj. || another[ə'nʌðə] pron."
+    }
+  },
+  {
+    "id": "d3-14",
+    "day": 3,
+    "english": "one after another",
+    "meaning": "一个接一个；连续地",
+    "acceptedEnglish": [
+      "one after another"
+    ],
+    "acceptedChinese": [
+      "一个接一个",
+      "连续地"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "one after another"
+    }
+  },
+  {
+    "id": "d3-15",
+    "day": 3,
+    "english": "one another",
+    "meaning": "互相",
+    "acceptedEnglish": [
+      "one another"
+    ],
+    "acceptedChinese": [
+      "互相"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "one another"
+    }
+  },
+  {
+    "id": "d3-16",
+    "day": 3,
+    "english": "answer",
+    "meaning": "回答；答复；答案；回信",
+    "acceptedEnglish": [
+      "answer"
+    ],
+    "acceptedChinese": [
+      "回答",
+      "答复",
+      "答案",
+      "回信"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "answer ['ɑ:nsə] v. || answer ['ɑ:nsə] n."
+    }
+  },
+  {
+    "id": "d3-17",
+    "day": 3,
+    "english": "any",
+    "meaning": "一些；什么；任何的；任一的；哪一个；哪些",
+    "acceptedEnglish": [
+      "any"
+    ],
+    "acceptedChinese": [
+      "一些",
+      "什么",
+      "任何的",
+      "任一的",
+      "哪一个",
+      "哪些"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "any ['eni] adj. || any ['eni] pron."
+    }
+  },
+  {
+    "id": "d3-18",
+    "day": 3,
+    "english": "anybody",
+    "meaning": "任何人",
+    "acceptedEnglish": [
+      "anybody"
+    ],
+    "acceptedChinese": [
+      "任何人"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "anybody ['eni, bɔdi]\npron."
+    }
+  },
+  {
+    "id": "d3-19",
+    "day": 3,
+    "english": "anyone",
+    "meaning": "任何人",
+    "acceptedEnglish": [
+      "anyone"
+    ],
+    "acceptedChinese": [
+      "任何人"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "anyone ['eniwʌn] pron."
+    }
+  },
+  {
+    "id": "d3-20",
+    "day": 3,
+    "english": "anything",
+    "meaning": "什么事；任何事；任何事物",
+    "acceptedEnglish": [
+      "anything"
+    ],
+    "acceptedChinese": [
+      "什么事",
+      "任何事",
+      "任何事物"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "anything ['eni, θiŋ]\npron."
+    }
+  },
+  {
+    "id": "d3-21",
+    "day": 3,
+    "english": "anywhere",
+    "meaning": "任何地方",
+    "acceptedEnglish": [
+      "anywhere"
+    ],
+    "acceptedChinese": [
+      "任何地方"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "anywhere ['eniwɛə] adv."
+    }
+  },
+  {
+    "id": "d3-22",
+    "day": 3,
+    "english": "apologize",
+    "meaning": "道歉",
+    "acceptedEnglish": [
+      "apologize"
+    ],
+    "acceptedChinese": [
+      "道歉"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "apologize [əˈpɒlədʒaɪz]\nv."
+    }
+  },
+  {
+    "id": "d3-23",
+    "day": 3,
+    "english": "apologize to sb. for sth.",
+    "meaning": "为某事向某人道歉",
+    "acceptedEnglish": [
+      "apologize to sb. for sth."
+    ],
+    "acceptedChinese": [
+      "为某事向某人道歉"
+    ],
+    "note": "补齐原短语缺少的空格。",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "apologize to sb.for sth."
+    }
+  },
+  {
+    "id": "d3-24",
+    "day": 3,
+    "english": "appear",
+    "meaning": "出现",
+    "acceptedEnglish": [
+      "appear"
+    ],
+    "acceptedChinese": [
+      "出现"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "appear [ə'piə] v."
+    }
+  },
+  {
+    "id": "d3-25",
+    "day": 3,
+    "english": "apple",
+    "meaning": "苹果",
+    "acceptedEnglish": [
+      "apple"
+    ],
+    "acceptedChinese": [
+      "苹果"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "apple [ˈæpl] n."
+    }
+  },
+  {
+    "id": "d3-26",
+    "day": 3,
+    "english": "April",
+    "meaning": "四月",
+    "acceptedEnglish": [
+      "April"
+    ],
+    "acceptedChinese": [
+      "四月"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "April ['eiprəl] n."
+    }
+  },
+  {
+    "id": "d3-27",
+    "day": 3,
+    "english": "area",
+    "meaning": "面积；地区",
+    "acceptedEnglish": [
+      "area"
+    ],
+    "acceptedChinese": [
+      "面积",
+      "地区"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "area [ˈeəriə] n."
+    }
+  },
+  {
+    "id": "d3-28",
+    "day": 3,
+    "english": "argue",
+    "meaning": "争论；争吵",
+    "acceptedEnglish": [
+      "argue"
+    ],
+    "acceptedChinese": [
+      "争论",
+      "争吵"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "argue [ˈɑːɡjuː] v."
+    }
+  },
+  {
+    "id": "d3-29",
+    "day": 3,
+    "english": "arm",
+    "meaning": "手臂",
+    "acceptedEnglish": [
+      "arm"
+    ],
+    "acceptedChinese": [
+      "手臂"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "arm [ɑ:m] n."
+    }
+  },
+  {
+    "id": "d3-30",
+    "day": 3,
+    "english": "army",
+    "meaning": "军队；陆军",
+    "acceptedEnglish": [
+      "army"
+    ],
+    "acceptedChinese": [
+      "军队",
+      "陆军"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "army [ˈɑːmi] n."
+    }
+  },
+  {
+    "id": "d3-31",
+    "day": 3,
+    "english": "around",
+    "meaning": "在周围；环绕",
+    "acceptedEnglish": [
+      "around"
+    ],
+    "acceptedChinese": [
+      "在周围",
+      "环绕"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "around [ə'raund] prep."
+    }
+  },
+  {
+    "id": "d3-32",
+    "day": 3,
+    "english": "arrange",
+    "meaning": "安排；布置",
+    "acceptedEnglish": [
+      "arrange"
+    ],
+    "acceptedChinese": [
+      "安排",
+      "布置"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 3,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "arrange [əˈreɪndʒ] v."
+    }
+  },
+  {
+    "id": "d4-01",
+    "day": 4,
+    "english": "arrive",
+    "meaning": "到达",
+    "acceptedEnglish": [
+      "arrive"
+    ],
+    "acceptedChinese": [
+      "到达"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "arrive [ə'raiv] v."
+    }
+  },
+  {
+    "id": "d4-02",
+    "day": 4,
+    "english": "arrive at / in a place",
+    "meaning": "到达某地",
+    "acceptedEnglish": [
+      "arrive at / in a place",
+      "arrive at a place",
+      "arrive in a place"
+    ],
+    "acceptedChinese": [
+      "到达某地"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "arrive at / in a place"
+    }
+  },
+  {
+    "id": "d4-03",
+    "day": 4,
+    "english": "art",
+    "meaning": "艺术",
+    "acceptedEnglish": [
+      "art"
+    ],
+    "acceptedChinese": [
+      "艺术"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "art [ɑ:t] n."
+    }
+  },
+  {
+    "id": "d4-04",
+    "day": 4,
+    "english": "article",
+    "meaning": "文章",
+    "acceptedEnglish": [
+      "article"
+    ],
+    "acceptedChinese": [
+      "文章"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "article [ˈɑːtɪkl] n."
+    }
+  },
+  {
+    "id": "d4-05",
+    "day": 4,
+    "english": "artist",
+    "meaning": "艺术家；画家",
+    "acceptedEnglish": [
+      "artist"
+    ],
+    "acceptedChinese": [
+      "艺术家",
+      "画家"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "artist ['ɑ:tist] n."
+    }
+  },
+  {
+    "id": "d4-06",
+    "day": 4,
+    "english": "as",
+    "meaning": "当……时；像……一样；如同；因为；由于；同样地；作为；当作",
+    "acceptedEnglish": [
+      "as"
+    ],
+    "acceptedChinese": [
+      "当……时",
+      "像……一样",
+      "如同",
+      "因为",
+      "由于",
+      "同样地",
+      "作为",
+      "当作"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "as [æz] conj. || as [æz] adv. || as [æz] prep."
+    }
+  },
+  {
+    "id": "d4-07",
+    "day": 4,
+    "english": "as … as",
+    "meaning": "像……一样；如同",
+    "acceptedEnglish": [
+      "as … as",
+      "as ... as"
+    ],
+    "acceptedChinese": [
+      "像……一样",
+      "如同"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "as … as"
+    }
+  },
+  {
+    "id": "d4-08",
+    "day": 4,
+    "english": "Asia",
+    "meaning": "亚洲",
+    "acceptedEnglish": [
+      "Asia"
+    ],
+    "acceptedChinese": [
+      "亚洲"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "Asia ['eɪʃə] n."
+    }
+  },
+  {
+    "id": "d4-09",
+    "day": 4,
+    "english": "ask",
+    "meaning": "问；请求；要求",
+    "acceptedEnglish": [
+      "ask"
+    ],
+    "acceptedChinese": [
+      "问",
+      "请求",
+      "要求"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "ask [ɑ:sk] v."
+    }
+  },
+  {
+    "id": "d4-10",
+    "day": 4,
+    "english": "ask for",
+    "meaning": "请求；寻求",
+    "acceptedEnglish": [
+      "ask for"
+    ],
+    "acceptedChinese": [
+      "请求",
+      "寻求"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "ask for"
+    }
+  },
+  {
+    "id": "d4-11",
+    "day": 4,
+    "english": "assistant",
+    "meaning": "助手；助理",
+    "acceptedEnglish": [
+      "assistant"
+    ],
+    "acceptedChinese": [
+      "助手",
+      "助理"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "assistant [əˈsɪstənt] n."
+    }
+  },
+  {
+    "id": "d4-12",
+    "day": 4,
+    "english": "at",
+    "meaning": "在",
+    "acceptedEnglish": [
+      "at"
+    ],
+    "acceptedChinese": [
+      "在"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "at [æt] prep."
+    }
+  },
+  {
+    "id": "d4-13",
+    "day": 4,
+    "english": "the Atlantic",
+    "meaning": "大西洋",
+    "acceptedEnglish": [
+      "the Atlantic"
+    ],
+    "acceptedChinese": [
+      "大西洋"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "the Atlantic [ætˈlæntɪk]\nn."
+    }
+  },
+  {
+    "id": "d4-14",
+    "day": 4,
+    "english": "are",
+    "meaning": "是",
+    "acceptedEnglish": [
+      "are"
+    ],
+    "acceptedChinese": [
+      "是"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "are [ɑ:] v."
+    }
+  },
+  {
+    "id": "d4-15",
+    "day": 4,
+    "english": "aren't",
+    "meaning": "are not的缩写形式；不是",
+    "acceptedEnglish": [
+      "aren't"
+    ],
+    "acceptedChinese": [
+      "are not的缩写形式",
+      "不是"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "aren't [ɑ:nt]"
+    }
+  },
+  {
+    "id": "d4-16",
+    "day": 4,
+    "english": "attack",
+    "meaning": "进攻；攻击",
+    "acceptedEnglish": [
+      "attack"
+    ],
+    "acceptedChinese": [
+      "进攻",
+      "攻击"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "attack [ə'tæk] v."
+    }
+  },
+  {
+    "id": "d4-17",
+    "day": 4,
+    "english": "attend",
+    "meaning": "出席；参加",
+    "acceptedEnglish": [
+      "attend"
+    ],
+    "acceptedChinese": [
+      "出席",
+      "参加"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "attend [əˈtend] v."
+    }
+  },
+  {
+    "id": "d4-18",
+    "day": 4,
+    "english": "attract",
+    "meaning": "吸引",
+    "acceptedEnglish": [
+      "attract"
+    ],
+    "acceptedChinese": [
+      "吸引"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "attract [ə'trækt] v"
+    }
+  },
+  {
+    "id": "d4-19",
+    "day": 4,
+    "english": "attraction",
+    "meaning": "吸引；吸引力；吸引物",
+    "acceptedEnglish": [
+      "attraction"
+    ],
+    "acceptedChinese": [
+      "吸引",
+      "吸引力",
+      "吸引物"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "attraction [əˈtrækʃn] n."
+    }
+  },
+  {
+    "id": "d4-20",
+    "day": 4,
+    "english": "attractive",
+    "meaning": "有吸引力的",
+    "acceptedEnglish": [
+      "attractive"
+    ],
+    "acceptedChinese": [
+      "有吸引力的"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "attractive [əˈtræktɪv]\nadj."
+    }
+  },
+  {
+    "id": "d4-21",
+    "day": 4,
+    "english": "August",
+    "meaning": "八月",
+    "acceptedEnglish": [
+      "August"
+    ],
+    "acceptedChinese": [
+      "八月"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "August [ɔ:'gʌst] n."
+    }
+  },
+  {
+    "id": "d4-22",
+    "day": 4,
+    "english": "at the end of (August)",
+    "meaning": "在八月底",
+    "acceptedEnglish": [
+      "at the end of (August)",
+      "at the end of August"
+    ],
+    "acceptedChinese": [
+      "在八月底"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "at the end of (August)"
+    }
+  },
+  {
+    "id": "d4-23",
+    "day": 4,
+    "english": "aunt",
+    "meaning": "姑；姨；婶母；舅母",
+    "acceptedEnglish": [
+      "aunt"
+    ],
+    "acceptedChinese": [
+      "姑",
+      "姨",
+      "婶母",
+      "舅母"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "aunt [ɑ:nt] n."
+    }
+  },
+  {
+    "id": "d4-24",
+    "day": 4,
+    "english": "Australia",
+    "meaning": "澳大利亚",
+    "acceptedEnglish": [
+      "Australia"
+    ],
+    "acceptedChinese": [
+      "澳大利亚"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "Australia [ɒˈstreɪliə] n."
+    }
+  },
+  {
+    "id": "d4-25",
+    "day": 4,
+    "english": "Australian",
+    "meaning": "澳大利亚的；澳大利亚人",
+    "acceptedEnglish": [
+      "Australian"
+    ],
+    "acceptedChinese": [
+      "澳大利亚的",
+      "澳大利亚人"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "Australian [ɒˈstreɪliən]\nadj. || Australian [ɒˈstreɪliən]\nn."
+    }
+  },
+  {
+    "id": "d4-26",
+    "day": 4,
+    "english": "author",
+    "meaning": "著者；作家",
+    "acceptedEnglish": [
+      "author"
+    ],
+    "acceptedChinese": [
+      "著者",
+      "作家"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "author [ˈɔːθə(r)] n."
+    }
+  },
+  {
+    "id": "d4-27",
+    "day": 4,
+    "english": "automatic",
+    "meaning": "自动的",
+    "acceptedEnglish": [
+      "automatic"
+    ],
+    "acceptedChinese": [
+      "自动的"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "automatic [ˌɔːtəˈmætɪk]\nadj."
+    }
+  },
+  {
+    "id": "d4-28",
+    "day": 4,
+    "english": "autumn",
+    "meaning": "秋天；秋季",
+    "acceptedEnglish": [
+      "autumn"
+    ],
+    "acceptedChinese": [
+      "秋天",
+      "秋季"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "autumn ['ɔ:təm] n."
+    }
+  },
+  {
+    "id": "d4-29",
+    "day": 4,
+    "english": "available",
+    "meaning": "可用的；可得到的",
+    "acceptedEnglish": [
+      "available"
+    ],
+    "acceptedChinese": [
+      "可用的",
+      "可得到的"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "available [əˈveɪləbl]adj."
+    }
+  },
+  {
+    "id": "d4-30",
+    "day": 4,
+    "english": "average",
+    "meaning": "平均；平均的；平均数",
+    "acceptedEnglish": [
+      "average"
+    ],
+    "acceptedChinese": [
+      "平均",
+      "平均的",
+      "平均数"
+    ],
+    "note": "原中文“平均；平得到的”疑为排版错误；保留明确的平均义并补充标准释义“平均数”，待教师核对。",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "average [ˈævərɪdʒ] n. || average [ˈævərɪdʒ] adj."
+    }
+  },
+  {
+    "id": "d4-31",
+    "day": 4,
+    "english": "on average",
+    "meaning": "按平均值；通常",
+    "acceptedEnglish": [
+      "on average"
+    ],
+    "acceptedChinese": [
+      "按平均值",
+      "通常"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "on average"
+    }
+  },
+  {
+    "id": "d4-32",
+    "day": 4,
+    "english": "award",
+    "meaning": "授予；奖；奖品",
+    "acceptedEnglish": [
+      "award"
+    ],
+    "acceptedChinese": [
+      "授予",
+      "奖",
+      "奖品"
+    ],
+    "note": "",
+    "source": {
+      "page": 2,
+      "day": 4,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "award [əˈwɔːd] v. n."
+    }
+  },
+  {
+    "id": "d5-01",
+    "day": 5,
+    "english": "away",
+    "meaning": "离开；远离",
+    "acceptedEnglish": [
+      "away"
+    ],
+    "acceptedChinese": [
+      "离开",
+      "远离"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "away [ə'wei] adv."
+    }
+  },
+  {
+    "id": "d5-02",
+    "day": 5,
+    "english": "awful",
+    "meaning": "可怕的",
+    "acceptedEnglish": [
+      "awful"
+    ],
+    "acceptedChinese": [
+      "可怕的"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "awful [ˈɔːfl] adj."
+    }
+  },
+  {
+    "id": "d5-03",
+    "day": 5,
+    "english": "baby",
+    "meaning": "婴儿",
+    "acceptedEnglish": [
+      "baby"
+    ],
+    "acceptedChinese": [
+      "婴儿"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "baby [ˈbeɪbi] n."
+    }
+  },
+  {
+    "id": "d5-04",
+    "day": 5,
+    "english": "back",
+    "meaning": "向后；回原处；背；背后；后部",
+    "acceptedEnglish": [
+      "back"
+    ],
+    "acceptedChinese": [
+      "向后",
+      "回原处",
+      "背",
+      "背后",
+      "后部"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "back [bæk] n. || back [bæk] adv."
+    }
+  },
+  {
+    "id": "d5-05",
+    "day": 5,
+    "english": "get back",
+    "meaning": "返回",
+    "acceptedEnglish": [
+      "get back"
+    ],
+    "acceptedChinese": [
+      "返回"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "get back"
+    }
+  },
+  {
+    "id": "d5-06",
+    "day": 5,
+    "english": "bad",
+    "meaning": "糟糕；可惜；坏的；严重的",
+    "acceptedEnglish": [
+      "bad"
+    ],
+    "acceptedChinese": [
+      "糟糕",
+      "可惜",
+      "坏的",
+      "严重的"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "bad [bæd] adj."
+    }
+  },
+  {
+    "id": "d5-07",
+    "day": 5,
+    "english": "be bad for",
+    "meaning": "有害于",
+    "acceptedEnglish": [
+      "be bad for"
+    ],
+    "acceptedChinese": [
+      "有害于"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "be bad for"
+    }
+  },
+  {
+    "id": "d5-08",
+    "day": 5,
+    "english": "bag",
+    "meaning": "书包；提包；袋子",
+    "acceptedEnglish": [
+      "bag"
+    ],
+    "acceptedChinese": [
+      "书包",
+      "提包",
+      "袋子"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "bag [bæg] n."
+    }
+  },
+  {
+    "id": "d5-09",
+    "day": 5,
+    "english": "balance",
+    "meaning": "平衡",
+    "acceptedEnglish": [
+      "balance"
+    ],
+    "acceptedChinese": [
+      "平衡"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "balance [ˈbæləns] n."
+    }
+  },
+  {
+    "id": "d5-10",
+    "day": 5,
+    "english": "ball",
+    "meaning": "球",
+    "acceptedEnglish": [
+      "ball"
+    ],
+    "acceptedChinese": [
+      "球"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "ball [bɔ:l] n"
+    }
+  },
+  {
+    "id": "d5-11",
+    "day": 5,
+    "english": "balloon",
+    "meaning": "气球",
+    "acceptedEnglish": [
+      "balloon"
+    ],
+    "acceptedChinese": [
+      "气球"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "balloon [bəˈluːn] n."
+    }
+  },
+  {
+    "id": "d5-12",
+    "day": 5,
+    "english": "banana",
+    "meaning": "香蕉",
+    "acceptedEnglish": [
+      "banana"
+    ],
+    "acceptedChinese": [
+      "香蕉"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "banana [bəˈnɑːnə]\nn.香蕉"
+    }
+  },
+  {
+    "id": "d5-13",
+    "day": 5,
+    "english": "bank",
+    "meaning": "银行",
+    "acceptedEnglish": [
+      "bank"
+    ],
+    "acceptedChinese": [
+      "银行"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "bank [bæŋk] n."
+    }
+  },
+  {
+    "id": "d5-14",
+    "day": 5,
+    "english": "bar",
+    "meaning": "酒吧",
+    "acceptedEnglish": [
+      "bar"
+    ],
+    "acceptedChinese": [
+      "酒吧"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "bar [bɑː(r)] n."
+    }
+  },
+  {
+    "id": "d5-15",
+    "day": 5,
+    "english": "base",
+    "meaning": "基地；基础",
+    "acceptedEnglish": [
+      "base"
+    ],
+    "acceptedChinese": [
+      "基地",
+      "基础"
+    ],
+    "note": "两份资料词性不一致：英文标 v.，中文为 n. 基地；基础。本条按中文名词义，待教师核对。",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "base [beis] v."
+    }
+  },
+  {
+    "id": "d5-16",
+    "day": 5,
+    "english": "basket",
+    "meaning": "篮子",
+    "acceptedEnglish": [
+      "basket"
+    ],
+    "acceptedChinese": [
+      "篮子"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "basket ['bɑ:skit] n."
+    }
+  },
+  {
+    "id": "d5-17",
+    "day": 5,
+    "english": "basketball",
+    "meaning": "篮球",
+    "acceptedEnglish": [
+      "basketball"
+    ],
+    "acceptedChinese": [
+      "篮球"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "basketball ['bæskitbɔ:l]\nn."
+    }
+  },
+  {
+    "id": "d5-18",
+    "day": 5,
+    "english": "bat",
+    "meaning": "球拍",
+    "acceptedEnglish": [
+      "bat"
+    ],
+    "acceptedChinese": [
+      "球拍"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "bat [bæt] n."
+    }
+  },
+  {
+    "id": "d5-19",
+    "day": 5,
+    "english": "bath",
+    "meaning": "洗澡",
+    "acceptedEnglish": [
+      "bath"
+    ],
+    "acceptedChinese": [
+      "洗澡"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "bath [bɑːθ] n."
+    }
+  },
+  {
+    "id": "d5-20",
+    "day": 5,
+    "english": "battle",
+    "meaning": "战争；战役",
+    "acceptedEnglish": [
+      "battle"
+    ],
+    "acceptedChinese": [
+      "战争",
+      "战役"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "battle [ˈbætl] n."
+    }
+  },
+  {
+    "id": "d5-21",
+    "day": 5,
+    "english": "be",
+    "meaning": "是；成为",
+    "acceptedEnglish": [
+      "be"
+    ],
+    "acceptedChinese": [
+      "是",
+      "成为"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "be [bi:] v(am, is, are)"
+    }
+  },
+  {
+    "id": "d5-22",
+    "day": 5,
+    "english": "beach",
+    "meaning": "海滩",
+    "acceptedEnglish": [
+      "beach"
+    ],
+    "acceptedChinese": [
+      "海滩"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "beach [bi:tʃ] n."
+    }
+  },
+  {
+    "id": "d5-23",
+    "day": 5,
+    "english": "beat",
+    "meaning": "敲打；打败；心跳；跳动",
+    "acceptedEnglish": [
+      "beat"
+    ],
+    "acceptedChinese": [
+      "敲打",
+      "打败",
+      "心跳",
+      "跳动"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "beat [bi:t] v."
+    }
+  },
+  {
+    "id": "d5-24",
+    "day": 5,
+    "english": "bear",
+    "meaning": "熊",
+    "acceptedEnglish": [
+      "bear"
+    ],
+    "acceptedChinese": [
+      "熊"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "bear [bɛə] n."
+    }
+  },
+  {
+    "id": "d5-25",
+    "day": 5,
+    "english": "beautiful",
+    "meaning": "美丽的",
+    "acceptedEnglish": [
+      "beautiful"
+    ],
+    "acceptedChinese": [
+      "美丽的"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "beautiful ['bju:təfəl] adj."
+    }
+  },
+  {
+    "id": "d5-26",
+    "day": 5,
+    "english": "beautifully",
+    "meaning": "优美地",
+    "acceptedEnglish": [
+      "beautifully"
+    ],
+    "acceptedChinese": [
+      "优美地"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "beautifully ['bju: təfəl]\nadv."
+    }
+  },
+  {
+    "id": "d5-27",
+    "day": 5,
+    "english": "because",
+    "meaning": "因为",
+    "acceptedEnglish": [
+      "because"
+    ],
+    "acceptedChinese": [
+      "因为"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "because [bi'kɔ:z] conj."
+    }
+  },
+  {
+    "id": "d5-28",
+    "day": 5,
+    "english": "because of",
+    "meaning": "由于",
+    "acceptedEnglish": [
+      "because of"
+    ],
+    "acceptedChinese": [
+      "由于"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "because of"
+    }
+  },
+  {
+    "id": "d5-29",
+    "day": 5,
+    "english": "become",
+    "meaning": "变得；成为",
+    "acceptedEnglish": [
+      "become"
+    ],
+    "acceptedChinese": [
+      "变得",
+      "成为"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "become [bi'kʌm] v."
+    }
+  },
+  {
+    "id": "d5-30",
+    "day": 5,
+    "english": "bed",
+    "meaning": "床",
+    "acceptedEnglish": [
+      "bed"
+    ],
+    "acceptedChinese": [
+      "床"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "bed [bed] n."
+    }
+  },
+  {
+    "id": "d5-31",
+    "day": 5,
+    "english": "go to bed",
+    "meaning": "就寝；上床睡觉",
+    "acceptedEnglish": [
+      "go to bed"
+    ],
+    "acceptedChinese": [
+      "就寝",
+      "上床睡觉"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "go to bed"
+    }
+  },
+  {
+    "id": "d5-32",
+    "day": 5,
+    "english": "make the bed",
+    "meaning": "整理床铺",
+    "acceptedEnglish": [
+      "make the bed"
+    ],
+    "acceptedChinese": [
+      "整理床铺"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "make the bed"
+    }
+  },
+  {
+    "id": "d5-33",
+    "day": 5,
+    "english": "bedroom",
+    "meaning": "卧室",
+    "acceptedEnglish": [
+      "bedroom"
+    ],
+    "acceptedChinese": [
+      "卧室"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 5,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 33,
+      "rawEnglish": "bedroom ['bedrum] n."
+    }
+  },
+  {
+    "id": "d6-01",
+    "day": 6,
+    "english": "beer",
+    "meaning": "啤酒",
+    "acceptedEnglish": [
+      "beer"
+    ],
+    "acceptedChinese": [
+      "啤酒"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "beer [biə] n."
+    }
+  },
+  {
+    "id": "d6-02",
+    "day": 6,
+    "english": "before",
+    "meaning": "在前面；在以前；以前；在……之前",
+    "acceptedEnglish": [
+      "before"
+    ],
+    "acceptedChinese": [
+      "在前面",
+      "在以前",
+      "以前",
+      "在……之前"
+    ],
+    "note": "合并中文表额外列出的连词义。",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "before [bi'fɔ:] prep. || before [bi'fɔ:] adv."
+    }
+  },
+  {
+    "id": "d6-03",
+    "day": 6,
+    "english": "beg",
+    "meaning": "请求",
+    "acceptedEnglish": [
+      "beg"
+    ],
+    "acceptedChinese": [
+      "请求"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "beg [beg] v."
+    }
+  },
+  {
+    "id": "d6-04",
+    "day": 6,
+    "english": "begin",
+    "meaning": "开始；着手",
+    "acceptedEnglish": [
+      "begin"
+    ],
+    "acceptedChinese": [
+      "开始",
+      "着手"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "begin [bi'gin] v."
+    }
+  },
+  {
+    "id": "d6-05",
+    "day": 6,
+    "english": "beginning",
+    "meaning": "开始；开端",
+    "acceptedEnglish": [
+      "beginning"
+    ],
+    "acceptedChinese": [
+      "开始",
+      "开端"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "beginning [bi'giniŋ] n."
+    }
+  },
+  {
+    "id": "d6-06",
+    "day": 6,
+    "english": "behind",
+    "meaning": "在后面；向后",
+    "acceptedEnglish": [
+      "behind"
+    ],
+    "acceptedChinese": [
+      "在后面",
+      "向后"
+    ],
+    "note": "中文“在后同”按明显排印错误规范为“在后面”。",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "behind [bi'haind] prep. || behind [bi'haind] adv."
+    }
+  },
+  {
+    "id": "d6-07",
+    "day": 6,
+    "english": "being",
+    "meaning": "人；生物",
+    "acceptedEnglish": [
+      "being"
+    ],
+    "acceptedChinese": [
+      "人",
+      "生物"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "being [ˈbiːɪŋ] n."
+    }
+  },
+  {
+    "id": "d6-08",
+    "day": 6,
+    "english": "for the time being",
+    "meaning": "暂时；眼下",
+    "acceptedEnglish": [
+      "for the time being"
+    ],
+    "acceptedChinese": [
+      "暂时",
+      "眼下"
+    ],
+    "note": "原英文误作 from the time being，已更正为 for the time being。",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "from the time being"
+    }
+  },
+  {
+    "id": "d6-09",
+    "day": 6,
+    "english": "believe",
+    "meaning": "相信；认为",
+    "acceptedEnglish": [
+      "believe"
+    ],
+    "acceptedChinese": [
+      "相信",
+      "认为"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "believe [bi'li:v] v."
+    }
+  },
+  {
+    "id": "d6-10",
+    "day": 6,
+    "english": "bell",
+    "meaning": "钟；铃",
+    "acceptedEnglish": [
+      "bell"
+    ],
+    "acceptedChinese": [
+      "钟",
+      "铃"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "bell [bel] n."
+    }
+  },
+  {
+    "id": "d6-11",
+    "day": 6,
+    "english": "belong",
+    "meaning": "属；附属",
+    "acceptedEnglish": [
+      "belong"
+    ],
+    "acceptedChinese": [
+      "属",
+      "附属"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "belong [bɪˈlɒŋ] v."
+    }
+  },
+  {
+    "id": "d6-12",
+    "day": 6,
+    "english": "belong to",
+    "meaning": "属于",
+    "acceptedEnglish": [
+      "belong to"
+    ],
+    "acceptedChinese": [
+      "属于"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "belong to"
+    }
+  },
+  {
+    "id": "d6-13",
+    "day": 6,
+    "english": "below",
+    "meaning": "在下面",
+    "acceptedEnglish": [
+      "below"
+    ],
+    "acceptedChinese": [
+      "在下面"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "below [bi'ləu] prep."
+    }
+  },
+  {
+    "id": "d6-14",
+    "day": 6,
+    "english": "belt",
+    "meaning": "带子",
+    "acceptedEnglish": [
+      "belt"
+    ],
+    "acceptedChinese": [
+      "带子"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "belt [belt] n."
+    }
+  },
+  {
+    "id": "d6-15",
+    "day": 6,
+    "english": "beside",
+    "meaning": "在旁；靠边；在旁边",
+    "acceptedEnglish": [
+      "beside"
+    ],
+    "acceptedChinese": [
+      "在旁",
+      "靠边",
+      "在旁边"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "beside [bi'said] prep."
+    }
+  },
+  {
+    "id": "d6-16",
+    "day": 6,
+    "english": "besides",
+    "meaning": "除了",
+    "acceptedEnglish": [
+      "besides"
+    ],
+    "acceptedChinese": [
+      "除了"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "besides [bɪˈsaɪdz] prep."
+    }
+  },
+  {
+    "id": "d6-17",
+    "day": 6,
+    "english": "best",
+    "meaning": "最好的；最好地；最好的人；最好的物",
+    "acceptedEnglish": [
+      "best"
+    ],
+    "acceptedChinese": [
+      "最好的",
+      "最好地",
+      "最好的人",
+      "最好的物"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "best [best] adj. || best [best] adv. || best [best] n."
+    }
+  },
+  {
+    "id": "d6-18",
+    "day": 6,
+    "english": "do one's best",
+    "meaning": "尽最大努力",
+    "acceptedEnglish": [
+      "do one's best"
+    ],
+    "acceptedChinese": [
+      "尽最大努力"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "do one’s best"
+    }
+  },
+  {
+    "id": "d6-19",
+    "day": 6,
+    "english": "better",
+    "meaning": "较好的；更好的",
+    "acceptedEnglish": [
+      "better"
+    ],
+    "acceptedChinese": [
+      "较好的",
+      "更好的"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "better['betə]adj."
+    }
+  },
+  {
+    "id": "d6-20",
+    "day": 6,
+    "english": "had better",
+    "meaning": "最好还是；还是……好",
+    "acceptedEnglish": [
+      "had better"
+    ],
+    "acceptedChinese": [
+      "最好还是",
+      "还是……好"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "had better"
+    }
+  },
+  {
+    "id": "d6-21",
+    "day": 6,
+    "english": "between",
+    "meaning": "在两者之间",
+    "acceptedEnglish": [
+      "between"
+    ],
+    "acceptedChinese": [
+      "在两者之间"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "between [bi'twi:n] prep."
+    }
+  },
+  {
+    "id": "d6-22",
+    "day": 6,
+    "english": "bicycle",
+    "meaning": "自行车",
+    "acceptedEnglish": [
+      "bicycle",
+      "bike"
+    ],
+    "acceptedChinese": [
+      "自行车"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "bicycle [ˈbaɪsɪkl] /bike\n[baik] n."
+    }
+  },
+  {
+    "id": "d6-23",
+    "day": 6,
+    "english": "big",
+    "meaning": "大的",
+    "acceptedEnglish": [
+      "big"
+    ],
+    "acceptedChinese": [
+      "大的"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "big [big] adj."
+    }
+  },
+  {
+    "id": "d6-24",
+    "day": 6,
+    "english": "bill",
+    "meaning": "钞票；纸币；账单",
+    "acceptedEnglish": [
+      "bill"
+    ],
+    "acceptedChinese": [
+      "钞票",
+      "纸币",
+      "账单"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "bill [bɪl] n."
+    }
+  },
+  {
+    "id": "d6-25",
+    "day": 6,
+    "english": "bin",
+    "meaning": "箱子；垃圾箱",
+    "acceptedEnglish": [
+      "bin"
+    ],
+    "acceptedChinese": [
+      "箱子",
+      "垃圾箱"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "bin [bɪn] n."
+    }
+  },
+  {
+    "id": "d6-26",
+    "day": 6,
+    "english": "bird",
+    "meaning": "鸟",
+    "acceptedEnglish": [
+      "bird"
+    ],
+    "acceptedChinese": [
+      "鸟"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "bird [bɜːd] n."
+    }
+  },
+  {
+    "id": "d6-27",
+    "day": 6,
+    "english": "birthday",
+    "meaning": "生日",
+    "acceptedEnglish": [
+      "birthday"
+    ],
+    "acceptedChinese": [
+      "生日"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "birthday ['bə:θdei] n."
+    }
+  },
+  {
+    "id": "d6-28",
+    "day": 6,
+    "english": "biscuit",
+    "meaning": "饼干",
+    "acceptedEnglish": [
+      "biscuit"
+    ],
+    "acceptedChinese": [
+      "饼干"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "biscuit [ˈbɪskɪt] n."
+    }
+  },
+  {
+    "id": "d6-29",
+    "day": 6,
+    "english": "bit",
+    "meaning": "一点；一些",
+    "acceptedEnglish": [
+      "bit"
+    ],
+    "acceptedChinese": [
+      "一点",
+      "一些"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "bit [bit] n."
+    }
+  },
+  {
+    "id": "d6-30",
+    "day": 6,
+    "english": "a bit (of)",
+    "meaning": "有一点儿；一点儿",
+    "acceptedEnglish": [
+      "a bit (of)",
+      "a bit",
+      "a bit of"
+    ],
+    "acceptedChinese": [
+      "有一点儿",
+      "一点儿"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "a bit (of)"
+    }
+  },
+  {
+    "id": "d6-31",
+    "day": 6,
+    "english": "bite",
+    "meaning": "咬",
+    "acceptedEnglish": [
+      "bite"
+    ],
+    "acceptedChinese": [
+      "咬"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "bite [baɪt] (bit,bitten/bit)\nv."
+    }
+  },
+  {
+    "id": "d6-32",
+    "day": 6,
+    "english": "black",
+    "meaning": "黑色；黑色的",
+    "acceptedEnglish": [
+      "black"
+    ],
+    "acceptedChinese": [
+      "黑色",
+      "黑色的"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "black [blæk] adj. || black [blæk] n."
+    }
+  },
+  {
+    "id": "d6-33",
+    "day": 6,
+    "english": "blackboard",
+    "meaning": "黑板",
+    "acceptedEnglish": [
+      "blackboard"
+    ],
+    "acceptedChinese": [
+      "黑板"
+    ],
+    "note": "",
+    "source": {
+      "page": 3,
+      "day": 6,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 33,
+      "rawEnglish": "blackboard ['blækbɔ:d]\nn."
+    }
+  },
+  {
+    "id": "d7-01",
+    "day": 7,
+    "english": "blanket",
+    "meaning": "毯子",
+    "acceptedEnglish": [
+      "blanket"
+    ],
+    "acceptedChinese": [
+      "毯子"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "blanket [ˈblæŋkɪt] n."
+    }
+  },
+  {
+    "id": "d7-02",
+    "day": 7,
+    "english": "blind",
+    "meaning": "瞎的；盲人",
+    "acceptedEnglish": [
+      "blind"
+    ],
+    "acceptedChinese": [
+      "瞎的",
+      "盲人"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "blind [blaind] adj. || blind [blaind] n."
+    }
+  },
+  {
+    "id": "d7-03",
+    "day": 7,
+    "english": "block",
+    "meaning": "一排房屋；街区；大块",
+    "acceptedEnglish": [
+      "block"
+    ],
+    "acceptedChinese": [
+      "一排房屋",
+      "街区",
+      "大块"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "block [blɒk] n."
+    }
+  },
+  {
+    "id": "d7-04",
+    "day": 7,
+    "english": "blow",
+    "meaning": "吹；刮风；吹气",
+    "acceptedEnglish": [
+      "blow"
+    ],
+    "acceptedChinese": [
+      "吹",
+      "刮风",
+      "吹气"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "blow [bləʊ] (blew\n,blown) v."
+    }
+  },
+  {
+    "id": "d7-05",
+    "day": 7,
+    "english": "blue",
+    "meaning": "蓝色；蓝色的",
+    "acceptedEnglish": [
+      "blue"
+    ],
+    "acceptedChinese": [
+      "蓝色",
+      "蓝色的"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "blue [blu:] adj. || blue [blu:] n."
+    }
+  },
+  {
+    "id": "d7-06",
+    "day": 7,
+    "english": "board",
+    "meaning": "板；木板；登上；登；上",
+    "acceptedEnglish": [
+      "board"
+    ],
+    "acceptedChinese": [
+      "板",
+      "木板",
+      "登上",
+      "登",
+      "上"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "board [bɔːd] n. || board [bɔːd] v."
+    }
+  },
+  {
+    "id": "d7-07",
+    "day": 7,
+    "english": "boat",
+    "meaning": "划船",
+    "acceptedEnglish": [
+      "boat"
+    ],
+    "acceptedChinese": [
+      "划船"
+    ],
+    "note": "中文表仅给划船义；英文标 n/v，未据此猜补名词义。",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "boat [bəut] n/v."
+    }
+  },
+  {
+    "id": "d7-08",
+    "day": 7,
+    "english": "body",
+    "meaning": "身体；躯体",
+    "acceptedEnglish": [
+      "body"
+    ],
+    "acceptedChinese": [
+      "身体",
+      "躯体"
+    ],
+    "note": "中文表 body 后额外列“v. 煮”，英文表无对应词，未混入本词；该孤立项待核对。",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "body ['bɔdi] n."
+    }
+  },
+  {
+    "id": "d7-09",
+    "day": 7,
+    "english": "bone",
+    "meaning": "骨头",
+    "acceptedEnglish": [
+      "bone"
+    ],
+    "acceptedChinese": [
+      "骨头"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "bone [bəʊn] n."
+    }
+  },
+  {
+    "id": "d7-10",
+    "day": 7,
+    "english": "book",
+    "meaning": "书；本子；预订",
+    "acceptedEnglish": [
+      "book"
+    ],
+    "acceptedChinese": [
+      "书",
+      "本子",
+      "预订"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "book [buk] n. || book [buk] v."
+    }
+  },
+  {
+    "id": "d7-11",
+    "day": 7,
+    "english": "boring",
+    "meaning": "令人讨烦的",
+    "acceptedEnglish": [
+      "boring"
+    ],
+    "acceptedChinese": [
+      "令人讨烦的"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "boring ['bɔ:riŋ] adj."
+    }
+  },
+  {
+    "id": "d7-12",
+    "day": 7,
+    "english": "born",
+    "meaning": "出生",
+    "acceptedEnglish": [
+      "born"
+    ],
+    "acceptedChinese": [
+      "出生"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "born [bɔ:n]v."
+    }
+  },
+  {
+    "id": "d7-13",
+    "day": 7,
+    "english": "be born",
+    "meaning": "出生于",
+    "acceptedEnglish": [
+      "be born"
+    ],
+    "acceptedChinese": [
+      "出生于"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "be born"
+    }
+  },
+  {
+    "id": "d7-14",
+    "day": 7,
+    "english": "borrow",
+    "meaning": "借；借用",
+    "acceptedEnglish": [
+      "borrow"
+    ],
+    "acceptedChinese": [
+      "借",
+      "借用"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "borrow ['bɔrəu] v."
+    }
+  },
+  {
+    "id": "d7-15",
+    "day": 7,
+    "english": "both",
+    "meaning": "两者都；两个都",
+    "acceptedEnglish": [
+      "both"
+    ],
+    "acceptedChinese": [
+      "两者都",
+      "两个都"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "both [bəuθ] adj &adv. || both [bəuθ] pron."
+    }
+  },
+  {
+    "id": "d7-16",
+    "day": 7,
+    "english": "both … and …",
+    "meaning": "两者都",
+    "acceptedEnglish": [
+      "both … and …",
+      "both ... and ...",
+      "both and"
+    ],
+    "acceptedChinese": [
+      "两者都"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "both … and …"
+    }
+  },
+  {
+    "id": "d7-17",
+    "day": 7,
+    "english": "bottle",
+    "meaning": "瓶",
+    "acceptedEnglish": [
+      "bottle"
+    ],
+    "acceptedChinese": [
+      "瓶"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "bottle ['bɔtl] n."
+    }
+  },
+  {
+    "id": "d7-18",
+    "day": 7,
+    "english": "bottom",
+    "meaning": "底部",
+    "acceptedEnglish": [
+      "bottom"
+    ],
+    "acceptedChinese": [
+      "底部"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "bottom [ˈbɒtəm] n."
+    }
+  },
+  {
+    "id": "d7-19",
+    "day": 7,
+    "english": "bowl",
+    "meaning": "碗",
+    "acceptedEnglish": [
+      "bowl"
+    ],
+    "acceptedChinese": [
+      "碗"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "bowl [bəul] n."
+    }
+  },
+  {
+    "id": "d7-20",
+    "day": 7,
+    "english": "box",
+    "meaning": "箱；盒",
+    "acceptedEnglish": [
+      "box"
+    ],
+    "acceptedChinese": [
+      "箱",
+      "盒"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "box [bɔks] n."
+    }
+  },
+  {
+    "id": "d7-21",
+    "day": 7,
+    "english": "boy",
+    "meaning": "男孩",
+    "acceptedEnglish": [
+      "boy"
+    ],
+    "acceptedChinese": [
+      "男孩"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "boy [bɔi] n."
+    }
+  },
+  {
+    "id": "d7-22",
+    "day": 7,
+    "english": "brave",
+    "meaning": "勇敢的",
+    "acceptedEnglish": [
+      "brave"
+    ],
+    "acceptedChinese": [
+      "勇敢的"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "brave [breɪv] adj."
+    }
+  },
+  {
+    "id": "d7-23",
+    "day": 7,
+    "english": "bread",
+    "meaning": "面包",
+    "acceptedEnglish": [
+      "bread"
+    ],
+    "acceptedChinese": [
+      "面包"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "bread [bred] n."
+    }
+  },
+  {
+    "id": "d7-24",
+    "day": 7,
+    "english": "break",
+    "meaning": "休息；打破；打断",
+    "acceptedEnglish": [
+      "break"
+    ],
+    "acceptedChinese": [
+      "休息",
+      "打破",
+      "打断"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "break [breik] n. || break [breik]\nv.(broke,broken) v."
+    }
+  },
+  {
+    "id": "d7-25",
+    "day": 7,
+    "english": "break into",
+    "meaning": "闯入；破门而入",
+    "acceptedEnglish": [
+      "break into"
+    ],
+    "acceptedChinese": [
+      "闯入",
+      "破门而入"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "break into"
+    }
+  },
+  {
+    "id": "d7-26",
+    "day": 7,
+    "english": "breakfast",
+    "meaning": "早饭",
+    "acceptedEnglish": [
+      "breakfast"
+    ],
+    "acceptedChinese": [
+      "早饭"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "breakfast ['brekfəst] n."
+    }
+  },
+  {
+    "id": "d7-27",
+    "day": 7,
+    "english": "at breakfast /lunch /supper",
+    "meaning": "早午晚餐时；早餐时；午餐时；晚餐时",
+    "acceptedEnglish": [
+      "at breakfast /lunch /supper",
+      "at breakfast",
+      "at lunch",
+      "at supper"
+    ],
+    "acceptedChinese": [
+      "早午晚餐时",
+      "早餐时",
+      "午餐时",
+      "晚餐时"
+    ],
+    "note": "两表早餐短语顺序不同，已按词义对应。",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "at breakfast /lunch\n/supper"
+    }
+  },
+  {
+    "id": "d7-28",
+    "day": 7,
+    "english": "have breakfast",
+    "meaning": "吃早餐",
+    "acceptedEnglish": [
+      "have breakfast"
+    ],
+    "acceptedChinese": [
+      "吃早餐"
+    ],
+    "note": "两表早餐短语顺序不同，已按词义对应。",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "have breakfast"
+    }
+  },
+  {
+    "id": "d7-29",
+    "day": 7,
+    "english": "breath",
+    "meaning": "呼吸",
+    "acceptedEnglish": [
+      "breath"
+    ],
+    "acceptedChinese": [
+      "呼吸"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "breath [breθ] n."
+    }
+  },
+  {
+    "id": "d7-30",
+    "day": 7,
+    "english": "hold one's breath",
+    "meaning": "屏住呼吸",
+    "acceptedEnglish": [
+      "hold one's breath"
+    ],
+    "acceptedChinese": [
+      "屏住呼吸"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "hold one’s breath"
+    }
+  },
+  {
+    "id": "d7-31",
+    "day": 7,
+    "english": "breathe",
+    "meaning": "呼吸",
+    "acceptedEnglish": [
+      "breathe"
+    ],
+    "acceptedChinese": [
+      "呼吸"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "breathe [bri:ð] v."
+    }
+  },
+  {
+    "id": "d7-32",
+    "day": 7,
+    "english": "bridge",
+    "meaning": "桥",
+    "acceptedEnglish": [
+      "bridge"
+    ],
+    "acceptedChinese": [
+      "桥"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 7,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "bridge [bridʒ] n."
+    }
+  },
+  {
+    "id": "d8-01",
+    "day": 8,
+    "english": "brief",
+    "meaning": "简短的；简洁的",
+    "acceptedEnglish": [
+      "brief"
+    ],
+    "acceptedChinese": [
+      "简短的",
+      "简洁的"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "brief [briːf] adj."
+    }
+  },
+  {
+    "id": "d8-02",
+    "day": 8,
+    "english": "bright",
+    "meaning": "明亮的；聪明的",
+    "acceptedEnglish": [
+      "bright"
+    ],
+    "acceptedChinese": [
+      "明亮的",
+      "聪明的"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "bright [brait] adj."
+    }
+  },
+  {
+    "id": "d8-03",
+    "day": 8,
+    "english": "brightly",
+    "meaning": "明亮地",
+    "acceptedEnglish": [
+      "brightly"
+    ],
+    "acceptedChinese": [
+      "明亮地"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "brightly ['braitli] adv."
+    }
+  },
+  {
+    "id": "d8-04",
+    "day": 8,
+    "english": "bring",
+    "meaning": "带来；拿来",
+    "acceptedEnglish": [
+      "bring"
+    ],
+    "acceptedChinese": [
+      "带来",
+      "拿来"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "bring [briŋ]\nv.(brought,brought)"
+    }
+  },
+  {
+    "id": "d8-05",
+    "day": 8,
+    "english": "Britain",
+    "meaning": "不列颠；英国",
+    "acceptedEnglish": [
+      "Britain"
+    ],
+    "acceptedChinese": [
+      "不列颠",
+      "英国"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "Britain [ˈbrɪtn] n."
+    }
+  },
+  {
+    "id": "d8-06",
+    "day": 8,
+    "english": "British",
+    "meaning": "英国人；英国的",
+    "acceptedEnglish": [
+      "British"
+    ],
+    "acceptedChinese": [
+      "英国人",
+      "英国的"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "British [ˈbrɪtɪʃ] n. || British [ˈbrɪtɪʃ] adj."
+    }
+  },
+  {
+    "id": "d8-07",
+    "day": 8,
+    "english": "broadcast",
+    "meaning": "广播；节目",
+    "acceptedEnglish": [
+      "broadcast"
+    ],
+    "acceptedChinese": [
+      "广播",
+      "节目"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "broadcast [ˈbrɔːdkɑːst] n."
+    }
+  },
+  {
+    "id": "d8-08",
+    "day": 8,
+    "english": "brother",
+    "meaning": "兄弟",
+    "acceptedEnglish": [
+      "brother"
+    ],
+    "acceptedChinese": [
+      "兄弟"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "brother ['brʌðə] n."
+    }
+  },
+  {
+    "id": "d8-09",
+    "day": 8,
+    "english": "brown",
+    "meaning": "棕色的；褐色的；棕色；褐色",
+    "acceptedEnglish": [
+      "brown"
+    ],
+    "acceptedChinese": [
+      "棕色的",
+      "褐色的",
+      "棕色",
+      "褐色"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "brown [braun] adj. || brown [braun] n."
+    }
+  },
+  {
+    "id": "d8-10",
+    "day": 8,
+    "english": "brush",
+    "meaning": "刷子；刷；擦",
+    "acceptedEnglish": [
+      "brush"
+    ],
+    "acceptedChinese": [
+      "刷子",
+      "刷",
+      "擦"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "brush [brʌʃ] n. || brush [brʌʃ] v."
+    }
+  },
+  {
+    "id": "d8-11",
+    "day": 8,
+    "english": "build",
+    "meaning": "建造；建筑",
+    "acceptedEnglish": [
+      "build"
+    ],
+    "acceptedChinese": [
+      "建造",
+      "建筑"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "build [bild] v."
+    }
+  },
+  {
+    "id": "d8-12",
+    "day": 8,
+    "english": "building",
+    "meaning": "建筑物；大楼",
+    "acceptedEnglish": [
+      "building"
+    ],
+    "acceptedChinese": [
+      "建筑物",
+      "大楼"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "building ['bildiŋ] n."
+    }
+  },
+  {
+    "id": "d8-13",
+    "day": 8,
+    "english": "bund",
+    "meaning": "码头；同盟",
+    "acceptedEnglish": [
+      "bund"
+    ],
+    "acceptedChinese": [
+      "码头",
+      "同盟"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "bund [bʌnd] n."
+    }
+  },
+  {
+    "id": "d8-14",
+    "day": 8,
+    "english": "the Bund",
+    "meaning": "外滩",
+    "acceptedEnglish": [
+      "the Bund"
+    ],
+    "acceptedChinese": [
+      "外滩"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "the Bund n."
+    }
+  },
+  {
+    "id": "d8-15",
+    "day": 8,
+    "english": "burn",
+    "meaning": "燃烧",
+    "acceptedEnglish": [
+      "burn"
+    ],
+    "acceptedChinese": [
+      "燃烧"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "burn [bɜːn]\n(burnt/burned,burnt/bur\nned) v."
+    }
+  },
+  {
+    "id": "d8-16",
+    "day": 8,
+    "english": "bus",
+    "meaning": "公共汽车",
+    "acceptedEnglish": [
+      "bus"
+    ],
+    "acceptedChinese": [
+      "公共汽车"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "bus [bʌs] n."
+    }
+  },
+  {
+    "id": "d8-17",
+    "day": 8,
+    "english": "by bus",
+    "meaning": "乘公共汽车",
+    "acceptedEnglish": [
+      "by bus"
+    ],
+    "acceptedChinese": [
+      "乘公共汽车"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "by bus"
+    }
+  },
+  {
+    "id": "d8-18",
+    "day": 8,
+    "english": "business",
+    "meaning": "商业；生意",
+    "acceptedEnglish": [
+      "business"
+    ],
+    "acceptedChinese": [
+      "商业",
+      "生意"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "business ['biznis] n."
+    }
+  },
+  {
+    "id": "d8-19",
+    "day": 8,
+    "english": "on business",
+    "meaning": "有事；出差",
+    "acceptedEnglish": [
+      "on business"
+    ],
+    "acceptedChinese": [
+      "有事",
+      "出差"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "on business"
+    }
+  },
+  {
+    "id": "d8-20",
+    "day": 8,
+    "english": "businessman",
+    "meaning": "商人",
+    "acceptedEnglish": [
+      "businessman"
+    ],
+    "acceptedChinese": [
+      "商人"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "businessman\n['biznismæn] n."
+    }
+  },
+  {
+    "id": "d8-21",
+    "day": 8,
+    "english": "businesswoman",
+    "meaning": "女商人",
+    "acceptedEnglish": [
+      "businesswoman"
+    ],
+    "acceptedChinese": [
+      "女商人"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "businesswoman\n[ˈbɪznəswʊmən] n."
+    }
+  },
+  {
+    "id": "d8-22",
+    "day": 8,
+    "english": "busy",
+    "meaning": "忙",
+    "acceptedEnglish": [
+      "busy"
+    ],
+    "acceptedChinese": [
+      "忙"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "busy ['bizi] adj."
+    }
+  },
+  {
+    "id": "d8-23",
+    "day": 8,
+    "english": "be busy with / doing",
+    "meaning": "忙于做某事",
+    "acceptedEnglish": [
+      "be busy with / doing",
+      "be busy with",
+      "be busy doing"
+    ],
+    "acceptedChinese": [
+      "忙于做某事"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "be busy with / doing"
+    }
+  },
+  {
+    "id": "d8-24",
+    "day": 8,
+    "english": "but",
+    "meaning": "但是",
+    "acceptedEnglish": [
+      "but"
+    ],
+    "acceptedChinese": [
+      "但是"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "but [bʌt] conj."
+    }
+  },
+  {
+    "id": "d8-25",
+    "day": 8,
+    "english": "butter",
+    "meaning": "黄油",
+    "acceptedEnglish": [
+      "butter"
+    ],
+    "acceptedChinese": [
+      "黄油"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "butter [ˈbʌtə(r)] n."
+    }
+  },
+  {
+    "id": "d8-26",
+    "day": 8,
+    "english": "butterfly",
+    "meaning": "蝴蝶",
+    "acceptedEnglish": [
+      "butterfly"
+    ],
+    "acceptedChinese": [
+      "蝴蝶"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "butterfly [ˈbʌtəflaɪ] n."
+    }
+  },
+  {
+    "id": "d8-27",
+    "day": 8,
+    "english": "button",
+    "meaning": "按钮；纽扣",
+    "acceptedEnglish": [
+      "button"
+    ],
+    "acceptedChinese": [
+      "按钮",
+      "纽扣"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "button [ˈbʌtn] n."
+    }
+  },
+  {
+    "id": "d8-28",
+    "day": 8,
+    "english": "buy",
+    "meaning": "购买",
+    "acceptedEnglish": [
+      "buy"
+    ],
+    "acceptedChinese": [
+      "购买"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "buy [bai] v."
+    }
+  },
+  {
+    "id": "d8-29",
+    "day": 8,
+    "english": "by",
+    "meaning": "靠近；在旁边",
+    "acceptedEnglish": [
+      "by"
+    ],
+    "acceptedChinese": [
+      "靠近",
+      "在旁边"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "by [bai] prep."
+    }
+  },
+  {
+    "id": "d8-30",
+    "day": 8,
+    "english": "by oneself",
+    "meaning": "亲自",
+    "acceptedEnglish": [
+      "by oneself"
+    ],
+    "acceptedChinese": [
+      "亲自"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "by oneself"
+    }
+  },
+  {
+    "id": "d8-31",
+    "day": 8,
+    "english": "bye",
+    "meaning": "再见",
+    "acceptedEnglish": [
+      "bye"
+    ],
+    "acceptedChinese": [
+      "再见"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "bye [baɪ] int."
+    }
+  },
+  {
+    "id": "d8-32",
+    "day": 8,
+    "english": "cabbage",
+    "meaning": "卷心菜",
+    "acceptedEnglish": [
+      "cabbage"
+    ],
+    "acceptedChinese": [
+      "卷心菜"
+    ],
+    "note": "",
+    "source": {
+      "page": 4,
+      "day": 8,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "cabbage [ˈkæbɪdʒ] n."
+    }
+  },
+  {
+    "id": "d9-01",
+    "day": 9,
+    "english": "cake",
+    "meaning": "蛋糕；饼；糕",
+    "acceptedEnglish": [
+      "cake"
+    ],
+    "acceptedChinese": [
+      "蛋糕",
+      "饼",
+      "糕"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "cake [keik] n."
+    }
+  },
+  {
+    "id": "d9-02",
+    "day": 9,
+    "english": "calculator",
+    "meaning": "计算器",
+    "acceptedEnglish": [
+      "calculator"
+    ],
+    "acceptedChinese": [
+      "计算器"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "calculator\n[ˈkælkjuleɪtə(r)] n."
+    }
+  },
+  {
+    "id": "d9-03",
+    "day": 9,
+    "english": "call",
+    "meaning": "叫；喊；电话；通话",
+    "acceptedEnglish": [
+      "call"
+    ],
+    "acceptedChinese": [
+      "叫",
+      "喊",
+      "电话",
+      "通话"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "call [kɔ:l] n."
+    }
+  },
+  {
+    "id": "d9-04",
+    "day": 9,
+    "english": "call",
+    "meaning": "称呼；取名；呼唤；打电话",
+    "acceptedEnglish": [
+      "call"
+    ],
+    "acceptedChinese": [
+      "称呼",
+      "取名",
+      "呼唤",
+      "打电话"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "call [kɔ:l] v."
+    }
+  },
+  {
+    "id": "d9-05",
+    "day": 9,
+    "english": "camera",
+    "meaning": "照相机",
+    "acceptedEnglish": [
+      "camera"
+    ],
+    "acceptedChinese": [
+      "照相机"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "camera ['kæmərə] n."
+    }
+  },
+  {
+    "id": "d9-06",
+    "day": 9,
+    "english": "camp",
+    "meaning": "野营",
+    "acceptedEnglish": [
+      "camp"
+    ],
+    "acceptedChinese": [
+      "野营"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "camp [kæmp] n."
+    }
+  },
+  {
+    "id": "d9-07",
+    "day": 9,
+    "english": "can",
+    "meaning": "能；会；可能",
+    "acceptedEnglish": [
+      "can"
+    ],
+    "acceptedChinese": [
+      "能",
+      "会",
+      "可能"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "can [kæn] v.aux"
+    }
+  },
+  {
+    "id": "d9-08",
+    "day": 9,
+    "english": "can",
+    "meaning": "罐头；罐",
+    "acceptedEnglish": [
+      "can"
+    ],
+    "acceptedChinese": [
+      "罐头",
+      "罐"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "can [kæn] n."
+    }
+  },
+  {
+    "id": "d9-09",
+    "day": 9,
+    "english": "Canada",
+    "meaning": "加拿大",
+    "acceptedEnglish": [
+      "Canada"
+    ],
+    "acceptedChinese": [
+      "加拿大"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "Canada [ˈkænədə] n."
+    }
+  },
+  {
+    "id": "d9-10",
+    "day": 9,
+    "english": "Canadian",
+    "meaning": "加拿大的",
+    "acceptedEnglish": [
+      "Canadian"
+    ],
+    "acceptedChinese": [
+      "加拿大的"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "Canadian [kəˈneɪdiən]\nadj."
+    }
+  },
+  {
+    "id": "d9-11",
+    "day": 9,
+    "english": "cancel",
+    "meaning": "取消",
+    "acceptedEnglish": [
+      "cancel"
+    ],
+    "acceptedChinese": [
+      "取消"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "cancel [ˈkænsl] v."
+    }
+  },
+  {
+    "id": "d9-12",
+    "day": 9,
+    "english": "candle",
+    "meaning": "蜡烛",
+    "acceptedEnglish": [
+      "candle"
+    ],
+    "acceptedChinese": [
+      "蜡烛"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "candle [ˈkændl] n."
+    }
+  },
+  {
+    "id": "d9-13",
+    "day": 9,
+    "english": "cap",
+    "meaning": "帽子",
+    "acceptedEnglish": [
+      "cap"
+    ],
+    "acceptedChinese": [
+      "帽子"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "cap [kæp] n."
+    }
+  },
+  {
+    "id": "d9-14",
+    "day": 9,
+    "english": "capital",
+    "meaning": "首都",
+    "acceptedEnglish": [
+      "capital"
+    ],
+    "acceptedChinese": [
+      "首都"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "capital [ˈkæpɪtl] n."
+    }
+  },
+  {
+    "id": "d9-15",
+    "day": 9,
+    "english": "captain",
+    "meaning": "船长",
+    "acceptedEnglish": [
+      "captain"
+    ],
+    "acceptedChinese": [
+      "船长"
+    ],
+    "note": "原英文误拼 capitain，已更正为 captain。",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "capitain [ˈkæptɪn] n ."
+    }
+  },
+  {
+    "id": "d9-16",
+    "day": 9,
+    "english": "car",
+    "meaning": "小汽车",
+    "acceptedEnglish": [
+      "car"
+    ],
+    "acceptedChinese": [
+      "小汽车"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "car [kɑ:] n."
+    }
+  },
+  {
+    "id": "d9-17",
+    "day": 9,
+    "english": "card",
+    "meaning": "卡片",
+    "acceptedEnglish": [
+      "card"
+    ],
+    "acceptedChinese": [
+      "卡片"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "card [kɑ:d] n."
+    }
+  },
+  {
+    "id": "d9-18",
+    "day": 9,
+    "english": "care",
+    "meaning": "小心；关心；照管",
+    "acceptedEnglish": [
+      "care"
+    ],
+    "acceptedChinese": [
+      "小心",
+      "关心",
+      "照管"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "care [kɛə] n."
+    }
+  },
+  {
+    "id": "d9-19",
+    "day": 9,
+    "english": "with great care",
+    "meaning": "非常小心",
+    "acceptedEnglish": [
+      "with great care"
+    ],
+    "acceptedChinese": [
+      "非常小心"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "with great care"
+    }
+  },
+  {
+    "id": "d9-20",
+    "day": 9,
+    "english": "care for",
+    "meaning": "照顾；喜欢",
+    "acceptedEnglish": [
+      "care for"
+    ],
+    "acceptedChinese": [
+      "照顾",
+      "喜欢"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "care for"
+    }
+  },
+  {
+    "id": "d9-21",
+    "day": 9,
+    "english": "careful",
+    "meaning": "小心的；仔细的",
+    "acceptedEnglish": [
+      "careful"
+    ],
+    "acceptedChinese": [
+      "小心的",
+      "仔细的"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "careful ['kɛəfəl] adj."
+    }
+  },
+  {
+    "id": "d9-22",
+    "day": 9,
+    "english": "be careful with",
+    "meaning": "小心",
+    "acceptedEnglish": [
+      "be careful with"
+    ],
+    "acceptedChinese": [
+      "小心"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "be careful with"
+    }
+  },
+  {
+    "id": "d9-23",
+    "day": 9,
+    "english": "carefully",
+    "meaning": "小心地；仔细地",
+    "acceptedEnglish": [
+      "carefully"
+    ],
+    "acceptedChinese": [
+      "小心地",
+      "仔细地"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "carefully ['kɛəfəli] adv."
+    }
+  },
+  {
+    "id": "d9-24",
+    "day": 9,
+    "english": "carrot",
+    "meaning": "胡萝卜",
+    "acceptedEnglish": [
+      "carrot"
+    ],
+    "acceptedChinese": [
+      "胡萝卜"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "carrot ['kærət] n."
+    }
+  },
+  {
+    "id": "d9-25",
+    "day": 9,
+    "english": "carry",
+    "meaning": "运送；搬运；携带",
+    "acceptedEnglish": [
+      "carry"
+    ],
+    "acceptedChinese": [
+      "运送",
+      "搬运",
+      "携带"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "carry ['kæri] v."
+    }
+  },
+  {
+    "id": "d9-26",
+    "day": 9,
+    "english": "cartoon",
+    "meaning": "动画片；漫画",
+    "acceptedEnglish": [
+      "cartoon"
+    ],
+    "acceptedChinese": [
+      "动画片",
+      "漫画"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "cartoon [kɑːˈtuːn] n."
+    }
+  },
+  {
+    "id": "d9-27",
+    "day": 9,
+    "english": "case",
+    "meaning": "箱；盒；案件",
+    "acceptedEnglish": [
+      "case"
+    ],
+    "acceptedChinese": [
+      "箱",
+      "盒",
+      "案件"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "case [keɪs] n."
+    }
+  },
+  {
+    "id": "d9-28",
+    "day": 9,
+    "english": "cat",
+    "meaning": "猫",
+    "acceptedEnglish": [
+      "cat"
+    ],
+    "acceptedChinese": [
+      "猫"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "cat [kæt] n."
+    }
+  },
+  {
+    "id": "d9-29",
+    "day": 9,
+    "english": "catch",
+    "meaning": "接住；捉住；赶上；患病；弄清楚；领会；理解",
+    "acceptedEnglish": [
+      "catch"
+    ],
+    "acceptedChinese": [
+      "接住",
+      "捉住",
+      "赶上",
+      "患病",
+      "弄清楚",
+      "领会",
+      "理解"
+    ],
+    "note": "中文“赶上车辆、患病、领会”等位于 catch (a) cold 后，按词义并回 catch，未混入 cause。",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "catch [kætʃ] v."
+    }
+  },
+  {
+    "id": "d9-30",
+    "day": 9,
+    "english": "catch (a) cold",
+    "meaning": "着凉；伤风",
+    "acceptedEnglish": [
+      "catch (a) cold",
+      "catch a cold",
+      "catch cold"
+    ],
+    "acceptedChinese": [
+      "着凉",
+      "伤风"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "catch (a) cold"
+    }
+  },
+  {
+    "id": "d9-31",
+    "day": 9,
+    "english": "cause",
+    "meaning": "原因；使产生；引起",
+    "acceptedEnglish": [
+      "cause"
+    ],
+    "acceptedChinese": [
+      "原因",
+      "使产生",
+      "引起"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "cause [kɔ:z] v. || cause [kɔ:z] n."
+    }
+  },
+  {
+    "id": "d9-32",
+    "day": 9,
+    "english": "celebrate",
+    "meaning": "庆祝",
+    "acceptedEnglish": [
+      "celebrate"
+    ],
+    "acceptedChinese": [
+      "庆祝"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 9,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "celebrate ['selibreit] v."
+    }
+  },
+  {
+    "id": "d10-01",
+    "day": 10,
+    "english": "cent",
+    "meaning": "分",
+    "acceptedEnglish": [
+      "cent"
+    ],
+    "acceptedChinese": [
+      "分"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "cent [sent] n."
+    }
+  },
+  {
+    "id": "d10-02",
+    "day": 10,
+    "english": "centre",
+    "meaning": "中心；中央",
+    "acceptedEnglish": [
+      "centre",
+      "center"
+    ],
+    "acceptedChinese": [
+      "中心",
+      "中央"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "centre ['sentə] n."
+    }
+  },
+  {
+    "id": "d10-03",
+    "day": 10,
+    "english": "century",
+    "meaning": "世纪；百年",
+    "acceptedEnglish": [
+      "century"
+    ],
+    "acceptedChinese": [
+      "世纪",
+      "百年"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "century ['sentʃuri] n."
+    }
+  },
+  {
+    "id": "d10-04",
+    "day": 10,
+    "english": "certain",
+    "meaning": "一定的；有把握的",
+    "acceptedEnglish": [
+      "certain"
+    ],
+    "acceptedChinese": [
+      "一定的",
+      "有把握的"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "certain [ˈsɜːtn] adj."
+    }
+  },
+  {
+    "id": "d10-05",
+    "day": 10,
+    "english": "certainly",
+    "meaning": "一定；无疑；是的；当然；好",
+    "acceptedEnglish": [
+      "certainly"
+    ],
+    "acceptedChinese": [
+      "一定",
+      "无疑",
+      "是的",
+      "当然",
+      "好"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "certainly ['sə:tənli] adv."
+    }
+  },
+  {
+    "id": "d10-06",
+    "day": 10,
+    "english": "chair",
+    "meaning": "椅子",
+    "acceptedEnglish": [
+      "chair"
+    ],
+    "acceptedChinese": [
+      "椅子"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "chair[tʃɛə] n."
+    }
+  },
+  {
+    "id": "d10-07",
+    "day": 10,
+    "english": "chance",
+    "meaning": "机遇",
+    "acceptedEnglish": [
+      "chance"
+    ],
+    "acceptedChinese": [
+      "机遇"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "chance [tʃɑ:ns] n."
+    }
+  },
+  {
+    "id": "d10-08",
+    "day": 10,
+    "english": "change",
+    "meaning": "改变；变化；找头；零钱；兑零钱",
+    "acceptedEnglish": [
+      "change"
+    ],
+    "acceptedChinese": [
+      "改变",
+      "变化",
+      "找头",
+      "零钱",
+      "兑零钱"
+    ],
+    "note": "原中文“理发”与 change 不符，未收录；疑为排印错误，待核对。",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "change [tʃeindʒ] v."
+    }
+  },
+  {
+    "id": "d10-09",
+    "day": 10,
+    "english": "change from…to",
+    "meaning": "变换；改换；变成",
+    "acceptedEnglish": [
+      "change from…to",
+      "change from ... to",
+      "change from ... to ..."
+    ],
+    "acceptedChinese": [
+      "变换",
+      "改换",
+      "变成"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "change from…to"
+    }
+  },
+  {
+    "id": "d10-10",
+    "day": 10,
+    "english": "changeable",
+    "meaning": "易变的；可变的",
+    "acceptedEnglish": [
+      "changeable"
+    ],
+    "acceptedChinese": [
+      "易变的",
+      "可变的"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "changeable [ˈtʃeɪndʒəbl]\nadj."
+    }
+  },
+  {
+    "id": "d10-11",
+    "day": 10,
+    "english": "channel",
+    "meaning": "频道",
+    "acceptedEnglish": [
+      "channel"
+    ],
+    "acceptedChinese": [
+      "频道"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "channel [ˈtʃænl] n."
+    }
+  },
+  {
+    "id": "d10-12",
+    "day": 10,
+    "english": "character",
+    "meaning": "特征；特性；性格；人物；角色",
+    "acceptedEnglish": [
+      "character"
+    ],
+    "acceptedChinese": [
+      "特征",
+      "特性",
+      "性格",
+      "人物",
+      "角色"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "character [ˈkærəktə(r)]\nn."
+    }
+  },
+  {
+    "id": "d10-13",
+    "day": 10,
+    "english": "charge",
+    "meaning": "主管；掌管",
+    "acceptedEnglish": [
+      "charge"
+    ],
+    "acceptedChinese": [
+      "主管",
+      "掌管"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "charge [tʃɑːdʒ] n."
+    }
+  },
+  {
+    "id": "d10-14",
+    "day": 10,
+    "english": "in charge of",
+    "meaning": "主管；负责",
+    "acceptedEnglish": [
+      "in charge of"
+    ],
+    "acceptedChinese": [
+      "主管",
+      "负责"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "in charge of"
+    }
+  },
+  {
+    "id": "d10-15",
+    "day": 10,
+    "english": "charity",
+    "meaning": "慈善",
+    "acceptedEnglish": [
+      "charity"
+    ],
+    "acceptedChinese": [
+      "慈善"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "charity [ˈtʃærəti] n."
+    }
+  },
+  {
+    "id": "d10-16",
+    "day": 10,
+    "english": "cheap",
+    "meaning": "便宜的；廉价的",
+    "acceptedEnglish": [
+      "cheap"
+    ],
+    "acceptedChinese": [
+      "便宜的",
+      "廉价的"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "cheap [tʃi:p] adj."
+    }
+  },
+  {
+    "id": "d10-17",
+    "day": 10,
+    "english": "check",
+    "meaning": "检查",
+    "acceptedEnglish": [
+      "check"
+    ],
+    "acceptedChinese": [
+      "检查"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "check [tʃek] v."
+    }
+  },
+  {
+    "id": "d10-18",
+    "day": 10,
+    "english": "check in",
+    "meaning": "办理登机",
+    "acceptedEnglish": [
+      "check in"
+    ],
+    "acceptedChinese": [
+      "办理登机"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "check in"
+    }
+  },
+  {
+    "id": "d10-19",
+    "day": 10,
+    "english": "cheer",
+    "meaning": "欢呼；喝彩",
+    "acceptedEnglish": [
+      "cheer"
+    ],
+    "acceptedChinese": [
+      "欢呼",
+      "喝彩"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "cheer [tʃɪə(r)] n.& v."
+    }
+  },
+  {
+    "id": "d10-20",
+    "day": 10,
+    "english": "cheese",
+    "meaning": "奶酪",
+    "acceptedEnglish": [
+      "cheese"
+    ],
+    "acceptedChinese": [
+      "奶酪"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "cheese [tʃiːz] n."
+    }
+  },
+  {
+    "id": "d10-21",
+    "day": 10,
+    "english": "chemical",
+    "meaning": "化学的；化学物质",
+    "acceptedEnglish": [
+      "chemical"
+    ],
+    "acceptedChinese": [
+      "化学的",
+      "化学物质"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "chemical [ˈkemɪkl] adj. || chemical [ˈkemɪkl] n."
+    }
+  },
+  {
+    "id": "d10-22",
+    "day": 10,
+    "english": "chemistry",
+    "meaning": "化学",
+    "acceptedEnglish": [
+      "chemistry"
+    ],
+    "acceptedChinese": [
+      "化学"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "chemistry ['kemistri] n."
+    }
+  },
+  {
+    "id": "d10-23",
+    "day": 10,
+    "english": "chess",
+    "meaning": "国际象棋",
+    "acceptedEnglish": [
+      "chess"
+    ],
+    "acceptedChinese": [
+      "国际象棋"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "chess [tʃes] n."
+    }
+  },
+  {
+    "id": "d10-24",
+    "day": 10,
+    "english": "chest",
+    "meaning": "胸",
+    "acceptedEnglish": [
+      "chest"
+    ],
+    "acceptedChinese": [
+      "胸"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "chest [tʃest] n."
+    }
+  },
+  {
+    "id": "d10-25",
+    "day": 10,
+    "english": "chicken",
+    "meaning": "小鸡；鸡肉",
+    "acceptedEnglish": [
+      "chicken"
+    ],
+    "acceptedChinese": [
+      "小鸡",
+      "鸡肉"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "chicken ['tʃikin] n."
+    }
+  },
+  {
+    "id": "d10-26",
+    "day": 10,
+    "english": "chief",
+    "meaning": "首领；头目；主要的；首要的；首席的",
+    "acceptedEnglish": [
+      "chief"
+    ],
+    "acceptedChinese": [
+      "首领",
+      "头目",
+      "主要的",
+      "首要的",
+      "首席的"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "chief [tʃiːf] n. || chief [tʃiːf] adj."
+    }
+  },
+  {
+    "id": "d10-27",
+    "day": 10,
+    "english": "child",
+    "meaning": "孩子；儿童",
+    "acceptedEnglish": [
+      "child"
+    ],
+    "acceptedChinese": [
+      "孩子",
+      "儿童"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "child [tʃaild] n."
+    }
+  },
+  {
+    "id": "d10-28",
+    "day": 10,
+    "english": "children",
+    "meaning": "孩子们；儿童们；child的复数形式",
+    "acceptedEnglish": [
+      "children"
+    ],
+    "acceptedChinese": [
+      "孩子们",
+      "儿童们",
+      "child的复数形式"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "children ['tʃildrən] n.\nchild的复数形式"
+    }
+  },
+  {
+    "id": "d10-29",
+    "day": 10,
+    "english": "China",
+    "meaning": "中国",
+    "acceptedEnglish": [
+      "China"
+    ],
+    "acceptedChinese": [
+      "中国"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "China ['tʃainə] n."
+    }
+  },
+  {
+    "id": "d10-30",
+    "day": 10,
+    "english": "Chinese",
+    "meaning": "中国的；中国人；汉语",
+    "acceptedEnglish": [
+      "Chinese"
+    ],
+    "acceptedChinese": [
+      "中国的",
+      "中国人",
+      "汉语"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "Chinese['tʃai'ni:z]adj. || Chinese['tʃai'ni:z] n."
+    }
+  },
+  {
+    "id": "d10-31",
+    "day": 10,
+    "english": "chocolate",
+    "meaning": "巧克力",
+    "acceptedEnglish": [
+      "chocolate"
+    ],
+    "acceptedChinese": [
+      "巧克力"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "chocolate ['tʃɔkəlit] n."
+    }
+  },
+  {
+    "id": "d10-32",
+    "day": 10,
+    "english": "choice",
+    "meaning": "选择",
+    "acceptedEnglish": [
+      "choice"
+    ],
+    "acceptedChinese": [
+      "选择"
+    ],
+    "note": "",
+    "source": {
+      "page": 5,
+      "day": 10,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "choice [tʃɔɪs] n."
+    }
+  },
+  {
+    "id": "d11-01",
+    "day": 11,
+    "english": "choose",
+    "meaning": "选择",
+    "acceptedEnglish": [
+      "choose"
+    ],
+    "acceptedChinese": [
+      "选择"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "choose [tʃu:z] v."
+    }
+  },
+  {
+    "id": "d11-02",
+    "day": 11,
+    "english": "Christmas",
+    "meaning": "圣诞节",
+    "acceptedEnglish": [
+      "Christmas"
+    ],
+    "acceptedChinese": [
+      "圣诞节"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "Christmas [ˈkrɪsməs] n."
+    }
+  },
+  {
+    "id": "d11-03",
+    "day": 11,
+    "english": "church",
+    "meaning": "教堂",
+    "acceptedEnglish": [
+      "church"
+    ],
+    "acceptedChinese": [
+      "教堂"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "church [tʃɜːtʃ] n."
+    }
+  },
+  {
+    "id": "d11-04",
+    "day": 11,
+    "english": "cigarette",
+    "meaning": "香烟",
+    "acceptedEnglish": [
+      "cigarette"
+    ],
+    "acceptedChinese": [
+      "香烟"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "cigarette [ˌsɪɡəˈret] n."
+    }
+  },
+  {
+    "id": "d11-05",
+    "day": 11,
+    "english": "cinema",
+    "meaning": "电影院；电影",
+    "acceptedEnglish": [
+      "cinema"
+    ],
+    "acceptedChinese": [
+      "电影院",
+      "电影"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "cinema ['sinimə] n."
+    }
+  },
+  {
+    "id": "d11-06",
+    "day": 11,
+    "english": "go to the cinema / movies",
+    "meaning": "去看电影",
+    "acceptedEnglish": [
+      "go to the cinema / movies",
+      "go to the cinema",
+      "go to the movies"
+    ],
+    "acceptedChinese": [
+      "去看电影"
+    ],
+    "note": "原英文 moive(s) 拼写错误，已更正为 movies。",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "go to the cinema /\nmoive(s)"
+    }
+  },
+  {
+    "id": "d11-07",
+    "day": 11,
+    "english": "circle",
+    "meaning": "圆；圈",
+    "acceptedEnglish": [
+      "circle"
+    ],
+    "acceptedChinese": [
+      "圆",
+      "圈"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "circle [ˈsɜːkl] n."
+    }
+  },
+  {
+    "id": "d11-08",
+    "day": 11,
+    "english": "citizen",
+    "meaning": "市民",
+    "acceptedEnglish": [
+      "citizen"
+    ],
+    "acceptedChinese": [
+      "市民"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "citizen [ˈsɪtɪzn] n."
+    }
+  },
+  {
+    "id": "d11-09",
+    "day": 11,
+    "english": "city",
+    "meaning": "城市",
+    "acceptedEnglish": [
+      "city"
+    ],
+    "acceptedChinese": [
+      "城市"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "city ['siti] n."
+    }
+  },
+  {
+    "id": "d11-10",
+    "day": 11,
+    "english": "clap",
+    "meaning": "拍手",
+    "acceptedEnglish": [
+      "clap"
+    ],
+    "acceptedChinese": [
+      "拍手"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "clap [klæp] v&n."
+    }
+  },
+  {
+    "id": "d11-11",
+    "day": 11,
+    "english": "class",
+    "meaning": "班级；课；等级",
+    "acceptedEnglish": [
+      "class"
+    ],
+    "acceptedChinese": [
+      "班级",
+      "课",
+      "等级"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "class [klɑ:s] n."
+    }
+  },
+  {
+    "id": "d11-12",
+    "day": 11,
+    "english": "have a class / lesson",
+    "meaning": "上课",
+    "acceptedEnglish": [
+      "have a class / lesson",
+      "have a class",
+      "have a lesson"
+    ],
+    "acceptedChinese": [
+      "上课"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "have a class / lesson"
+    }
+  },
+  {
+    "id": "d11-13",
+    "day": 11,
+    "english": "in class",
+    "meaning": "在课上",
+    "acceptedEnglish": [
+      "in class"
+    ],
+    "acceptedChinese": [
+      "在课上"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "in class"
+    }
+  },
+  {
+    "id": "d11-14",
+    "day": 11,
+    "english": "classmate",
+    "meaning": "同学",
+    "acceptedEnglish": [
+      "classmate"
+    ],
+    "acceptedChinese": [
+      "同学"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "classmate ['klɑ:smeit] n."
+    }
+  },
+  {
+    "id": "d11-15",
+    "day": 11,
+    "english": "classroom",
+    "meaning": "教室",
+    "acceptedEnglish": [
+      "classroom"
+    ],
+    "acceptedChinese": [
+      "教室"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "classroom ['klɑ:srum] n."
+    }
+  },
+  {
+    "id": "d11-16",
+    "day": 11,
+    "english": "clean",
+    "meaning": "干净的；清洁的；打扫；弄干净；擦干净",
+    "acceptedEnglish": [
+      "clean"
+    ],
+    "acceptedChinese": [
+      "干净的",
+      "清洁的",
+      "打扫",
+      "弄干净",
+      "擦干净"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "clean [kli:n] adj. || clean [kli:n] v."
+    }
+  },
+  {
+    "id": "d11-17",
+    "day": 11,
+    "english": "clear",
+    "meaning": "清晰的；明亮的；清楚的；清除；清扫；放晴",
+    "acceptedEnglish": [
+      "clear"
+    ],
+    "acceptedChinese": [
+      "清晰的",
+      "明亮的",
+      "清楚的",
+      "清除",
+      "清扫",
+      "放晴"
+    ],
+    "note": "合并中文表额外动词义；“清楚”疑误，规范为“清除”，待教师核对。",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "clear [kliə] adj."
+    }
+  },
+  {
+    "id": "d11-18",
+    "day": 11,
+    "english": "clearly",
+    "meaning": "清晰地；明亮地；清楚地",
+    "acceptedEnglish": [
+      "clearly"
+    ],
+    "acceptedChinese": [
+      "清晰地",
+      "明亮地",
+      "清楚地"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "clearly ['kliəli] adv."
+    }
+  },
+  {
+    "id": "d11-19",
+    "day": 11,
+    "english": "clerk",
+    "meaning": "职员；办事员",
+    "acceptedEnglish": [
+      "clerk"
+    ],
+    "acceptedChinese": [
+      "职员",
+      "办事员"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "clerk [klɑːk] n."
+    }
+  },
+  {
+    "id": "d11-20",
+    "day": 11,
+    "english": "clever",
+    "meaning": "聪明的",
+    "acceptedEnglish": [
+      "clever"
+    ],
+    "acceptedChinese": [
+      "聪明的"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "clever ['klevə] adj."
+    }
+  },
+  {
+    "id": "d11-21",
+    "day": 11,
+    "english": "climate",
+    "meaning": "气候",
+    "acceptedEnglish": [
+      "climate"
+    ],
+    "acceptedChinese": [
+      "气候"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "climate [ˈklaɪmət] n."
+    }
+  },
+  {
+    "id": "d11-22",
+    "day": 11,
+    "english": "climb",
+    "meaning": "爬",
+    "acceptedEnglish": [
+      "climb"
+    ],
+    "acceptedChinese": [
+      "爬"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "climb [klaim] v."
+    }
+  },
+  {
+    "id": "d11-23",
+    "day": 11,
+    "english": "clinic",
+    "meaning": "医务室",
+    "acceptedEnglish": [
+      "clinic"
+    ],
+    "acceptedChinese": [
+      "医务室"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "clinic [ˈklɪnɪk] n."
+    }
+  },
+  {
+    "id": "d11-24",
+    "day": 11,
+    "english": "clock",
+    "meaning": "时钟",
+    "acceptedEnglish": [
+      "clock"
+    ],
+    "acceptedChinese": [
+      "时钟"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "clock [klɔk] n."
+    }
+  },
+  {
+    "id": "d11-25",
+    "day": 11,
+    "english": "close",
+    "meaning": "关；闭；近；靠近",
+    "acceptedEnglish": [
+      "close"
+    ],
+    "acceptedChinese": [
+      "关",
+      "闭",
+      "近",
+      "靠近"
+    ],
+    "note": "合并中文表额外副词义。",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "close [kləuz] v."
+    }
+  },
+  {
+    "id": "d11-26",
+    "day": 11,
+    "english": "clothes",
+    "meaning": "衣服",
+    "acceptedEnglish": [
+      "clothes"
+    ],
+    "acceptedChinese": [
+      "衣服"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "clothes [kləuðz] n."
+    }
+  },
+  {
+    "id": "d11-27",
+    "day": 11,
+    "english": "cloud",
+    "meaning": "云",
+    "acceptedEnglish": [
+      "cloud"
+    ],
+    "acceptedChinese": [
+      "云"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "cloud [klaud] n."
+    }
+  },
+  {
+    "id": "d11-28",
+    "day": 11,
+    "english": "cloudy",
+    "meaning": "多云的；阴天的",
+    "acceptedEnglish": [
+      "cloudy"
+    ],
+    "acceptedChinese": [
+      "多云的",
+      "阴天的"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "cloudy ['klaudi] adj."
+    }
+  },
+  {
+    "id": "d11-29",
+    "day": 11,
+    "english": "coast",
+    "meaning": "海岸",
+    "acceptedEnglish": [
+      "coast"
+    ],
+    "acceptedChinese": [
+      "海岸"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "coast [kəʊst] n."
+    }
+  },
+  {
+    "id": "d11-30",
+    "day": 11,
+    "english": "coat",
+    "meaning": "外衣；上衣",
+    "acceptedEnglish": [
+      "coat"
+    ],
+    "acceptedChinese": [
+      "外衣",
+      "上衣"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "coat [kəut] n."
+    }
+  },
+  {
+    "id": "d11-31",
+    "day": 11,
+    "english": "coffee",
+    "meaning": "咖啡",
+    "acceptedEnglish": [
+      "coffee"
+    ],
+    "acceptedChinese": [
+      "咖啡"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "coffee [ˈkɒfi] n."
+    }
+  },
+  {
+    "id": "d11-32",
+    "day": 11,
+    "english": "coin",
+    "meaning": "硬币",
+    "acceptedEnglish": [
+      "coin"
+    ],
+    "acceptedChinese": [
+      "硬币"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 11,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "coin [kɔɪn] n."
+    }
+  },
+  {
+    "id": "d12-01",
+    "day": 12,
+    "english": "cold",
+    "meaning": "冷的；寒冷的；寒冷；着凉；感冒",
+    "acceptedEnglish": [
+      "cold"
+    ],
+    "acceptedChinese": [
+      "冷的",
+      "寒冷的",
+      "寒冷",
+      "着凉",
+      "感冒"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "cold [kəuld] adj. || cold [kəuld] n."
+    }
+  },
+  {
+    "id": "d12-02",
+    "day": 12,
+    "english": "collect",
+    "meaning": "收集；采集",
+    "acceptedEnglish": [
+      "collect"
+    ],
+    "acceptedChinese": [
+      "收集",
+      "采集"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "collect [kə'lekt] v."
+    }
+  },
+  {
+    "id": "d12-03",
+    "day": 12,
+    "english": "collection",
+    "meaning": "收集",
+    "acceptedEnglish": [
+      "collection"
+    ],
+    "acceptedChinese": [
+      "收集"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "collection [kəˈlekʃn] n."
+    }
+  },
+  {
+    "id": "d12-04",
+    "day": 12,
+    "english": "college",
+    "meaning": "学院",
+    "acceptedEnglish": [
+      "college"
+    ],
+    "acceptedChinese": [
+      "学院"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "college [ˈkɒlɪdʒ] n."
+    }
+  },
+  {
+    "id": "d12-05",
+    "day": 12,
+    "english": "go to college",
+    "meaning": "上大学",
+    "acceptedEnglish": [
+      "go to college"
+    ],
+    "acceptedChinese": [
+      "上大学"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "go to college"
+    }
+  },
+  {
+    "id": "d12-06",
+    "day": 12,
+    "english": "colour",
+    "meaning": "颜色；涂色",
+    "acceptedEnglish": [
+      "colour",
+      "color"
+    ],
+    "acceptedChinese": [
+      "颜色",
+      "涂色"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "colour ['kʌlə] n. || colour ['kʌlə] v."
+    }
+  },
+  {
+    "id": "d12-07",
+    "day": 12,
+    "english": "come",
+    "meaning": "来；来到",
+    "acceptedEnglish": [
+      "come"
+    ],
+    "acceptedChinese": [
+      "来",
+      "来到"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "come [kʌm] v."
+    }
+  },
+  {
+    "id": "d12-08",
+    "day": 12,
+    "english": "come from",
+    "meaning": "出生于；来自",
+    "acceptedEnglish": [
+      "come from"
+    ],
+    "acceptedChinese": [
+      "出生于",
+      "来自"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "come from"
+    }
+  },
+  {
+    "id": "d12-09",
+    "day": 12,
+    "english": "come on",
+    "meaning": "快；走吧；跟我来",
+    "acceptedEnglish": [
+      "come on"
+    ],
+    "acceptedChinese": [
+      "快",
+      "走吧",
+      "跟我来"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "come on"
+    }
+  },
+  {
+    "id": "d12-10",
+    "day": 12,
+    "english": "come to an end",
+    "meaning": "结束",
+    "acceptedEnglish": [
+      "come to an end"
+    ],
+    "acceptedChinese": [
+      "结束"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "come to an end"
+    }
+  },
+  {
+    "id": "d12-11",
+    "day": 12,
+    "english": "comfortable",
+    "meaning": "舒服的",
+    "acceptedEnglish": [
+      "comfortable"
+    ],
+    "acceptedChinese": [
+      "舒服的"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "comfortable\n['kʌmfətəbl] adj."
+    }
+  },
+  {
+    "id": "d12-12",
+    "day": 12,
+    "english": "common",
+    "meaning": "普通的",
+    "acceptedEnglish": [
+      "common"
+    ],
+    "acceptedChinese": [
+      "普通的"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "common [ˈkɒmən] adj."
+    }
+  },
+  {
+    "id": "d12-13",
+    "day": 12,
+    "english": "communicate",
+    "meaning": "交流；交际",
+    "acceptedEnglish": [
+      "communicate"
+    ],
+    "acceptedChinese": [
+      "交流",
+      "交际"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "communicate\n[kəˈmjuːnɪkeɪt] v."
+    }
+  },
+  {
+    "id": "d12-14",
+    "day": 12,
+    "english": "communicate with",
+    "meaning": "与……交流",
+    "acceptedEnglish": [
+      "communicate with"
+    ],
+    "acceptedChinese": [
+      "与……交流"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "communicate with"
+    }
+  },
+  {
+    "id": "d12-15",
+    "day": 12,
+    "english": "company",
+    "meaning": "公司",
+    "acceptedEnglish": [
+      "company"
+    ],
+    "acceptedChinese": [
+      "公司"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "company ['kʌmpəni] n."
+    }
+  },
+  {
+    "id": "d12-16",
+    "day": 12,
+    "english": "compare",
+    "meaning": "比较",
+    "acceptedEnglish": [
+      "compare"
+    ],
+    "acceptedChinese": [
+      "比较"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "compare [kəmˈpeə(r)] v."
+    }
+  },
+  {
+    "id": "d12-17",
+    "day": 12,
+    "english": "competition",
+    "meaning": "竞赛",
+    "acceptedEnglish": [
+      "competition"
+    ],
+    "acceptedChinese": [
+      "竞赛"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "competition\n[ˌkɒmpəˈtɪʃn] n."
+    }
+  },
+  {
+    "id": "d12-18",
+    "day": 12,
+    "english": "complain",
+    "meaning": "抱怨；投诉",
+    "acceptedEnglish": [
+      "complain"
+    ],
+    "acceptedChinese": [
+      "抱怨",
+      "投诉"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "complain [kəm'plein] v."
+    }
+  },
+  {
+    "id": "d12-19",
+    "day": 12,
+    "english": "complain about",
+    "meaning": "投诉；抱怨",
+    "acceptedEnglish": [
+      "complain about"
+    ],
+    "acceptedChinese": [
+      "投诉",
+      "抱怨"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "complain about"
+    }
+  },
+  {
+    "id": "d12-20",
+    "day": 12,
+    "english": "complete",
+    "meaning": "完整的；完全的；完成；结束",
+    "acceptedEnglish": [
+      "complete"
+    ],
+    "acceptedChinese": [
+      "完整的",
+      "完全的",
+      "完成",
+      "结束"
+    ],
+    "note": "合并中文表额外动词义。",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "complete [kəmˈpliːt]\nadj."
+    }
+  },
+  {
+    "id": "d12-21",
+    "day": 12,
+    "english": "computer",
+    "meaning": "计算机",
+    "acceptedEnglish": [
+      "computer"
+    ],
+    "acceptedChinese": [
+      "计算机"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "computer[kəm'pju:tə]n."
+    }
+  },
+  {
+    "id": "d12-22",
+    "day": 12,
+    "english": "concert",
+    "meaning": "音乐会",
+    "acceptedEnglish": [
+      "concert"
+    ],
+    "acceptedChinese": [
+      "音乐会"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "concert ['kɔnsət] n."
+    }
+  },
+  {
+    "id": "d12-23",
+    "day": 12,
+    "english": "conclusion",
+    "meaning": "结论；结束；结局",
+    "acceptedEnglish": [
+      "conclusion"
+    ],
+    "acceptedChinese": [
+      "结论",
+      "结束",
+      "结局"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "conclusion [kənˈkluːʒn]\nn."
+    }
+  },
+  {
+    "id": "d12-24",
+    "day": 12,
+    "english": "conductor",
+    "meaning": "售票员；列车员",
+    "acceptedEnglish": [
+      "conductor"
+    ],
+    "acceptedChinese": [
+      "售票员",
+      "列车员"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "conductor\n[kənˈdʌktə(r)] n."
+    }
+  },
+  {
+    "id": "d12-25",
+    "day": 12,
+    "english": "conference",
+    "meaning": "会议；讨论会",
+    "acceptedEnglish": [
+      "conference"
+    ],
+    "acceptedChinese": [
+      "会议",
+      "讨论会"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "conference [ˈkɒnfərəns]\nn."
+    }
+  },
+  {
+    "id": "d12-26",
+    "day": 12,
+    "english": "confident",
+    "meaning": "确信的；有信心的；自信的",
+    "acceptedEnglish": [
+      "confident"
+    ],
+    "acceptedChinese": [
+      "确信的",
+      "有信心的",
+      "自信的"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "confident ['kɔnfidənt]\nadj."
+    }
+  },
+  {
+    "id": "d12-27",
+    "day": 12,
+    "english": "confuse",
+    "meaning": "搞糊涂",
+    "acceptedEnglish": [
+      "confuse"
+    ],
+    "acceptedChinese": [
+      "搞糊涂"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "confuse [kənˈfjuːz] v."
+    }
+  },
+  {
+    "id": "d12-28",
+    "day": 12,
+    "english": "congratulation",
+    "meaning": "祝贺",
+    "acceptedEnglish": [
+      "congratulation"
+    ],
+    "acceptedChinese": [
+      "祝贺"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "congratulation[kən,\ngrætju'leiʃən] n."
+    }
+  },
+  {
+    "id": "d12-29",
+    "day": 12,
+    "english": "connect",
+    "meaning": "连接；把……联系起来",
+    "acceptedEnglish": [
+      "connect"
+    ],
+    "acceptedChinese": [
+      "连接",
+      "把……联系起来"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "connect [kə'nekt] v."
+    }
+  },
+  {
+    "id": "d12-30",
+    "day": 12,
+    "english": "be connected to / with",
+    "meaning": "与……连接在一起",
+    "acceptedEnglish": [
+      "be connected to / with",
+      "be connected to",
+      "be connected with"
+    ],
+    "acceptedChinese": [
+      "与……连接在一起"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "be connected to / with"
+    }
+  },
+  {
+    "id": "d12-31",
+    "day": 12,
+    "english": "consist",
+    "meaning": "组成；构成",
+    "acceptedEnglish": [
+      "consist"
+    ],
+    "acceptedChinese": [
+      "组成",
+      "构成"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "consist [kənˈsɪst] v."
+    }
+  },
+  {
+    "id": "d12-32",
+    "day": 12,
+    "english": "consist of",
+    "meaning": "由……组成",
+    "acceptedEnglish": [
+      "consist of"
+    ],
+    "acceptedChinese": [
+      "由……组成"
+    ],
+    "note": "",
+    "source": {
+      "page": 6,
+      "day": 12,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "consist of"
+    }
+  },
+  {
+    "id": "d13-01",
+    "day": 13,
+    "english": "contest",
+    "meaning": "竞赛",
+    "acceptedEnglish": [
+      "contest"
+    ],
+    "acceptedChinese": [
+      "竞赛"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "contest [ˈkɒntest] n."
+    }
+  },
+  {
+    "id": "d13-02",
+    "day": 13,
+    "english": "continent",
+    "meaning": "洲；大陆",
+    "acceptedEnglish": [
+      "continent"
+    ],
+    "acceptedChinese": [
+      "洲",
+      "大陆"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "continent [ˈkɒntɪnənt] n."
+    }
+  },
+  {
+    "id": "d13-03",
+    "day": 13,
+    "english": "continue",
+    "meaning": "继续",
+    "acceptedEnglish": [
+      "continue"
+    ],
+    "acceptedChinese": [
+      "继续"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "continue [kənˈtɪnjuː] v."
+    }
+  },
+  {
+    "id": "d13-04",
+    "day": 13,
+    "english": "control",
+    "meaning": "控制",
+    "acceptedEnglish": [
+      "control"
+    ],
+    "acceptedChinese": [
+      "控制"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "control [kənˈtrəʊl] v."
+    }
+  },
+  {
+    "id": "d13-05",
+    "day": 13,
+    "english": "convenient",
+    "meaning": "便利的；方便的",
+    "acceptedEnglish": [
+      "convenient"
+    ],
+    "acceptedChinese": [
+      "便利的",
+      "方便的"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "convenient\n[kənˈviːniənt] adj."
+    }
+  },
+  {
+    "id": "d13-06",
+    "day": 13,
+    "english": "conversation",
+    "meaning": "会话；谈话",
+    "acceptedEnglish": [
+      "conversation"
+    ],
+    "acceptedChinese": [
+      "会话",
+      "谈话"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "conversation\n[ˌkɒnvəˈseɪʃn] n."
+    }
+  },
+  {
+    "id": "d13-07",
+    "day": 13,
+    "english": "cook",
+    "meaning": "厨师；炊事员；烹调；煮；烧",
+    "acceptedEnglish": [
+      "cook"
+    ],
+    "acceptedChinese": [
+      "厨师",
+      "炊事员",
+      "烹调",
+      "煮",
+      "烧"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "cook [kuk] v & n."
+    }
+  },
+  {
+    "id": "d13-08",
+    "day": 13,
+    "english": "cool",
+    "meaning": "凉的；凉爽的；酷；冷却",
+    "acceptedEnglish": [
+      "cool"
+    ],
+    "acceptedChinese": [
+      "凉的",
+      "凉爽的",
+      "酷",
+      "冷却"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "cool [ku:l] adj. || cool [ku:l] v."
+    }
+  },
+  {
+    "id": "d13-09",
+    "day": 13,
+    "english": "copy",
+    "meaning": "抄写；复制；模仿；抄本；副本；一本；一份；一册",
+    "acceptedEnglish": [
+      "copy"
+    ],
+    "acceptedChinese": [
+      "抄写",
+      "复制",
+      "模仿",
+      "抄本",
+      "副本",
+      "一本",
+      "一份",
+      "一册"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "copy ['kɔpi] v. || copy ['kɔpi] n."
+    }
+  },
+  {
+    "id": "d13-10",
+    "day": 13,
+    "english": "corner",
+    "meaning": "角；拐角",
+    "acceptedEnglish": [
+      "corner"
+    ],
+    "acceptedChinese": [
+      "角",
+      "拐角"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "corner ['kɔ:nə] n."
+    }
+  },
+  {
+    "id": "d13-11",
+    "day": 13,
+    "english": "correct",
+    "meaning": "正确的；改正；纠正",
+    "acceptedEnglish": [
+      "correct"
+    ],
+    "acceptedChinese": [
+      "正确的",
+      "改正",
+      "纠正"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "correct [kə'rekt] adj. || correct [kə'rekt] v."
+    }
+  },
+  {
+    "id": "d13-12",
+    "day": 13,
+    "english": "cost",
+    "meaning": "值多少钱；花费",
+    "acceptedEnglish": [
+      "cost"
+    ],
+    "acceptedChinese": [
+      "值多少钱",
+      "花费"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "cost [kɔst] v."
+    }
+  },
+  {
+    "id": "d13-13",
+    "day": 13,
+    "english": "cotton",
+    "meaning": "棉花",
+    "acceptedEnglish": [
+      "cotton"
+    ],
+    "acceptedChinese": [
+      "棉花"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "cotton [ˈkɒtn] n."
+    }
+  },
+  {
+    "id": "d13-14",
+    "day": 13,
+    "english": "cough",
+    "meaning": "咳嗽",
+    "acceptedEnglish": [
+      "cough"
+    ],
+    "acceptedChinese": [
+      "咳嗽"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "cough [kɒf] v& n."
+    }
+  },
+  {
+    "id": "d13-15",
+    "day": 13,
+    "english": "count",
+    "meaning": "数",
+    "acceptedEnglish": [
+      "count"
+    ],
+    "acceptedChinese": [
+      "数"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "count [kaʊnt] v."
+    }
+  },
+  {
+    "id": "d13-16",
+    "day": 13,
+    "english": "country",
+    "meaning": "国家；农村；乡下",
+    "acceptedEnglish": [
+      "country"
+    ],
+    "acceptedChinese": [
+      "国家",
+      "农村",
+      "乡下"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "country [kʌntri] n."
+    }
+  },
+  {
+    "id": "d13-17",
+    "day": 13,
+    "english": "couple",
+    "meaning": "一对；一双；一副",
+    "acceptedEnglish": [
+      "couple"
+    ],
+    "acceptedChinese": [
+      "一对",
+      "一双",
+      "一副"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "couple [ˈkʌpl] n."
+    }
+  },
+  {
+    "id": "d13-18",
+    "day": 13,
+    "english": "a couple of",
+    "meaning": "两个；几个",
+    "acceptedEnglish": [
+      "a couple of"
+    ],
+    "acceptedChinese": [
+      "两个",
+      "几个"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "a couple of"
+    }
+  },
+  {
+    "id": "d13-19",
+    "day": 13,
+    "english": "course",
+    "meaning": "过程；课程",
+    "acceptedEnglish": [
+      "course"
+    ],
+    "acceptedChinese": [
+      "过程",
+      "课程"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "course [kɔːs] n."
+    }
+  },
+  {
+    "id": "d13-20",
+    "day": 13,
+    "english": "of course",
+    "meaning": "当然",
+    "acceptedEnglish": [
+      "of course"
+    ],
+    "acceptedChinese": [
+      "当然"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "of course"
+    }
+  },
+  {
+    "id": "d13-21",
+    "day": 13,
+    "english": "cousin",
+    "meaning": "堂兄；堂弟；表兄；表弟；堂姐；堂妹；表姐；表妹",
+    "acceptedEnglish": [
+      "cousin"
+    ],
+    "acceptedChinese": [
+      "堂兄",
+      "堂弟",
+      "表兄",
+      "表弟",
+      "堂姐",
+      "堂妹",
+      "表姐",
+      "表妹"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "cousin ['kʌzn] n."
+    }
+  },
+  {
+    "id": "d13-22",
+    "day": 13,
+    "english": "cover",
+    "meaning": "覆盖；遮盖；掩盖；覆盖物；封面",
+    "acceptedEnglish": [
+      "cover"
+    ],
+    "acceptedChinese": [
+      "覆盖",
+      "遮盖",
+      "掩盖",
+      "覆盖物",
+      "封面"
+    ],
+    "note": "合并中文表额外名词义。",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "cover ['kʌvə] v."
+    }
+  },
+  {
+    "id": "d13-23",
+    "day": 13,
+    "english": "be covered with",
+    "meaning": "被……覆盖",
+    "acceptedEnglish": [
+      "be covered with"
+    ],
+    "acceptedChinese": [
+      "被……覆盖"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "be covered with"
+    }
+  },
+  {
+    "id": "d13-24",
+    "day": 13,
+    "english": "cow",
+    "meaning": "母牛",
+    "acceptedEnglish": [
+      "cow"
+    ],
+    "acceptedChinese": [
+      "母牛"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "cow [kau] n."
+    }
+  },
+  {
+    "id": "d13-25",
+    "day": 13,
+    "english": "crazy",
+    "meaning": "发狂的；疯狂的",
+    "acceptedEnglish": [
+      "crazy"
+    ],
+    "acceptedChinese": [
+      "发狂的",
+      "疯狂的"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "crazy [ˈkreɪzi] adj."
+    }
+  },
+  {
+    "id": "d13-26",
+    "day": 13,
+    "english": "create",
+    "meaning": "创造；创作",
+    "acceptedEnglish": [
+      "create"
+    ],
+    "acceptedChinese": [
+      "创造",
+      "创作"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "create [kriˈeɪt] v."
+    }
+  },
+  {
+    "id": "d13-27",
+    "day": 13,
+    "english": "cross",
+    "meaning": "十字；叉；穿越",
+    "acceptedEnglish": [
+      "cross"
+    ],
+    "acceptedChinese": [
+      "十字",
+      "叉",
+      "穿越"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "cross [krɔ:s] n. || cross [krɔ:s] v."
+    }
+  },
+  {
+    "id": "d13-28",
+    "day": 13,
+    "english": "crowded",
+    "meaning": "拥挤的；满座的",
+    "acceptedEnglish": [
+      "crowded"
+    ],
+    "acceptedChinese": [
+      "拥挤的",
+      "满座的"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "crowded [ˈkraʊdɪd] adj."
+    }
+  },
+  {
+    "id": "d13-29",
+    "day": 13,
+    "english": "cry",
+    "meaning": "喊叫；哭",
+    "acceptedEnglish": [
+      "cry"
+    ],
+    "acceptedChinese": [
+      "喊叫",
+      "哭"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "cry [krai] v & n."
+    }
+  },
+  {
+    "id": "d13-30",
+    "day": 13,
+    "english": "culture",
+    "meaning": "文化",
+    "acceptedEnglish": [
+      "culture"
+    ],
+    "acceptedChinese": [
+      "文化"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "culture [ˈkʌltʃə(r)] n."
+    }
+  },
+  {
+    "id": "d13-31",
+    "day": 13,
+    "english": "cup",
+    "meaning": "杯子；杯",
+    "acceptedEnglish": [
+      "cup"
+    ],
+    "acceptedChinese": [
+      "杯子",
+      "杯"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "cup [kʌp] n."
+    }
+  },
+  {
+    "id": "d13-32",
+    "day": 13,
+    "english": "custom",
+    "meaning": "习惯；风俗",
+    "acceptedEnglish": [
+      "custom"
+    ],
+    "acceptedChinese": [
+      "习惯",
+      "风俗"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "custom [ˈkʌstəm] n."
+    }
+  },
+  {
+    "id": "d13-33",
+    "day": 13,
+    "english": "customer",
+    "meaning": "顾客",
+    "acceptedEnglish": [
+      "customer"
+    ],
+    "acceptedChinese": [
+      "顾客"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 13,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 33,
+      "rawEnglish": "customer [ˈkʌstəmə(r)]\nn."
+    }
+  },
+  {
+    "id": "d14-01",
+    "day": 14,
+    "english": "cut",
+    "meaning": "切；割；剪；砍；削",
+    "acceptedEnglish": [
+      "cut"
+    ],
+    "acceptedChinese": [
+      "切",
+      "割",
+      "剪",
+      "砍",
+      "削"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "cut [kʌt] v."
+    }
+  },
+  {
+    "id": "d14-02",
+    "day": 14,
+    "english": "cut down",
+    "meaning": "砍倒",
+    "acceptedEnglish": [
+      "cut down"
+    ],
+    "acceptedChinese": [
+      "砍倒"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "cut down"
+    }
+  },
+  {
+    "id": "d14-03",
+    "day": 14,
+    "english": "cycle",
+    "meaning": "骑车",
+    "acceptedEnglish": [
+      "cycle"
+    ],
+    "acceptedChinese": [
+      "骑车"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "cycle [ˈsaɪkl] v."
+    }
+  },
+  {
+    "id": "d14-04",
+    "day": 14,
+    "english": "daily",
+    "meaning": "日报",
+    "acceptedEnglish": [
+      "daily"
+    ],
+    "acceptedChinese": [
+      "日报"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "daily [ˈdeɪli] n."
+    }
+  },
+  {
+    "id": "d14-05",
+    "day": 14,
+    "english": "damage",
+    "meaning": "破坏",
+    "acceptedEnglish": [
+      "damage"
+    ],
+    "acceptedChinese": [
+      "破坏"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "damage [ˈdæmɪdʒ] v."
+    }
+  },
+  {
+    "id": "d14-06",
+    "day": 14,
+    "english": "dance",
+    "meaning": "跳舞",
+    "acceptedEnglish": [
+      "dance"
+    ],
+    "acceptedChinese": [
+      "跳舞"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "dance [dɑ:ns] v."
+    }
+  },
+  {
+    "id": "d14-07",
+    "day": 14,
+    "english": "danger",
+    "meaning": "危险",
+    "acceptedEnglish": [
+      "danger"
+    ],
+    "acceptedChinese": [
+      "危险"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "danger ['deindʒə] n."
+    }
+  },
+  {
+    "id": "d14-08",
+    "day": 14,
+    "english": "in danger",
+    "meaning": "处于危险中",
+    "acceptedEnglish": [
+      "in danger"
+    ],
+    "acceptedChinese": [
+      "处于危险中"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "in danger"
+    }
+  },
+  {
+    "id": "d14-09",
+    "day": 14,
+    "english": "dangerous",
+    "meaning": "危险的",
+    "acceptedEnglish": [
+      "dangerous"
+    ],
+    "acceptedChinese": [
+      "危险的"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "dangerous ['deindʒərəs]\nadj."
+    }
+  },
+  {
+    "id": "d14-10",
+    "day": 14,
+    "english": "dark",
+    "meaning": "黑暗；黑色；深色；黑暗的；黑色的；深色的",
+    "acceptedEnglish": [
+      "dark"
+    ],
+    "acceptedChinese": [
+      "黑暗",
+      "黑色",
+      "深色",
+      "黑暗的",
+      "黑色的",
+      "深色的"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "dark [dɑ:k] adj. || dark [dɑ:k] n."
+    }
+  },
+  {
+    "id": "d14-11",
+    "day": 14,
+    "english": "date",
+    "meaning": "日期",
+    "acceptedEnglish": [
+      "date"
+    ],
+    "acceptedChinese": [
+      "日期"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "date [deit] n."
+    }
+  },
+  {
+    "id": "d14-12",
+    "day": 14,
+    "english": "daughter",
+    "meaning": "女儿",
+    "acceptedEnglish": [
+      "daughter"
+    ],
+    "acceptedChinese": [
+      "女儿"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "daughter ['dɔ:tə] n."
+    }
+  },
+  {
+    "id": "d14-13",
+    "day": 14,
+    "english": "day",
+    "meaning": "一天；一日；白天",
+    "acceptedEnglish": [
+      "day"
+    ],
+    "acceptedChinese": [
+      "一天",
+      "一日",
+      "白天"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "day [dei] n."
+    }
+  },
+  {
+    "id": "d14-14",
+    "day": 14,
+    "english": "some day",
+    "meaning": "将来有一天",
+    "acceptedEnglish": [
+      "some day"
+    ],
+    "acceptedChinese": [
+      "将来有一天"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "some day"
+    }
+  },
+  {
+    "id": "d14-15",
+    "day": 14,
+    "english": "dead",
+    "meaning": "死的；无生命的",
+    "acceptedEnglish": [
+      "dead"
+    ],
+    "acceptedChinese": [
+      "死的",
+      "无生命的"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "dead [ded] adj."
+    }
+  },
+  {
+    "id": "d14-16",
+    "day": 14,
+    "english": "deal",
+    "meaning": "分配；分给；给予；经营；对付",
+    "acceptedEnglish": [
+      "deal"
+    ],
+    "acceptedChinese": [
+      "分配",
+      "分给",
+      "给予",
+      "经营",
+      "对付"
+    ],
+    "note": "英文词性 n. 与中文动词义不一致，本条按中文义，待教师核对。",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "deal [di:l] n."
+    }
+  },
+  {
+    "id": "d14-17",
+    "day": 14,
+    "english": "deal with",
+    "meaning": "处理",
+    "acceptedEnglish": [
+      "deal with"
+    ],
+    "acceptedChinese": [
+      "处理"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "deal with"
+    }
+  },
+  {
+    "id": "d14-18",
+    "day": 14,
+    "english": "dear",
+    "meaning": "亲爱的；呵；哎呀",
+    "acceptedEnglish": [
+      "dear"
+    ],
+    "acceptedChinese": [
+      "亲爱的",
+      "呵",
+      "哎呀"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "dear [diə] adj."
+    }
+  },
+  {
+    "id": "d14-19",
+    "day": 14,
+    "english": "death",
+    "meaning": "死亡",
+    "acceptedEnglish": [
+      "death"
+    ],
+    "acceptedChinese": [
+      "死亡"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "death [deθ] n."
+    }
+  },
+  {
+    "id": "d14-20",
+    "day": 14,
+    "english": "debate",
+    "meaning": "争论；辩论；讨论",
+    "acceptedEnglish": [
+      "debate"
+    ],
+    "acceptedChinese": [
+      "争论",
+      "辩论",
+      "讨论"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "debate [dɪˈbeɪt] n."
+    }
+  },
+  {
+    "id": "d14-21",
+    "day": 14,
+    "english": "December",
+    "meaning": "十二月",
+    "acceptedEnglish": [
+      "December"
+    ],
+    "acceptedChinese": [
+      "十二月"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "December [di'sembə] n."
+    }
+  },
+  {
+    "id": "d14-22",
+    "day": 14,
+    "english": "decide",
+    "meaning": "决定；下决心",
+    "acceptedEnglish": [
+      "decide"
+    ],
+    "acceptedChinese": [
+      "决定",
+      "下决心"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "decide [di'said] v."
+    }
+  },
+  {
+    "id": "d14-23",
+    "day": 14,
+    "english": "decision",
+    "meaning": "决定",
+    "acceptedEnglish": [
+      "decision"
+    ],
+    "acceptedChinese": [
+      "决定"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "decision [di'siʒən] n."
+    }
+  },
+  {
+    "id": "d14-24",
+    "day": 14,
+    "english": "make a decision",
+    "meaning": "作出决定",
+    "acceptedEnglish": [
+      "make a decision"
+    ],
+    "acceptedChinese": [
+      "作出决定"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "make a decision"
+    }
+  },
+  {
+    "id": "d14-25",
+    "day": 14,
+    "english": "decorate",
+    "meaning": "装饰",
+    "acceptedEnglish": [
+      "decorate"
+    ],
+    "acceptedChinese": [
+      "装饰"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "decorate [ˈdekəreɪt] v."
+    }
+  },
+  {
+    "id": "d14-26",
+    "day": 14,
+    "english": "deep",
+    "meaning": "深",
+    "acceptedEnglish": [
+      "deep"
+    ],
+    "acceptedChinese": [
+      "深"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "deep [di:p] adj."
+    }
+  },
+  {
+    "id": "d14-27",
+    "day": 14,
+    "english": "degree",
+    "meaning": "学位；度",
+    "acceptedEnglish": [
+      "degree"
+    ],
+    "acceptedChinese": [
+      "学位",
+      "度"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "degree [dɪˈɡriː] n."
+    }
+  },
+  {
+    "id": "d14-28",
+    "day": 14,
+    "english": "delay",
+    "meaning": "耽搁；延误",
+    "acceptedEnglish": [
+      "delay"
+    ],
+    "acceptedChinese": [
+      "耽搁",
+      "延误"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "delay [dɪˈleɪ] n&v."
+    }
+  },
+  {
+    "id": "d14-29",
+    "day": 14,
+    "english": "delicious",
+    "meaning": "美味的；可口的",
+    "acceptedEnglish": [
+      "delicious"
+    ],
+    "acceptedChinese": [
+      "美味的",
+      "可口的"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "delicious [di'liʃəs] adj."
+    }
+  },
+  {
+    "id": "d14-30",
+    "day": 14,
+    "english": "deliver",
+    "meaning": "投递；传送",
+    "acceptedEnglish": [
+      "deliver"
+    ],
+    "acceptedChinese": [
+      "投递",
+      "传送"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "deliver [dɪˈlɪvə(r)] v."
+    }
+  },
+  {
+    "id": "d14-31",
+    "day": 14,
+    "english": "dentist",
+    "meaning": "牙科医生",
+    "acceptedEnglish": [
+      "dentist"
+    ],
+    "acceptedChinese": [
+      "牙科医生"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "dentist [ˈdentɪst] n."
+    }
+  },
+  {
+    "id": "d14-32",
+    "day": 14,
+    "english": "department store",
+    "meaning": "百货商店",
+    "acceptedEnglish": [
+      "department store"
+    ],
+    "acceptedChinese": [
+      "百货商店"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "department store\n[dɪˈpɑːtmənt] [stɔː(r)] n."
+    }
+  },
+  {
+    "id": "d14-33",
+    "day": 14,
+    "english": "departure",
+    "meaning": "启程；离开；出发",
+    "acceptedEnglish": [
+      "departure"
+    ],
+    "acceptedChinese": [
+      "启程",
+      "离开",
+      "出发"
+    ],
+    "note": "",
+    "source": {
+      "page": 7,
+      "day": 14,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 33,
+      "rawEnglish": "departure [dɪˈpɑːtʃə(r)]\nn."
+    }
+  },
+  {
+    "id": "d15-01",
+    "day": 15,
+    "english": "depend",
+    "meaning": "依靠；依赖",
+    "acceptedEnglish": [
+      "depend"
+    ],
+    "acceptedChinese": [
+      "依靠",
+      "依赖"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "depend [dɪˈpend] v."
+    }
+  },
+  {
+    "id": "d15-02",
+    "day": 15,
+    "english": "depend on",
+    "meaning": "依靠；依赖",
+    "acceptedEnglish": [
+      "depend on"
+    ],
+    "acceptedChinese": [
+      "依靠",
+      "依赖"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "depend on"
+    }
+  },
+  {
+    "id": "d15-03",
+    "day": 15,
+    "english": "describe",
+    "meaning": "描述",
+    "acceptedEnglish": [
+      "describe"
+    ],
+    "acceptedChinese": [
+      "描述"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "describe [di'skraib] v."
+    }
+  },
+  {
+    "id": "d15-04",
+    "day": 15,
+    "english": "desert",
+    "meaning": "沙漠",
+    "acceptedEnglish": [
+      "desert"
+    ],
+    "acceptedChinese": [
+      "沙漠"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "desert ['dezət] n."
+    }
+  },
+  {
+    "id": "d15-05",
+    "day": 15,
+    "english": "deserve",
+    "meaning": "值得",
+    "acceptedEnglish": [
+      "deserve"
+    ],
+    "acceptedChinese": [
+      "值得"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "deserve [dɪˈzɜːv] v."
+    }
+  },
+  {
+    "id": "d15-06",
+    "day": 15,
+    "english": "design",
+    "meaning": "设计",
+    "acceptedEnglish": [
+      "design"
+    ],
+    "acceptedChinese": [
+      "设计"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "design [dɪˈzaɪn] v."
+    }
+  },
+  {
+    "id": "d15-07",
+    "day": 15,
+    "english": "desk",
+    "meaning": "书桌；写字台",
+    "acceptedEnglish": [
+      "desk"
+    ],
+    "acceptedChinese": [
+      "书桌",
+      "写字台"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "desk [desk] n."
+    }
+  },
+  {
+    "id": "d15-08",
+    "day": 15,
+    "english": "destroy",
+    "meaning": "破坏",
+    "acceptedEnglish": [
+      "destroy"
+    ],
+    "acceptedChinese": [
+      "破坏"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "destroy [dɪˈstrɔɪ] v."
+    }
+  },
+  {
+    "id": "d15-09",
+    "day": 15,
+    "english": "detective",
+    "meaning": "侦探的；侦探",
+    "acceptedEnglish": [
+      "detective"
+    ],
+    "acceptedChinese": [
+      "侦探的",
+      "侦探"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "detective [dɪˈtektɪv] adj. || detective [dɪˈtektɪv] n."
+    }
+  },
+  {
+    "id": "d15-10",
+    "day": 15,
+    "english": "develop",
+    "meaning": "发展；开发；培养",
+    "acceptedEnglish": [
+      "develop"
+    ],
+    "acceptedChinese": [
+      "发展",
+      "开发",
+      "培养"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "develop [di'veləp] v."
+    }
+  },
+  {
+    "id": "d15-11",
+    "day": 15,
+    "english": "development",
+    "meaning": "发展",
+    "acceptedEnglish": [
+      "development"
+    ],
+    "acceptedChinese": [
+      "发展"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "development\n[dɪˈveləpmənt] n."
+    }
+  },
+  {
+    "id": "d15-12",
+    "day": 15,
+    "english": "dialogue",
+    "meaning": "对话",
+    "acceptedEnglish": [
+      "dialogue"
+    ],
+    "acceptedChinese": [
+      "对话"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "dialogue [ˈdaɪəlɒɡ] n."
+    }
+  },
+  {
+    "id": "d15-13",
+    "day": 15,
+    "english": "diary",
+    "meaning": "日记",
+    "acceptedEnglish": [
+      "diary"
+    ],
+    "acceptedChinese": [
+      "日记"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "diary [ˈdaɪəri] n."
+    }
+  },
+  {
+    "id": "d15-14",
+    "day": 15,
+    "english": "dictionary",
+    "meaning": "词典；辞典",
+    "acceptedEnglish": [
+      "dictionary"
+    ],
+    "acceptedChinese": [
+      "词典",
+      "辞典"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "dictionary ['dikʃəneri] n."
+    }
+  },
+  {
+    "id": "d15-15",
+    "day": 15,
+    "english": "die",
+    "meaning": "死",
+    "acceptedEnglish": [
+      "die"
+    ],
+    "acceptedChinese": [
+      "死"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "die [dai] v."
+    }
+  },
+  {
+    "id": "d15-16",
+    "day": 15,
+    "english": "die of",
+    "meaning": "因……病而死",
+    "acceptedEnglish": [
+      "die of"
+    ],
+    "acceptedChinese": [
+      "因……病而死"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "die of"
+    }
+  },
+  {
+    "id": "d15-17",
+    "day": 15,
+    "english": "diet",
+    "meaning": "食物；食谱",
+    "acceptedEnglish": [
+      "diet"
+    ],
+    "acceptedChinese": [
+      "食物",
+      "食谱"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "diet [ˈdaɪət] n."
+    }
+  },
+  {
+    "id": "d15-18",
+    "day": 15,
+    "english": "go on a diet",
+    "meaning": "实行节食",
+    "acceptedEnglish": [
+      "go on a diet"
+    ],
+    "acceptedChinese": [
+      "实行节食"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "go on a diet"
+    }
+  },
+  {
+    "id": "d15-19",
+    "day": 15,
+    "english": "difference",
+    "meaning": "区别",
+    "acceptedEnglish": [
+      "difference"
+    ],
+    "acceptedChinese": [
+      "区别"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "difference ['difərəns] n."
+    }
+  },
+  {
+    "id": "d15-20",
+    "day": 15,
+    "english": "different",
+    "meaning": "不同的；差异的",
+    "acceptedEnglish": [
+      "different"
+    ],
+    "acceptedChinese": [
+      "不同的",
+      "差异的"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "different ['difərənt] adj."
+    }
+  },
+  {
+    "id": "d15-21",
+    "day": 15,
+    "english": "be different from",
+    "meaning": "与……不同",
+    "acceptedEnglish": [
+      "be different from"
+    ],
+    "acceptedChinese": [
+      "与……不同"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "be different from"
+    }
+  },
+  {
+    "id": "d15-22",
+    "day": 15,
+    "english": "difficult",
+    "meaning": "困难的；艰难的",
+    "acceptedEnglish": [
+      "difficult"
+    ],
+    "acceptedChinese": [
+      "困难的",
+      "艰难的"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "difficult ['difikəlt] adj."
+    }
+  },
+  {
+    "id": "d15-23",
+    "day": 15,
+    "english": "difficulty",
+    "meaning": "困难",
+    "acceptedEnglish": [
+      "difficulty"
+    ],
+    "acceptedChinese": [
+      "困难"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "difficulty [ˈdɪfɪkəlti] n."
+    }
+  },
+  {
+    "id": "d15-24",
+    "day": 15,
+    "english": "dig",
+    "meaning": "挖；掘",
+    "acceptedEnglish": [
+      "dig"
+    ],
+    "acceptedChinese": [
+      "挖",
+      "掘"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "dig [dɪɡ] (dug, dug) v."
+    }
+  },
+  {
+    "id": "d15-25",
+    "day": 15,
+    "english": "dining-room",
+    "meaning": "餐厅",
+    "acceptedEnglish": [
+      "dining-room",
+      "dining room"
+    ],
+    "acceptedChinese": [
+      "餐厅"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "dining-room [ˈdaɪnɪŋ\nruːm] n."
+    }
+  },
+  {
+    "id": "d15-26",
+    "day": 15,
+    "english": "dinner",
+    "meaning": "正餐",
+    "acceptedEnglish": [
+      "dinner"
+    ],
+    "acceptedChinese": [
+      "正餐"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "dinner ['dinə] n."
+    }
+  },
+  {
+    "id": "d15-27",
+    "day": 15,
+    "english": "dirty",
+    "meaning": "脏的",
+    "acceptedEnglish": [
+      "dirty"
+    ],
+    "acceptedChinese": [
+      "脏的"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "dirty ['də:ti] adj."
+    }
+  },
+  {
+    "id": "d15-28",
+    "day": 15,
+    "english": "disappear",
+    "meaning": "消失",
+    "acceptedEnglish": [
+      "disappear"
+    ],
+    "acceptedChinese": [
+      "消失"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "disappear [, disə'piə] v."
+    }
+  },
+  {
+    "id": "d15-29",
+    "day": 15,
+    "english": "discover",
+    "meaning": "发现；看出",
+    "acceptedEnglish": [
+      "discover"
+    ],
+    "acceptedChinese": [
+      "发现",
+      "看出"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "discover [dis'kʌvə] v."
+    }
+  },
+  {
+    "id": "d15-30",
+    "day": 15,
+    "english": "discuss",
+    "meaning": "讨论",
+    "acceptedEnglish": [
+      "discuss"
+    ],
+    "acceptedChinese": [
+      "讨论"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "discuss [di'skʌs] v."
+    }
+  },
+  {
+    "id": "d15-31",
+    "day": 15,
+    "english": "discussion",
+    "meaning": "讨论",
+    "acceptedEnglish": [
+      "discussion"
+    ],
+    "acceptedChinese": [
+      "讨论"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "discussion [di'skʌʃən] n."
+    }
+  },
+  {
+    "id": "d15-32",
+    "day": 15,
+    "english": "dish",
+    "meaning": "盘；碟；菜肴",
+    "acceptedEnglish": [
+      "dish"
+    ],
+    "acceptedChinese": [
+      "盘",
+      "碟",
+      "菜肴"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 15,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "dish [diʃ] n."
+    }
+  },
+  {
+    "id": "d16-01",
+    "day": 16,
+    "english": "dishonest",
+    "meaning": "不诚实",
+    "acceptedEnglish": [
+      "dishonest"
+    ],
+    "acceptedChinese": [
+      "不诚实"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 1,
+      "rawEnglish": "dishonest [dɪsˈɒnɪst]\nadj."
+    }
+  },
+  {
+    "id": "d16-02",
+    "day": 16,
+    "english": "dislike",
+    "meaning": "不喜欢",
+    "acceptedEnglish": [
+      "dislike"
+    ],
+    "acceptedChinese": [
+      "不喜欢"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 2,
+      "rawEnglish": "dislike [dɪsˈlaɪk] v."
+    }
+  },
+  {
+    "id": "d16-03",
+    "day": 16,
+    "english": "display",
+    "meaning": "陈列；展览；显示",
+    "acceptedEnglish": [
+      "display"
+    ],
+    "acceptedChinese": [
+      "陈列",
+      "展览",
+      "显示"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 3,
+      "rawEnglish": "display [dɪˈspleɪ] n&v."
+    }
+  },
+  {
+    "id": "d16-04",
+    "day": 16,
+    "english": "distance",
+    "meaning": "距离",
+    "acceptedEnglish": [
+      "distance"
+    ],
+    "acceptedChinese": [
+      "距离"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 4,
+      "rawEnglish": "distance [ˈdɪstəns] n."
+    }
+  },
+  {
+    "id": "d16-05",
+    "day": 16,
+    "english": "divide",
+    "meaning": "分；划分；除",
+    "acceptedEnglish": [
+      "divide"
+    ],
+    "acceptedChinese": [
+      "分",
+      "划分",
+      "除"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 5,
+      "rawEnglish": "divide [dɪˈvaɪd] v."
+    }
+  },
+  {
+    "id": "d16-06",
+    "day": 16,
+    "english": "do",
+    "meaning": "干；做",
+    "acceptedEnglish": [
+      "do"
+    ],
+    "acceptedChinese": [
+      "干",
+      "做"
+    ],
+    "note": "中文表另列助动词用法：置于主语前构成疑问，与 not 连用构成否定；用途说明不作为中文释义答案。",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 6,
+      "rawEnglish": "do [du:] v."
+    }
+  },
+  {
+    "id": "d16-07",
+    "day": 16,
+    "english": "doctor",
+    "meaning": "医生",
+    "acceptedEnglish": [
+      "doctor"
+    ],
+    "acceptedChinese": [
+      "医生"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 7,
+      "rawEnglish": "doctor ['dɔktə] n."
+    }
+  },
+  {
+    "id": "d16-08",
+    "day": 16,
+    "english": "dog",
+    "meaning": "狗",
+    "acceptedEnglish": [
+      "dog"
+    ],
+    "acceptedChinese": [
+      "狗"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 8,
+      "rawEnglish": "dog [dɒɡ] n."
+    }
+  },
+  {
+    "id": "d16-09",
+    "day": 16,
+    "english": "dollar",
+    "meaning": "元",
+    "acceptedEnglish": [
+      "dollar"
+    ],
+    "acceptedChinese": [
+      "元"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 9,
+      "rawEnglish": "dollar [ˈdɒlə(r)] n."
+    }
+  },
+  {
+    "id": "d16-10",
+    "day": 16,
+    "english": "door",
+    "meaning": "门；通道",
+    "acceptedEnglish": [
+      "door"
+    ],
+    "acceptedChinese": [
+      "门",
+      "通道"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 10,
+      "rawEnglish": "door [dɔ:] n."
+    }
+  },
+  {
+    "id": "d16-11",
+    "day": 16,
+    "english": "from door to door",
+    "meaning": "挨家挨户",
+    "acceptedEnglish": [
+      "from door to door"
+    ],
+    "acceptedChinese": [
+      "挨家挨户"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 11,
+      "rawEnglish": "from door to door"
+    }
+  },
+  {
+    "id": "d16-12",
+    "day": 16,
+    "english": "down",
+    "meaning": "向下；沿着……而下",
+    "acceptedEnglish": [
+      "down"
+    ],
+    "acceptedChinese": [
+      "向下",
+      "沿着……而下"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 12,
+      "rawEnglish": "down [daun] adv. || down [daun] prep."
+    }
+  },
+  {
+    "id": "d16-13",
+    "day": 16,
+    "english": "downstairs",
+    "meaning": "往楼下；在楼下",
+    "acceptedEnglish": [
+      "downstairs"
+    ],
+    "acceptedChinese": [
+      "往楼下",
+      "在楼下"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 13,
+      "rawEnglish": "downstairs\n[ˌdaʊnˈsteəz] adv."
+    }
+  },
+  {
+    "id": "d16-14",
+    "day": 16,
+    "english": "draw",
+    "meaning": "画；绘制；拉；拖",
+    "acceptedEnglish": [
+      "draw"
+    ],
+    "acceptedChinese": [
+      "画",
+      "绘制",
+      "拉",
+      "拖"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 14,
+      "rawEnglish": "draw [drɔ:] v."
+    }
+  },
+  {
+    "id": "d16-15",
+    "day": 16,
+    "english": "dream",
+    "meaning": "梦想；梦",
+    "acceptedEnglish": [
+      "dream"
+    ],
+    "acceptedChinese": [
+      "梦想",
+      "梦"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 15,
+      "rawEnglish": "dream [dri:m] n & v."
+    }
+  },
+  {
+    "id": "d16-16",
+    "day": 16,
+    "english": "dream of",
+    "meaning": "梦想",
+    "acceptedEnglish": [
+      "dream of"
+    ],
+    "acceptedChinese": [
+      "梦想"
+    ],
+    "note": "去除原英文栏混入的中文“梦想”。",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 16,
+      "rawEnglish": "dream of 梦想"
+    }
+  },
+  {
+    "id": "d16-17",
+    "day": 16,
+    "english": "dress",
+    "meaning": "服装；女装；童装；穿衣",
+    "acceptedEnglish": [
+      "dress"
+    ],
+    "acceptedChinese": [
+      "服装",
+      "女装",
+      "童装",
+      "穿衣"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 17,
+      "rawEnglish": "dress [dres] n. || dress [dres] v."
+    }
+  },
+  {
+    "id": "d16-18",
+    "day": 16,
+    "english": "dress up",
+    "meaning": "穿着打扮",
+    "acceptedEnglish": [
+      "dress up"
+    ],
+    "acceptedChinese": [
+      "穿着打扮"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 18,
+      "rawEnglish": "dress up"
+    }
+  },
+  {
+    "id": "d16-19",
+    "day": 16,
+    "english": "drink",
+    "meaning": "喝；饮；饮料；喝酒",
+    "acceptedEnglish": [
+      "drink"
+    ],
+    "acceptedChinese": [
+      "喝",
+      "饮",
+      "饮料",
+      "喝酒"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 19,
+      "rawEnglish": "drink [driŋk] n. || drink [driŋk] v."
+    }
+  },
+  {
+    "id": "d16-20",
+    "day": 16,
+    "english": "drive",
+    "meaning": "驾驶；驱赶",
+    "acceptedEnglish": [
+      "drive"
+    ],
+    "acceptedChinese": [
+      "驾驶",
+      "驱赶"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 20,
+      "rawEnglish": "drive [draiv] v."
+    }
+  },
+  {
+    "id": "d16-21",
+    "day": 16,
+    "english": "driver",
+    "meaning": "驾驶员；司机",
+    "acceptedEnglish": [
+      "driver"
+    ],
+    "acceptedChinese": [
+      "驾驶员",
+      "司机"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 21,
+      "rawEnglish": "driver ['draivə] n."
+    }
+  },
+  {
+    "id": "d16-22",
+    "day": 16,
+    "english": "drop",
+    "meaning": "滴；扔；掉",
+    "acceptedEnglish": [
+      "drop"
+    ],
+    "acceptedChinese": [
+      "滴",
+      "扔",
+      "掉"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 22,
+      "rawEnglish": "drop [drɔp] n. || drop [drɔp] v."
+    }
+  },
+  {
+    "id": "d16-23",
+    "day": 16,
+    "english": "dry",
+    "meaning": "干的；干燥的",
+    "acceptedEnglish": [
+      "dry"
+    ],
+    "acceptedChinese": [
+      "干的",
+      "干燥的"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 23,
+      "rawEnglish": "dry [drai] adj."
+    }
+  },
+  {
+    "id": "d16-24",
+    "day": 16,
+    "english": "duck",
+    "meaning": "鸭",
+    "acceptedEnglish": [
+      "duck"
+    ],
+    "acceptedChinese": [
+      "鸭"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 24,
+      "rawEnglish": "duck [dʌk] n."
+    }
+  },
+  {
+    "id": "d16-25",
+    "day": 16,
+    "english": "dull",
+    "meaning": "乏味的",
+    "acceptedEnglish": [
+      "dull"
+    ],
+    "acceptedChinese": [
+      "乏味的"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 25,
+      "rawEnglish": "dull [dʌl] adj."
+    }
+  },
+  {
+    "id": "d16-26",
+    "day": 16,
+    "english": "dumpling",
+    "meaning": "馄饨；汤团；饺子",
+    "acceptedEnglish": [
+      "dumpling"
+    ],
+    "acceptedChinese": [
+      "馄饨",
+      "汤团",
+      "饺子"
+    ],
+    "note": "原中文仅“馄饨；汤团”，补充常用释义“饺子”，待教师核对范围。",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 26,
+      "rawEnglish": "dumpling ['dʌmpliŋ] n."
+    }
+  },
+  {
+    "id": "d16-27",
+    "day": 16,
+    "english": "during",
+    "meaning": "在……的期间",
+    "acceptedEnglish": [
+      "during"
+    ],
+    "acceptedChinese": [
+      "在……的期间"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 27,
+      "rawEnglish": "during ['djuəriŋ] prep."
+    }
+  },
+  {
+    "id": "d16-28",
+    "day": 16,
+    "english": "duty",
+    "meaning": "责任",
+    "acceptedEnglish": [
+      "duty"
+    ],
+    "acceptedChinese": [
+      "责任"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 28,
+      "rawEnglish": "duty ['dju:ti] n."
+    }
+  },
+  {
+    "id": "d16-29",
+    "day": 16,
+    "english": "each",
+    "meaning": "每人；每个；每件",
+    "acceptedEnglish": [
+      "each"
+    ],
+    "acceptedChinese": [
+      "每人",
+      "每个",
+      "每件"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 29,
+      "rawEnglish": "each [i:tʃ] adv & pron."
+    }
+  },
+  {
+    "id": "d16-30",
+    "day": 16,
+    "english": "eager",
+    "meaning": "渴望的",
+    "acceptedEnglish": [
+      "eager"
+    ],
+    "acceptedChinese": [
+      "渴望的"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 30,
+      "rawEnglish": "eager [ˈiːɡə(r)] adj."
+    }
+  },
+  {
+    "id": "d16-31",
+    "day": 16,
+    "english": "ear",
+    "meaning": "耳朵",
+    "acceptedEnglish": [
+      "ear"
+    ],
+    "acceptedChinese": [
+      "耳朵"
+    ],
+    "note": "",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 31,
+      "rawEnglish": "ear [iə] n."
+    }
+  },
+  {
+    "id": "d16-32",
+    "day": 16,
+    "english": "early",
+    "meaning": "早的；早地",
+    "acceptedEnglish": [
+      "early"
+    ],
+    "acceptedChinese": [
+      "早的",
+      "早地"
+    ],
+    "note": "中文仅“早的”，依原英文 adj & adv 补“早地”。",
+    "source": {
+      "page": 8,
+      "day": 16,
+      "alignment": "逐词语义对照两份 PDF；合并同词分行词义，释义规范化，异常见 note",
+      "originalNumber": 32,
+      "rawEnglish": "early ['ə:li] adj & adv."
+    }
+  }
+]

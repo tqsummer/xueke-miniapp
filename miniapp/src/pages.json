@@ -83,6 +83,126 @@
           }
         }
       ]
+    },
+    {
+      "root": "pkg-english-audio-01",
+      "pages": [
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "英语离线发音"
+          }
+        }
+      ],
+      "name": "pkg-english-audio-01"
+    },
+    {
+      "root": "pkg-english-audio-02",
+      "pages": [
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "英语离线发音"
+          }
+        }
+      ],
+      "name": "pkg-english-audio-02"
+    },
+    {
+      "root": "pkg-english-audio-03",
+      "pages": [
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "英语离线发音"
+          }
+        }
+      ],
+      "name": "pkg-english-audio-03"
+    },
+    {
+      "root": "pkg-english-audio-04",
+      "pages": [
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "英语离线发音"
+          }
+        }
+      ],
+      "name": "pkg-english-audio-04"
+    },
+    {
+      "root": "pkg-english-audio-05",
+      "pages": [
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "英语离线发音"
+          }
+        }
+      ],
+      "name": "pkg-english-audio-05"
+    },
+    {
+      "root": "pkg-english-audio-06",
+      "pages": [
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "英语离线发音"
+          }
+        }
+      ],
+      "name": "pkg-english-audio-06"
+    },
+    {
+      "root": "pkg-english-audio-07",
+      "pages": [
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "英语离线发音"
+          }
+        }
+      ],
+      "name": "pkg-english-audio-07"
+    },
+    {
+      "root": "pkg-english-audio-08",
+      "pages": [
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "英语离线发音"
+          }
+        }
+      ],
+      "name": "pkg-english-audio-08"
+    },
+    {
+      "root": "pkg-english-audio-09",
+      "pages": [
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "英语离线发音"
+          }
+        }
+      ],
+      "name": "pkg-english-audio-09"
+    },
+    {
+      "root": "pkg-english-audio-10",
+      "pages": [
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "英语离线发音"
+          }
+        }
+      ],
+      "name": "pkg-english-audio-10"
     }
   ],
   "preloadRule": {

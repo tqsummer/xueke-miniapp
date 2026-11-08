@@ -19,7 +19,7 @@ const fail = (status, error) => ({ status, data: { error } })
 const ok = (data) => ({ status: 200, data })
 const clamp = (v, def, max) => Math.min(max, Math.max(1, Number(v) || def))
 
-function createApi(d, store) {
+function createApi(d, store, englishApi) {
   // ---- 建索引（冷启动时执行一次）----
   const articles = d.articles.map((a) => ({
     id: a.id, title: a.title, source: a.source, notes: a.notes,
@@ -75,6 +75,7 @@ function createApi(d, store) {
 
   // method: GET/POST/PUT/DELETE；path 不含查询串；openid 为空表示拿不到身份
   return async function handle({ method = 'GET', path = '/', query = {}, body = {}, openid = '' }) {
+    if (path.startsWith('/me/english/')) return englishApi ? englishApi({ method, path, body, openid }) : fail(503, '英语同步服务未启用')
     const seg = path.split('/').filter(Boolean).map((s) => { try { return decodeURIComponent(s) } catch { return s } })
     const route = method + ' /' + seg.slice(0, 2).join('/')
 

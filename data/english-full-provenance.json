@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "file": "中考词汇默写（写中文）.pdf",
+      "sha256": "158335ecb1511e80fa4872e63c6e81e180dcb198577a121f740e167962d89a88",
+      "bytes": 811930,
+      "pages": 30,
+      "metadataYear": 2019
+    },
+    {
+      "file": "中考词汇默写（写英文）.pdf",
+      "sha256": "b48c93c4a266477e214ab2c048a6697e145d38712599cdaacde0450284a06f03",
+      "bytes": 961701,
+      "pages": 30,
+      "metadataYear": 2019
+    }
+  ],
+  "scope": "Day 1–60；用户提供的资料，非已核实的当前上海官方考纲",
+  "rawTables": "english-full-source.json",
+  "review": "english-full-review.json",
+  "unpairedChinese": [
+    "Day 7 煮：英文表无唯一可确定词头，不静默补成 boil/cook",
+    "Day 37 奥林匹克运动会比赛项目：不并入 Olympic",
+    "Day 24 达到：不并入 God",
+    "Day 46 火箭：不并入 rock",
+    "Day 55 工具：不并入 toll"
+  ],
+  "explicitSupplements": [
+    "hall",
+    "mirror",
+    "short",
+    "weight"
+  ],
+  "notes": "原始表保留。部分原释义错误已修正；待核对项在词条 note 与 review 文件中可见。"
+}

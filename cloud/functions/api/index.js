@@ -2,11 +2,13 @@
 // 云函数入口。小程序用 wx.cloud.callFunction({ name: 'api', data: { method, path, query, body } }) 调用。
 const cloud = require('wx-server-sdk')
 const { createApi } = require('./core')
+const { createEnglishApi } = require('./english')
+const { createEnglishStore } = require('./english-store')
 
 cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV })
 const db = cloud.database()
 const _ = db.command
-const COLLECTIONS = ['users', 'favorites', 'history']
+const COLLECTIONS = ['users', 'favorites', 'history', 'english_progress']
 
 // 集合不存在时自动创建；已存在会报错，忽略即可
 const ready = Promise.all(COLLECTIONS.map((n) => db.createCollection(n).catch(() => {})))
@@ -55,7 +57,7 @@ const store = {
   },
 }
 
-const handle = createApi(require('./data.json'), store)
+const handle = createApi(require('./data.json'), store, createEnglishApi(createEnglishStore(db)))
 
 exports.main = async (event) => {
   await ready

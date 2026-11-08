@@ -1,0 +1,9068 @@
+[
+  {
+    "id": "d17-01",
+    "day": 17,
+    "english": "earth",
+    "meaning": "n.地球",
+    "acceptedEnglish": [
+      "earth"
+    ],
+    "acceptedChinese": [
+      "地球"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d17-02",
+    "day": 17,
+    "english": "easily",
+    "meaning": "adv. 容易地",
+    "acceptedEnglish": [
+      "easily"
+    ],
+    "acceptedChinese": [
+      "容易地"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 2",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d17-03",
+    "day": 17,
+    "english": "east",
+    "meaning": "n. 东,东方的；adj. 东方的",
+    "acceptedEnglish": [
+      "east"
+    ],
+    "acceptedChinese": [
+      "东",
+      "东方的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 3；原中文表行 3,4",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d17-04",
+    "day": 17,
+    "english": "easy",
+    "meaning": "adj.容易的;不费力的",
+    "acceptedEnglish": [
+      "easy"
+    ],
+    "acceptedChinese": [
+      "容易的",
+      "不费力的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 4；原中文表行 5",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d17-05",
+    "day": 17,
+    "english": "eat",
+    "meaning": "v. 吃",
+    "acceptedEnglish": [
+      "eat"
+    ],
+    "acceptedChinese": [
+      "吃"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 6",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d17-06",
+    "day": 17,
+    "english": "economy",
+    "meaning": "n. 经济，节约",
+    "acceptedEnglish": [
+      "economy"
+    ],
+    "acceptedChinese": [
+      "经济",
+      "节约"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 7",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d17-07",
+    "day": 17,
+    "english": "education",
+    "meaning": "n. 教育",
+    "acceptedEnglish": [
+      "education"
+    ],
+    "acceptedChinese": [
+      "教育"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 8",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d17-08",
+    "day": 17,
+    "english": "educational",
+    "meaning": "adj. 教育的",
+    "acceptedEnglish": [
+      "educational"
+    ],
+    "acceptedChinese": [
+      "教育的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 9",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d17-09",
+    "day": 17,
+    "english": "effect",
+    "meaning": "n. 效果",
+    "acceptedEnglish": [
+      "effect"
+    ],
+    "acceptedChinese": [
+      "效果"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 10",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d17-10",
+    "day": 17,
+    "english": "efficient",
+    "meaning": "adj.效率高的;有能力的",
+    "acceptedEnglish": [
+      "efficient"
+    ],
+    "acceptedChinese": [
+      "效率高的",
+      "有能力的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 11",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d17-11",
+    "day": 17,
+    "english": "egg",
+    "meaning": "n. 蛋；卵",
+    "acceptedEnglish": [
+      "egg"
+    ],
+    "acceptedChinese": [
+      "蛋",
+      "卵"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 12",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d17-12",
+    "day": 17,
+    "english": "either",
+    "meaning": "adj./pron.（两者中）任何一个；adv.（否定句中）也不",
+    "acceptedEnglish": [
+      "either"
+    ],
+    "acceptedChinese": [
+      "任何一个",
+      "两者之一",
+      "也不"
+    ],
+    "note": "原英文表 either 音标误抄为 efficient；未沿用音标。",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 13,14,15",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d17-13",
+    "day": 17,
+    "english": "elder",
+    "meaning": "adj.年龄较大的；年长的",
+    "acceptedEnglish": [
+      "elder"
+    ],
+    "acceptedChinese": [
+      "年龄较大的",
+      "年长的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 16",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d17-14",
+    "day": 17,
+    "english": "electric",
+    "meaning": "adj. 电的",
+    "acceptedEnglish": [
+      "electric"
+    ],
+    "acceptedChinese": [
+      "电的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 17",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d17-15",
+    "day": 17,
+    "english": "electricity",
+    "meaning": "n.电",
+    "acceptedEnglish": [
+      "electricity"
+    ],
+    "acceptedChinese": [
+      "电"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 18",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d17-16",
+    "day": 17,
+    "english": "electronic",
+    "meaning": "adj. 电子的",
+    "acceptedEnglish": [
+      "electronic"
+    ],
+    "acceptedChinese": [
+      "电子的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 19",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d17-17",
+    "day": 17,
+    "english": "elementary",
+    "meaning": "adj.初级的;基本的",
+    "acceptedEnglish": [
+      "elementary"
+    ],
+    "acceptedChinese": [
+      "初级的",
+      "基本的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 20",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d17-18",
+    "day": 17,
+    "english": "elephant",
+    "meaning": "n. 大象",
+    "acceptedEnglish": [
+      "elephant"
+    ],
+    "acceptedChinese": [
+      "大象"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 21",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d17-19",
+    "day": 17,
+    "english": "else",
+    "meaning": "adj. 其他的；别的",
+    "acceptedEnglish": [
+      "else"
+    ],
+    "acceptedChinese": [
+      "其他的",
+      "别的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 19；原中文表行 22",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d17-20",
+    "day": 17,
+    "english": "empty",
+    "meaning": "adj. 空的",
+    "acceptedEnglish": [
+      "empty"
+    ],
+    "acceptedChinese": [
+      "空的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 23",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d17-21",
+    "day": 17,
+    "english": "encourage",
+    "meaning": "v. 鼓励；怂恿",
+    "acceptedEnglish": [
+      "encourage"
+    ],
+    "acceptedChinese": [
+      "鼓励",
+      "怂恿"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 24",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d17-22",
+    "day": 17,
+    "english": "encourage sb. to do sth",
+    "meaning": "鼓励 / 激励某人做某事",
+    "acceptedEnglish": [
+      "encourage sb. to do sth"
+    ],
+    "acceptedChinese": [
+      "鼓励",
+      "激励某人做某事"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 25",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d17-23",
+    "day": 17,
+    "english": "end",
+    "meaning": "n.末尾；终点；未端；v. 结束",
+    "acceptedEnglish": [
+      "end"
+    ],
+    "acceptedChinese": [
+      "末尾",
+      "终点",
+      "未端",
+      "结束"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 23；原中文表行 26；合并英文行 24 / 中文行 27",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d17-24",
+    "day": 17,
+    "english": "in the end",
+    "meaning": "最后；终于",
+    "acceptedEnglish": [
+      "in the end"
+    ],
+    "acceptedChinese": [
+      "最后",
+      "终于"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 28",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d17-25",
+    "day": 17,
+    "english": "enemy",
+    "meaning": "n.敌人",
+    "acceptedEnglish": [
+      "enemy"
+    ],
+    "acceptedChinese": [
+      "敌人"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 29",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d17-26",
+    "day": 17,
+    "english": "energy",
+    "meaning": "n.活力；能量",
+    "acceptedEnglish": [
+      "energy"
+    ],
+    "acceptedChinese": [
+      "活力",
+      "能量"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 30",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d17-27",
+    "day": 17,
+    "english": "engine",
+    "meaning": "n.引擎，发动机",
+    "acceptedEnglish": [
+      "engine"
+    ],
+    "acceptedChinese": [
+      "引擎",
+      "发动机"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 31",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d17-28",
+    "day": 17,
+    "english": "engineer",
+    "meaning": "n.工程师",
+    "acceptedEnglish": [
+      "engineer"
+    ],
+    "acceptedChinese": [
+      "工程师"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 32",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d17-29",
+    "day": 17,
+    "english": "England",
+    "meaning": "n.英格兰",
+    "acceptedEnglish": [
+      "England"
+    ],
+    "acceptedChinese": [
+      "英格兰"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 33",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d17-30",
+    "day": 17,
+    "english": "English",
+    "meaning": "n.英语；英国人；adj.英国的；英语的",
+    "acceptedEnglish": [
+      "English"
+    ],
+    "acceptedChinese": [
+      "英语",
+      "英国人",
+      "英国的",
+      "英语的"
+    ],
+    "note": "原中文表将 English 列为“英国”，已纠正；国家英国为 Britain/UK。",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 34,35",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d17-31",
+    "day": 17,
+    "english": "in English",
+    "meaning": "用英语",
+    "acceptedEnglish": [
+      "in English"
+    ],
+    "acceptedChinese": [
+      "用英语"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 36",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d17-32",
+    "day": 17,
+    "english": "enjoy",
+    "meaning": "v.欣赏;享有;喜欢",
+    "acceptedEnglish": [
+      "enjoy"
+    ],
+    "acceptedChinese": [
+      "欣赏",
+      "享有",
+      "喜欢"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 37",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d17-33",
+    "day": 17,
+    "english": "enjoy oneself",
+    "meaning": "过得愉快",
+    "acceptedEnglish": [
+      "enjoy oneself"
+    ],
+    "acceptedChinese": [
+      "过得愉快"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 17,
+      "alignment": "逐项语义对齐；原英文表行 34；原中文表行 38",
+      "originalNumber": 33
+    }
+  },
+  {
+    "id": "d18-01",
+    "day": 18,
+    "english": "enjoyable",
+    "meaning": "adj.使人愉快的，使人欢乐的",
+    "acceptedEnglish": [
+      "enjoyable"
+    ],
+    "acceptedChinese": [
+      "使人愉快的",
+      "使人欢乐的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d18-02",
+    "day": 18,
+    "english": "enough",
+    "meaning": "adj.足够的;充分的；adv.足够地;充分地；n.足够；充分",
+    "acceptedEnglish": [
+      "enough"
+    ],
+    "acceptedChinese": [
+      "足够的",
+      "充分的",
+      "足够地",
+      "充分地",
+      "足够",
+      "充分"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 2；合并英文行 3 / 中文行 3；合并英文行 4 / 中文行 4",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d18-03",
+    "day": 18,
+    "english": "enter",
+    "meaning": "v. 进入；参加",
+    "acceptedEnglish": [
+      "enter"
+    ],
+    "acceptedChinese": [
+      "进入",
+      "参加"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 5",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d18-04",
+    "day": 18,
+    "english": "entrance",
+    "meaning": "n.入口",
+    "acceptedEnglish": [
+      "entrance"
+    ],
+    "acceptedChinese": [
+      "入口"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 6",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d18-05",
+    "day": 18,
+    "english": "envelope",
+    "meaning": "n.信封",
+    "acceptedEnglish": [
+      "envelope"
+    ],
+    "acceptedChinese": [
+      "信封"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 7",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d18-06",
+    "day": 18,
+    "english": "environment",
+    "meaning": "n.环境",
+    "acceptedEnglish": [
+      "environment"
+    ],
+    "acceptedChinese": [
+      "环境"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 8",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d18-07",
+    "day": 18,
+    "english": "equal",
+    "meaning": "v. 等于",
+    "acceptedEnglish": [
+      "equal"
+    ],
+    "acceptedChinese": [
+      "等于"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 9",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d18-08",
+    "day": 18,
+    "english": "escape",
+    "meaning": "v. 逃跑；逃亡",
+    "acceptedEnglish": [
+      "escape"
+    ],
+    "acceptedChinese": [
+      "逃跑",
+      "逃亡"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 10",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d18-09",
+    "day": 18,
+    "english": "especially",
+    "meaning": "adv.特别地",
+    "acceptedEnglish": [
+      "especially"
+    ],
+    "acceptedChinese": [
+      "特别地"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 11",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d18-10",
+    "day": 18,
+    "english": "estate",
+    "meaning": "n. 住宅区",
+    "acceptedEnglish": [
+      "estate"
+    ],
+    "acceptedChinese": [
+      "住宅区"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 12",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d18-11",
+    "day": 18,
+    "english": "Europe",
+    "meaning": "n. 欧洲",
+    "acceptedEnglish": [
+      "Europe"
+    ],
+    "acceptedChinese": [
+      "欧洲"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 13",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d18-12",
+    "day": 18,
+    "english": "eve",
+    "meaning": "n.(节日的)前夜,前夕",
+    "acceptedEnglish": [
+      "eve"
+    ],
+    "acceptedChinese": [
+      "前夜",
+      "前夕"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 14",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d18-13",
+    "day": 18,
+    "english": "even",
+    "meaning": "adv.甚至;连(…都):更",
+    "acceptedEnglish": [
+      "even"
+    ],
+    "acceptedChinese": [
+      "甚至",
+      "连……都",
+      "更"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 15",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d18-14",
+    "day": 18,
+    "english": "evening",
+    "meaning": "n.傍晚；晚上",
+    "acceptedEnglish": [
+      "evening"
+    ],
+    "acceptedChinese": [
+      "傍晚",
+      "晚上"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 16",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d18-15",
+    "day": 18,
+    "english": "event",
+    "meaning": "n. 比赛项目；事件",
+    "acceptedEnglish": [
+      "event"
+    ],
+    "acceptedChinese": [
+      "比赛项目",
+      "事件"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 17",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d18-16",
+    "day": 18,
+    "english": "ever",
+    "meaning": "adv.曾经;在任何时候",
+    "acceptedEnglish": [
+      "ever"
+    ],
+    "acceptedChinese": [
+      "曾经",
+      "在任何时候"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 18",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d18-17",
+    "day": 18,
+    "english": "every",
+    "meaning": "adj. 每一；每个的",
+    "acceptedEnglish": [
+      "every"
+    ],
+    "acceptedChinese": [
+      "每一",
+      "每个的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 19；原中文表行 19",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d18-18",
+    "day": 18,
+    "english": "everybody",
+    "meaning": "pron.每人；人人",
+    "acceptedEnglish": [
+      "everybody"
+    ],
+    "acceptedChinese": [
+      "每人",
+      "人人"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 20",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d18-19",
+    "day": 18,
+    "english": "everyone",
+    "meaning": "pron.每人；人人",
+    "acceptedEnglish": [
+      "everyone"
+    ],
+    "acceptedChinese": [
+      "每人",
+      "人人"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 21",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d18-20",
+    "day": 18,
+    "english": "everyday",
+    "meaning": "adj.每日的;日常的",
+    "acceptedEnglish": [
+      "everyday"
+    ],
+    "acceptedChinese": [
+      "每日的",
+      "日常的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 22",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d18-21",
+    "day": 18,
+    "english": "everything",
+    "meaning": "pron.每件事;事事",
+    "acceptedEnglish": [
+      "everything"
+    ],
+    "acceptedChinese": [
+      "每件事",
+      "事事"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 23；原中文表行 23",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d18-22",
+    "day": 18,
+    "english": "everywhere",
+    "meaning": "adv. 到处",
+    "acceptedEnglish": [
+      "everywhere"
+    ],
+    "acceptedChinese": [
+      "到处"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 24",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d18-23",
+    "day": 18,
+    "english": "exactly",
+    "meaning": "adv.确切地，精确地（ 表示赞同的回答）确实如此",
+    "acceptedEnglish": [
+      "exactly"
+    ],
+    "acceptedChinese": [
+      "确切地",
+      "精确地",
+      "确实如此"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 25",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d18-24",
+    "day": 18,
+    "english": "exam",
+    "meaning": "n.考试；测试；检查",
+    "acceptedEnglish": [
+      "exam"
+    ],
+    "acceptedChinese": [
+      "考试",
+      "测试",
+      "检查"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 26",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d18-25",
+    "day": 18,
+    "english": "examine",
+    "meaning": "v.检查；细查；对… 进行考试",
+    "acceptedEnglish": [
+      "examine"
+    ],
+    "acceptedChinese": [
+      "检查",
+      "细查",
+      "考试"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 27",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d18-26",
+    "day": 18,
+    "english": "example",
+    "meaning": "n.例子；榜样",
+    "acceptedEnglish": [
+      "example"
+    ],
+    "acceptedChinese": [
+      "例子",
+      "榜样"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 28",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d18-27",
+    "day": 18,
+    "english": "for example",
+    "meaning": "例如",
+    "acceptedEnglish": [
+      "for example"
+    ],
+    "acceptedChinese": [
+      "例如"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 29",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d18-28",
+    "day": 18,
+    "english": "excellent",
+    "meaning": "adj. 极好的",
+    "acceptedEnglish": [
+      "excellent"
+    ],
+    "acceptedChinese": [
+      "极好的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 30",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d18-29",
+    "day": 18,
+    "english": "except",
+    "meaning": "prep. 除……以外",
+    "acceptedEnglish": [
+      "except"
+    ],
+    "acceptedChinese": [
+      "除外",
+      "除……以外",
+      "除了"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 31",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d18-30",
+    "day": 18,
+    "english": "exchange",
+    "meaning": "v. 交换；交流",
+    "acceptedEnglish": [
+      "exchange"
+    ],
+    "acceptedChinese": [
+      "交换",
+      "交流"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 32",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d18-31",
+    "day": 18,
+    "english": "excited",
+    "meaning": "adj. 兴奋的",
+    "acceptedEnglish": [
+      "excited"
+    ],
+    "acceptedChinese": [
+      "兴奋的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 33",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d18-32",
+    "day": 18,
+    "english": "exciting",
+    "meaning": "adj. 使人兴奋的",
+    "acceptedEnglish": [
+      "exciting"
+    ],
+    "acceptedChinese": [
+      "使人兴奋的"
+    ],
+    "note": "",
+    "source": {
+      "page": 9,
+      "day": 18,
+      "alignment": "逐项语义对齐；原英文表行 34；原中文表行 34",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d19-01",
+    "day": 19,
+    "english": "excuse",
+    "meaning": "v. 原谅；宽恕；n. 借口；辩解",
+    "acceptedEnglish": [
+      "excuse"
+    ],
+    "acceptedChinese": [
+      "原谅",
+      "宽恕",
+      "借口",
+      "辩解"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1；合并英文行 2 / 中文行 2",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d19-02",
+    "day": 19,
+    "english": "exercise",
+    "meaning": "n.锻炼；做操；练习；习题",
+    "acceptedEnglish": [
+      "exercise"
+    ],
+    "acceptedChinese": [
+      "锻炼",
+      "做操",
+      "练习",
+      "习题"
+    ],
+    "note": "原中文“做操场”疑为笔误，修正为做操。",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 3；原中文表行 3",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d19-03",
+    "day": 19,
+    "english": "exhibition",
+    "meaning": "n.展览；展览会",
+    "acceptedEnglish": [
+      "exhibition"
+    ],
+    "acceptedChinese": [
+      "展览",
+      "展览会"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 4；原中文表行 4",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d19-04",
+    "day": 19,
+    "english": "expect",
+    "meaning": "v. 期待",
+    "acceptedEnglish": [
+      "expect"
+    ],
+    "acceptedChinese": [
+      "期待"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 5",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d19-05",
+    "day": 19,
+    "english": "expense",
+    "meaning": "n.花费；费用",
+    "acceptedEnglish": [
+      "expense"
+    ],
+    "acceptedChinese": [
+      "花费",
+      "费用"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 6",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d19-06",
+    "day": 19,
+    "english": "expensive",
+    "meaning": "adj. 昂贵的",
+    "acceptedEnglish": [
+      "expensive"
+    ],
+    "acceptedChinese": [
+      "昂贵的"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 7",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d19-07",
+    "day": 19,
+    "english": "experience",
+    "meaning": "n.经验；经历",
+    "acceptedEnglish": [
+      "experience"
+    ],
+    "acceptedChinese": [
+      "经验",
+      "经历"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 8",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d19-08",
+    "day": 19,
+    "english": "experiment",
+    "meaning": "n.实验",
+    "acceptedEnglish": [
+      "experiment"
+    ],
+    "acceptedChinese": [
+      "实验"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 9",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d19-09",
+    "day": 19,
+    "english": "explain",
+    "meaning": "v. 解释；说明",
+    "acceptedEnglish": [
+      "explain"
+    ],
+    "acceptedChinese": [
+      "解释",
+      "说明"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 10",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d19-10",
+    "day": 19,
+    "english": "explore",
+    "meaning": "v. 探究，探索；勘察",
+    "acceptedEnglish": [
+      "explore"
+    ],
+    "acceptedChinese": [
+      "探究",
+      "探索",
+      "勘察"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 11",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d19-11",
+    "day": 19,
+    "english": "extend",
+    "meaning": "v. 伸，伸出",
+    "acceptedEnglish": [
+      "extend"
+    ],
+    "acceptedChinese": [
+      "伸",
+      "伸出"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 12",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d19-12",
+    "day": 19,
+    "english": "eye",
+    "meaning": "n. 眼睛",
+    "acceptedEnglish": [
+      "eye"
+    ],
+    "acceptedChinese": [
+      "眼睛"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 13",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d19-13",
+    "day": 19,
+    "english": "fable",
+    "meaning": "n. 寓言",
+    "acceptedEnglish": [
+      "fable"
+    ],
+    "acceptedChinese": [
+      "寓言"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 14",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d19-14",
+    "day": 19,
+    "english": "face",
+    "meaning": "n. 脸；面孔",
+    "acceptedEnglish": [
+      "face"
+    ],
+    "acceptedChinese": [
+      "脸",
+      "面孔"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 15",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d19-15",
+    "day": 19,
+    "english": "fact",
+    "meaning": "n.事实；实际",
+    "acceptedEnglish": [
+      "fact"
+    ],
+    "acceptedChinese": [
+      "事实",
+      "实际"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 16",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d19-16",
+    "day": 19,
+    "english": "in fact",
+    "meaning": "事实上；实际上",
+    "acceptedEnglish": [
+      "in fact"
+    ],
+    "acceptedChinese": [
+      "事实上",
+      "实际上"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 17",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d19-17",
+    "day": 19,
+    "english": "factory",
+    "meaning": "n. 工厂",
+    "acceptedEnglish": [
+      "factory"
+    ],
+    "acceptedChinese": [
+      "工厂"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 18",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d19-18",
+    "day": 19,
+    "english": "fail",
+    "meaning": "v. 失败；不及格",
+    "acceptedEnglish": [
+      "fail"
+    ],
+    "acceptedChinese": [
+      "失败",
+      "不及格"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 19；原中文表行 19",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d19-19",
+    "day": 19,
+    "english": "fair",
+    "meaning": "adj.公平的;合理的",
+    "acceptedEnglish": [
+      "fair"
+    ],
+    "acceptedChinese": [
+      "公平的",
+      "合理的"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 20",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d19-20",
+    "day": 19,
+    "english": "fall",
+    "meaning": "v.落下;下降;倒下;跌倒",
+    "acceptedEnglish": [
+      "fall"
+    ],
+    "acceptedChinese": [
+      "落下",
+      "下降",
+      "倒下",
+      "跌倒"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 21",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d19-21",
+    "day": 19,
+    "english": "fall asleep",
+    "meaning": "入睡",
+    "acceptedEnglish": [
+      "fall asleep"
+    ],
+    "acceptedChinese": [
+      "入睡"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 22",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d19-22",
+    "day": 19,
+    "english": "familiar",
+    "meaning": "adj. 熟悉的",
+    "acceptedEnglish": [
+      "familiar"
+    ],
+    "acceptedChinese": [
+      "熟悉的"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 23；原中文表行 23",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d19-23",
+    "day": 19,
+    "english": "be familiar with",
+    "meaning": "对……熟悉；通晓",
+    "acceptedEnglish": [
+      "be familiar with",
+      "get familiar with"
+    ],
+    "acceptedChinese": [
+      "对……熟悉",
+      "通晓"
+    ],
+    "note": "原表 be / get familiar to / with 合写不同主客体关系，现拆分：人 be/get familiar with 事物；事物 be familiar to 人。不把 get familiar to 当作等价标准答案。",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 24",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d19-91",
+    "day": 19,
+    "english": "be familiar to",
+    "meaning": "为……所熟悉",
+    "acceptedEnglish": [
+      "be familiar to"
+    ],
+    "acceptedChinese": [
+      "为……所熟悉"
+    ],
+    "note": "原表 be / get familiar to / with 合写不同主客体关系，现拆分：人 be/get familiar with 事物；事物 be familiar to 人。不把 get familiar to 当作等价标准答案。",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 24",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d19-24",
+    "day": 19,
+    "english": "family",
+    "meaning": "n.家庭",
+    "acceptedEnglish": [
+      "family"
+    ],
+    "acceptedChinese": [
+      "家庭"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 25",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d19-25",
+    "day": 19,
+    "english": "famous",
+    "meaning": "adj. 著名的",
+    "acceptedEnglish": [
+      "famous"
+    ],
+    "acceptedChinese": [
+      "著名的"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 26",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d19-26",
+    "day": 19,
+    "english": "be famous for",
+    "meaning": "以……而著名",
+    "acceptedEnglish": [
+      "be famous for"
+    ],
+    "acceptedChinese": [
+      "以……而著名",
+      "因……而著名"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 27",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d19-27",
+    "day": 19,
+    "english": "fan",
+    "meaning": "n.扇子",
+    "acceptedEnglish": [
+      "fan"
+    ],
+    "acceptedChinese": [
+      "扇子"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 28",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d19-28",
+    "day": 19,
+    "english": "far",
+    "meaning": "adj. 远的；adv. 远地",
+    "acceptedEnglish": [
+      "far"
+    ],
+    "acceptedChinese": [
+      "远的",
+      "远地"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 29,30",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d19-29",
+    "day": 19,
+    "english": "far away (from)",
+    "meaning": "(离)遥远",
+    "acceptedEnglish": [
+      "far away (from)",
+      "far away",
+      "far away from"
+    ],
+    "acceptedChinese": [
+      "遥远",
+      "远离"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 32",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d19-30",
+    "day": 19,
+    "english": "so far",
+    "meaning": "迄今为止",
+    "acceptedEnglish": [
+      "so far"
+    ],
+    "acceptedChinese": [
+      "迄今为止"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 31",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d19-31",
+    "day": 19,
+    "english": "farm",
+    "meaning": "n.农场；农庄",
+    "acceptedEnglish": [
+      "farm"
+    ],
+    "acceptedChinese": [
+      "农场",
+      "农庄"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 33",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d19-32",
+    "day": 19,
+    "english": "farmer",
+    "meaning": "n.农民，农夫",
+    "acceptedEnglish": [
+      "farmer"
+    ],
+    "acceptedChinese": [
+      "农民",
+      "农夫"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 19,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 34",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d20-01",
+    "day": 20,
+    "english": "fast",
+    "meaning": "adj. 快的；迅速的；adv. 快地；迅速地",
+    "acceptedEnglish": [
+      "fast"
+    ],
+    "acceptedChinese": [
+      "快的",
+      "迅速的",
+      "快地",
+      "迅速地"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1,2",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d20-02",
+    "day": 20,
+    "english": "fat",
+    "meaning": "adj. 肥胖的；n.脂肪",
+    "acceptedEnglish": [
+      "fat"
+    ],
+    "acceptedChinese": [
+      "肥胖的",
+      "脂肪"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 3；合并英文行 3 / 中文行 4",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d20-03",
+    "day": 20,
+    "english": "father",
+    "meaning": "n.父亲",
+    "acceptedEnglish": [
+      "father"
+    ],
+    "acceptedChinese": [
+      "父亲"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 4；原中文表行 5",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d20-04",
+    "day": 20,
+    "english": "favour",
+    "meaning": "n.恩惠",
+    "acceptedEnglish": [
+      "favour",
+      "favor"
+    ],
+    "acceptedChinese": [
+      "恩惠"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 6",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d20-05",
+    "day": 20,
+    "english": "do sb. a favour",
+    "meaning": "帮某人忙",
+    "acceptedEnglish": [
+      "do sb. a favour",
+      "do sb. a favor",
+      "do somebody a favour",
+      "do somebody a favor"
+    ],
+    "acceptedChinese": [
+      "帮某人忙"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 8",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d20-06",
+    "day": 20,
+    "english": "in favor of",
+    "meaning": "赞同，赞成",
+    "acceptedEnglish": [
+      "in favor of",
+      "in favour of"
+    ],
+    "acceptedChinese": [
+      "赞同",
+      "赞成"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 7",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d20-07",
+    "day": 20,
+    "english": "favourite",
+    "meaning": "adj. 最喜爱的",
+    "acceptedEnglish": [
+      "favourite",
+      "favorite"
+    ],
+    "acceptedChinese": [
+      "最喜爱的"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 9",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d20-08",
+    "day": 20,
+    "english": "fax",
+    "meaning": "n.传真",
+    "acceptedEnglish": [
+      "fax"
+    ],
+    "acceptedChinese": [
+      "传真"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 10",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d20-09",
+    "day": 20,
+    "english": "fear",
+    "meaning": "n.恐惧",
+    "acceptedEnglish": [
+      "fear"
+    ],
+    "acceptedChinese": [
+      "恐惧"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 11",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d20-10",
+    "day": 20,
+    "english": "February",
+    "meaning": "n.二月",
+    "acceptedEnglish": [
+      "February"
+    ],
+    "acceptedChinese": [
+      "二月"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 12",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d20-11",
+    "day": 20,
+    "english": "feed",
+    "meaning": "v. 喂养；饲养",
+    "acceptedEnglish": [
+      "feed"
+    ],
+    "acceptedChinese": [
+      "喂养",
+      "饲养"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 13",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d20-12",
+    "day": 20,
+    "english": "feel",
+    "meaning": "v. 感觉；摸；触",
+    "acceptedEnglish": [
+      "feel"
+    ],
+    "acceptedChinese": [
+      "感觉",
+      "摸",
+      "触"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 14",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d20-13",
+    "day": 20,
+    "english": "female",
+    "meaning": "n.女性；雌性",
+    "acceptedEnglish": [
+      "female"
+    ],
+    "acceptedChinese": [
+      "女性",
+      "雌性"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 15",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d20-14",
+    "day": 20,
+    "english": "fence",
+    "meaning": "n. 围墙；栅栏",
+    "acceptedEnglish": [
+      "fence"
+    ],
+    "acceptedChinese": [
+      "围墙",
+      "栅栏"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 16",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d20-15",
+    "day": 20,
+    "english": "ferry",
+    "meaning": "n. 渡船",
+    "acceptedEnglish": [
+      "ferry"
+    ],
+    "acceptedChinese": [
+      "渡船"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 17",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d20-16",
+    "day": 20,
+    "english": "festival",
+    "meaning": "n.节日",
+    "acceptedEnglish": [
+      "festival"
+    ],
+    "acceptedChinese": [
+      "节日"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 18",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d20-17",
+    "day": 20,
+    "english": "fetch",
+    "meaning": "v. 取",
+    "acceptedEnglish": [
+      "fetch"
+    ],
+    "acceptedChinese": [
+      "取"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 19",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d20-18",
+    "day": 20,
+    "english": "fever",
+    "meaning": "n. 发烧",
+    "acceptedEnglish": [
+      "fever"
+    ],
+    "acceptedChinese": [
+      "发烧"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 19；原中文表行 20",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d20-19",
+    "day": 20,
+    "english": "few",
+    "meaning": "pron. 不多；少数；adj.不多的;少数的",
+    "acceptedEnglish": [
+      "few"
+    ],
+    "acceptedChinese": [
+      "不多",
+      "少数",
+      "不多的",
+      "少数的"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 21,22",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d20-20",
+    "day": 20,
+    "english": "field",
+    "meaning": "n.田地；牧场；场地 ；原野；战地",
+    "acceptedEnglish": [
+      "field"
+    ],
+    "acceptedChinese": [
+      "田地",
+      "牧场",
+      "场地",
+      "原野",
+      "战地"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 23",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d20-21",
+    "day": 20,
+    "english": "fight",
+    "meaning": "v. 打仗",
+    "acceptedEnglish": [
+      "fight"
+    ],
+    "acceptedChinese": [
+      "打仗"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 24",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d20-22",
+    "day": 20,
+    "english": "figure",
+    "meaning": "n. 外形；数字",
+    "acceptedEnglish": [
+      "figure"
+    ],
+    "acceptedChinese": [
+      "外形",
+      "数字"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 23；原中文表行 25",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d20-23",
+    "day": 20,
+    "english": "fill",
+    "meaning": "v. 装满；注满；充满",
+    "acceptedEnglish": [
+      "fill"
+    ],
+    "acceptedChinese": [
+      "装满",
+      "注满",
+      "充满"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 26",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d20-24",
+    "day": 20,
+    "english": "fill in",
+    "meaning": "填充；填写",
+    "acceptedEnglish": [
+      "fill in"
+    ],
+    "acceptedChinese": [
+      "填充",
+      "填写"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 27",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d20-25",
+    "day": 20,
+    "english": "film",
+    "meaning": "n.电影；影片；胶卷",
+    "acceptedEnglish": [
+      "film"
+    ],
+    "acceptedChinese": [
+      "电影",
+      "影片",
+      "胶卷"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 28",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d20-26",
+    "day": 20,
+    "english": "make a film",
+    "meaning": "拍电影",
+    "acceptedEnglish": [
+      "make a film"
+    ],
+    "acceptedChinese": [
+      "拍电影"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 29",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d20-27",
+    "day": 20,
+    "english": "final",
+    "meaning": "adj.最后的;最终的",
+    "acceptedEnglish": [
+      "final"
+    ],
+    "acceptedChinese": [
+      "最后的",
+      "最终的"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 30",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d20-28",
+    "day": 20,
+    "english": "finally",
+    "meaning": "adv. 最终，最后",
+    "acceptedEnglish": [
+      "finally"
+    ],
+    "acceptedChinese": [
+      "最终",
+      "最后"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 31",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d20-29",
+    "day": 20,
+    "english": "find",
+    "meaning": "v.找到;发现;发觉",
+    "acceptedEnglish": [
+      "find"
+    ],
+    "acceptedChinese": [
+      "找到",
+      "发现",
+      "发觉"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 32",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d20-30",
+    "day": 20,
+    "english": "find out",
+    "meaning": "找出；查明；了解",
+    "acceptedEnglish": [
+      "find out"
+    ],
+    "acceptedChinese": [
+      "找出",
+      "查明",
+      "了解"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 33",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d20-31",
+    "day": 20,
+    "english": "fine",
+    "meaning": "adj.(身体)好;美好的; 晴朗的",
+    "acceptedEnglish": [
+      "fine"
+    ],
+    "acceptedChinese": [
+      "好",
+      "美好的",
+      "晴朗的"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 34",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d20-32",
+    "day": 20,
+    "english": "finger",
+    "meaning": "n.手指",
+    "acceptedEnglish": [
+      "finger"
+    ],
+    "acceptedChinese": [
+      "手指"
+    ],
+    "note": "",
+    "source": {
+      "page": 10,
+      "day": 20,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 35",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d21-01",
+    "day": 21,
+    "english": "finish",
+    "meaning": "v. 结束；做完",
+    "acceptedEnglish": [
+      "finish"
+    ],
+    "acceptedChinese": [
+      "结束",
+      "做完"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d21-02",
+    "day": 21,
+    "english": "fire",
+    "meaning": "n. 火；火炉；火灾",
+    "acceptedEnglish": [
+      "fire"
+    ],
+    "acceptedChinese": [
+      "火",
+      "火炉",
+      "火灾"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 2",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d21-03",
+    "day": 21,
+    "english": "catch fire",
+    "meaning": "着火",
+    "acceptedEnglish": [
+      "catch fire"
+    ],
+    "acceptedChinese": [
+      "着火"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 3；原中文表行 3",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d21-04",
+    "day": 21,
+    "english": "make a fire",
+    "meaning": "生火",
+    "acceptedEnglish": [
+      "make a fire"
+    ],
+    "acceptedChinese": [
+      "生火"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 4；原中文表行 4",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d21-05",
+    "day": 21,
+    "english": "fireman",
+    "meaning": "n. 消防队员",
+    "acceptedEnglish": [
+      "fireman"
+    ],
+    "acceptedChinese": [
+      "消防队员"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 5",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d21-06",
+    "day": 21,
+    "english": "firework",
+    "meaning": "n. 烟火",
+    "acceptedEnglish": [
+      "firework"
+    ],
+    "acceptedChinese": [
+      "烟火"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 6",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d21-07",
+    "day": 21,
+    "english": "first",
+    "meaning": "adj.第一的;最初的；adv.第一;首先;最初；n. 开始；开端",
+    "acceptedEnglish": [
+      "first"
+    ],
+    "acceptedChinese": [
+      "第一的",
+      "最初的",
+      "第一",
+      "首先",
+      "最初",
+      "开始",
+      "开端"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 7,8；合并英文行 8 / 中文行 9",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d21-08",
+    "day": 21,
+    "english": "at first",
+    "meaning": "起先；开始的时候",
+    "acceptedEnglish": [
+      "at first"
+    ],
+    "acceptedChinese": [
+      "起先",
+      "开始的时候"
+    ],
+    "note": "原表 at first / last 合写相反顺序义，现拆开练习，答案不互认；来源编号相同。",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 10",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d21-91",
+    "day": 21,
+    "english": "at last",
+    "meaning": "最后；终于",
+    "acceptedEnglish": [
+      "at last"
+    ],
+    "acceptedChinese": [
+      "最后",
+      "终于"
+    ],
+    "note": "原表 at first / last 合写相反顺序义，现拆开练习，答案不互认；来源编号相同。",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 10",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d21-09",
+    "day": 21,
+    "english": "for the first time",
+    "meaning": "第一次",
+    "acceptedEnglish": [
+      "for the first time"
+    ],
+    "acceptedChinese": [
+      "第一次"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 11",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d21-10",
+    "day": 21,
+    "english": "fish",
+    "meaning": "n.鱼；鱼肉；v. 捕鱼；钓鱼",
+    "acceptedEnglish": [
+      "fish"
+    ],
+    "acceptedChinese": [
+      "鱼",
+      "鱼肉",
+      "捕鱼",
+      "钓鱼"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 12；合并英文行 12 / 中文行 13",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d21-11",
+    "day": 21,
+    "english": "fisherman",
+    "meaning": "n.渔夫，捕鱼人",
+    "acceptedEnglish": [
+      "fisherman"
+    ],
+    "acceptedChinese": [
+      "渔夫",
+      "捕鱼人"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 14",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d21-12",
+    "day": 21,
+    "english": "fit",
+    "meaning": "adj. 健康的；v.适合;与…相配",
+    "acceptedEnglish": [
+      "fit"
+    ],
+    "acceptedChinese": [
+      "健康的",
+      "适合",
+      "与…相配"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 16；合并英文行 15 / 中文行 15",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d21-13",
+    "day": 21,
+    "english": "fix",
+    "meaning": "v. 安装；修理",
+    "acceptedEnglish": [
+      "fix"
+    ],
+    "acceptedChinese": [
+      "安装",
+      "修理"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 17",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d21-14",
+    "day": 21,
+    "english": "flag",
+    "meaning": "n. 旗",
+    "acceptedEnglish": [
+      "flag"
+    ],
+    "acceptedChinese": [
+      "旗"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 18",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d21-15",
+    "day": 21,
+    "english": "flash",
+    "meaning": "n.闪光;闪现;手电筒",
+    "acceptedEnglish": [
+      "flash"
+    ],
+    "acceptedChinese": [
+      "闪光",
+      "闪现",
+      "手电筒"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 19",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d21-16",
+    "day": 21,
+    "english": "flat",
+    "meaning": "n. 一套房间；公寓",
+    "acceptedEnglish": [
+      "flat"
+    ],
+    "acceptedChinese": [
+      "一套房间",
+      "公寓"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 19；原中文表行 20",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d21-17",
+    "day": 21,
+    "english": "flight",
+    "meaning": "n. 飞行",
+    "acceptedEnglish": [
+      "flight"
+    ],
+    "acceptedChinese": [
+      "飞行"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 21",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d21-18",
+    "day": 21,
+    "english": "flood",
+    "meaning": "n.洪水；水灾",
+    "acceptedEnglish": [
+      "flood"
+    ],
+    "acceptedChinese": [
+      "洪水",
+      "水灾"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 22",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d21-19",
+    "day": 21,
+    "english": "floor",
+    "meaning": "n.地面;地板;(楼房的) 层",
+    "acceptedEnglish": [
+      "floor"
+    ],
+    "acceptedChinese": [
+      "地面",
+      "地板",
+      "层"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 23",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d21-20",
+    "day": 21,
+    "english": "flower",
+    "meaning": "n. 花",
+    "acceptedEnglish": [
+      "flower"
+    ],
+    "acceptedChinese": [
+      "花"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 23；原中文表行 24",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d21-21",
+    "day": 21,
+    "english": "fly",
+    "meaning": "v.飞;飞行;乘飞机旅行",
+    "acceptedEnglish": [
+      "fly"
+    ],
+    "acceptedChinese": [
+      "飞",
+      "飞行",
+      "乘飞机旅行"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 25",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d21-22",
+    "day": 21,
+    "english": "fog",
+    "meaning": "n. 雾",
+    "acceptedEnglish": [
+      "fog"
+    ],
+    "acceptedChinese": [
+      "雾"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 26",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d21-23",
+    "day": 21,
+    "english": "follow",
+    "meaning": "v. 听从",
+    "acceptedEnglish": [
+      "follow"
+    ],
+    "acceptedChinese": [
+      "听从"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 27",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d21-24",
+    "day": 21,
+    "english": "following",
+    "meaning": "adj. 下列的",
+    "acceptedEnglish": [
+      "following"
+    ],
+    "acceptedChinese": [
+      "下列的"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 28",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d21-25",
+    "day": 21,
+    "english": "fond",
+    "meaning": "adj. 喜爱的",
+    "acceptedEnglish": [
+      "fond"
+    ],
+    "acceptedChinese": [
+      "喜爱的"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 29",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d21-26",
+    "day": 21,
+    "english": "be fond of",
+    "meaning": "爱好",
+    "acceptedEnglish": [
+      "be fond of"
+    ],
+    "acceptedChinese": [
+      "爱好"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 30",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d21-27",
+    "day": 21,
+    "english": "food",
+    "meaning": "n. 食物；食品",
+    "acceptedEnglish": [
+      "food"
+    ],
+    "acceptedChinese": [
+      "食物",
+      "食品"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 31",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d21-28",
+    "day": 21,
+    "english": "fool",
+    "meaning": "n. 傻子；v. 愚弄；欺骗",
+    "acceptedEnglish": [
+      "fool"
+    ],
+    "acceptedChinese": [
+      "傻子",
+      "愚弄",
+      "欺骗"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 32；合并英文行 32 / 中文行 33",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d21-29",
+    "day": 21,
+    "english": "foolish",
+    "meaning": "adj. 愚蠢的；傻的",
+    "acceptedEnglish": [
+      "foolish"
+    ],
+    "acceptedChinese": [
+      "愚蠢的",
+      "傻的"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 34",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d21-30",
+    "day": 21,
+    "english": "foot",
+    "meaning": "n. 脚，足；英尺",
+    "acceptedEnglish": [
+      "foot"
+    ],
+    "acceptedChinese": [
+      "脚",
+      "足",
+      "英尺"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 34；原中文表行 35",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d21-31",
+    "day": 21,
+    "english": "on foot",
+    "meaning": "步行；走路",
+    "acceptedEnglish": [
+      "on foot"
+    ],
+    "acceptedChinese": [
+      "步行",
+      "走路"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 35；原中文表行 36",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d21-32",
+    "day": 21,
+    "english": "football",
+    "meaning": "n. 足球",
+    "acceptedEnglish": [
+      "football"
+    ],
+    "acceptedChinese": [
+      "足球"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 21,
+      "alignment": "逐项语义对齐；原英文表行 36；原中文表行 37",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d22-01",
+    "day": 22,
+    "english": "for",
+    "meaning": "prep.(表示方向)往;向(表示时间,距离)计;达(表示时间,距离)计;达(说明目的或用途)为…",
+    "acceptedEnglish": [
+      "for"
+    ],
+    "acceptedChinese": [
+      "为了",
+      "为",
+      "往",
+      "向",
+      "计",
+      "达"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d22-02",
+    "day": 22,
+    "english": "forecast",
+    "meaning": "n.&v. 预报",
+    "acceptedEnglish": [
+      "forecast"
+    ],
+    "acceptedChinese": [
+      "预报"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 2",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d22-03",
+    "day": 22,
+    "english": "foreign",
+    "meaning": "adj. 外国的",
+    "acceptedEnglish": [
+      "foreign"
+    ],
+    "acceptedChinese": [
+      "外国的"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 3；原中文表行 3",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d22-04",
+    "day": 22,
+    "english": "foreigner",
+    "meaning": "n. 外国人",
+    "acceptedEnglish": [
+      "foreigner"
+    ],
+    "acceptedChinese": [
+      "外国人"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 4；原中文表行 4",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d22-05",
+    "day": 22,
+    "english": "forest",
+    "meaning": "n. 森林",
+    "acceptedEnglish": [
+      "forest"
+    ],
+    "acceptedChinese": [
+      "森林"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 5",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d22-06",
+    "day": 22,
+    "english": "forever",
+    "meaning": "adv. 永远",
+    "acceptedEnglish": [
+      "forever"
+    ],
+    "acceptedChinese": [
+      "永远"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 6",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d22-07",
+    "day": 22,
+    "english": "forget",
+    "meaning": "v. 忘记；忘掉",
+    "acceptedEnglish": [
+      "forget"
+    ],
+    "acceptedChinese": [
+      "忘记",
+      "忘掉"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 7",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d22-08",
+    "day": 22,
+    "english": "forgetful",
+    "meaning": "adj. 健忘的",
+    "acceptedEnglish": [
+      "forgetful"
+    ],
+    "acceptedChinese": [
+      "健忘的"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 8",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d22-09",
+    "day": 22,
+    "english": "fork",
+    "meaning": "n. 叉",
+    "acceptedEnglish": [
+      "fork"
+    ],
+    "acceptedChinese": [
+      "叉"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 9",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d22-10",
+    "day": 22,
+    "english": "form",
+    "meaning": "n. 形式，方式",
+    "acceptedEnglish": [
+      "form"
+    ],
+    "acceptedChinese": [
+      "形式",
+      "方式"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 10",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d22-11",
+    "day": 22,
+    "english": "forward",
+    "meaning": "adv. 向前",
+    "acceptedEnglish": [
+      "forward"
+    ],
+    "acceptedChinese": [
+      "向前"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 11",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d22-12",
+    "day": 22,
+    "english": "fountain",
+    "meaning": "n. 喷泉",
+    "acceptedEnglish": [
+      "fountain"
+    ],
+    "acceptedChinese": [
+      "喷泉"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 12",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d22-13",
+    "day": 22,
+    "english": "fox",
+    "meaning": "n. 狐狸",
+    "acceptedEnglish": [
+      "fox"
+    ],
+    "acceptedChinese": [
+      "狐狸"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 13",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d22-14",
+    "day": 22,
+    "english": "France",
+    "meaning": "n.法国",
+    "acceptedEnglish": [
+      "France"
+    ],
+    "acceptedChinese": [
+      "法国"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 14",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d22-15",
+    "day": 22,
+    "english": "free",
+    "meaning": "adj.自由的;空闲的;免费的",
+    "acceptedEnglish": [
+      "free"
+    ],
+    "acceptedChinese": [
+      "自由的",
+      "空闲的",
+      "免费的"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 15",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d22-16",
+    "day": 22,
+    "english": "for free",
+    "meaning": "免费",
+    "acceptedEnglish": [
+      "for free"
+    ],
+    "acceptedChinese": [
+      "免费"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 16",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d22-17",
+    "day": 22,
+    "english": "freedom",
+    "meaning": "n. 自由",
+    "acceptedEnglish": [
+      "freedom"
+    ],
+    "acceptedChinese": [
+      "自由"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 17",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d22-18",
+    "day": 22,
+    "english": "freeze",
+    "meaning": "v. 结冰",
+    "acceptedEnglish": [
+      "freeze"
+    ],
+    "acceptedChinese": [
+      "结冰"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 18",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d22-19",
+    "day": 22,
+    "english": "freezing",
+    "meaning": "adj.冻结的;极冷的",
+    "acceptedEnglish": [
+      "freezing"
+    ],
+    "acceptedChinese": [
+      "冻结的",
+      "极冷的"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 19；原中文表行 19",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d22-20",
+    "day": 22,
+    "english": "French",
+    "meaning": "adj.法国的;法语的；n. 法语",
+    "acceptedEnglish": [
+      "French"
+    ],
+    "acceptedChinese": [
+      "法国的",
+      "法语的",
+      "法语"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 21；合并英文行 21 / 中文行 20",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d22-21",
+    "day": 22,
+    "english": "fresh",
+    "meaning": "adj. 新鲜的",
+    "acceptedEnglish": [
+      "fresh"
+    ],
+    "acceptedChinese": [
+      "新鲜的"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 22",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d22-22",
+    "day": 22,
+    "english": "Friday",
+    "meaning": "n. 星期五",
+    "acceptedEnglish": [
+      "Friday"
+    ],
+    "acceptedChinese": [
+      "星期五"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 23；原中文表行 23",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d22-23",
+    "day": 22,
+    "english": "fridge",
+    "meaning": "n. 冰箱",
+    "acceptedEnglish": [
+      "fridge"
+    ],
+    "acceptedChinese": [
+      "冰箱"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 24",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d22-24",
+    "day": 22,
+    "english": "friend",
+    "meaning": "n.朋友",
+    "acceptedEnglish": [
+      "friend"
+    ],
+    "acceptedChinese": [
+      "朋友"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 25",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d22-25",
+    "day": 22,
+    "english": "make friends with",
+    "meaning": "与……交朋友",
+    "acceptedEnglish": [
+      "make friends with"
+    ],
+    "acceptedChinese": [
+      "交朋友",
+      "与……交朋友"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 26",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d22-26",
+    "day": 22,
+    "english": "friendly",
+    "meaning": "adj.朋友般的;友好的",
+    "acceptedEnglish": [
+      "friendly"
+    ],
+    "acceptedChinese": [
+      "朋友般的",
+      "友好的"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 27",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d22-27",
+    "day": 22,
+    "english": "friendship",
+    "meaning": "n. 友谊",
+    "acceptedEnglish": [
+      "friendship"
+    ],
+    "acceptedChinese": [
+      "友谊"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 28",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d22-28",
+    "day": 22,
+    "english": "frighten",
+    "meaning": "v. 使害怕",
+    "acceptedEnglish": [
+      "frighten"
+    ],
+    "acceptedChinese": [
+      "使害怕"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 29",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d22-29",
+    "day": 22,
+    "english": "frightened",
+    "meaning": "adj. 受惊吓的",
+    "acceptedEnglish": [
+      "frightened"
+    ],
+    "acceptedChinese": [
+      "受惊吓的"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 30",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d22-30",
+    "day": 22,
+    "english": "frightening",
+    "meaning": "adj. 恐怖的",
+    "acceptedEnglish": [
+      "frightening"
+    ],
+    "acceptedChinese": [
+      "恐怖的"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 31",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d22-31",
+    "day": 22,
+    "english": "from",
+    "meaning": "prep. 1.(表示起点)从; 自2.(表示开始的时候) 从……3.(表示距离)距; 离4.(表示来源)来自",
+    "acceptedEnglish": [
+      "from"
+    ],
+    "acceptedChinese": [
+      "从",
+      "自",
+      "来自",
+      "距",
+      "离"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 32",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d22-32",
+    "day": 22,
+    "english": "front",
+    "meaning": "adj. 前部的; 前面的；n.前部; 前面; 前线",
+    "acceptedEnglish": [
+      "front"
+    ],
+    "acceptedChinese": [
+      "前部的",
+      "前面的",
+      "前部",
+      "前面",
+      "前线"
+    ],
+    "note": "",
+    "source": {
+      "page": 11,
+      "day": 22,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 33,34",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d23-01",
+    "day": 23,
+    "english": "in front of",
+    "meaning": "在……前面",
+    "acceptedEnglish": [
+      "in front of"
+    ],
+    "acceptedChinese": [
+      "在前面",
+      "在……前面"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d23-02",
+    "day": 23,
+    "english": "fruit",
+    "meaning": "n.水果; 果实",
+    "acceptedEnglish": [
+      "fruit"
+    ],
+    "acceptedChinese": [
+      "水果",
+      "果实"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 3",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d23-03",
+    "day": 23,
+    "english": "frozen",
+    "meaning": "adj. 冰冻的",
+    "acceptedEnglish": [
+      "frozen"
+    ],
+    "acceptedChinese": [
+      "冰冻的"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 3；原中文表行 2",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d23-04",
+    "day": 23,
+    "english": "fry",
+    "meaning": "v. 油煎, 油炸",
+    "acceptedEnglish": [
+      "fry"
+    ],
+    "acceptedChinese": [
+      "油煎",
+      "油炸"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 4；原中文表行 4",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d23-05",
+    "day": 23,
+    "english": "fuel",
+    "meaning": "n. 燃料",
+    "acceptedEnglish": [
+      "fuel"
+    ],
+    "acceptedChinese": [
+      "燃料"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 5",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d23-06",
+    "day": 23,
+    "english": "full",
+    "meaning": "adj. 满的",
+    "acceptedEnglish": [
+      "full"
+    ],
+    "acceptedChinese": [
+      "满的"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 6",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d23-07",
+    "day": 23,
+    "english": "be full of",
+    "meaning": "充满",
+    "acceptedEnglish": [
+      "be full of"
+    ],
+    "acceptedChinese": [
+      "充满"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 7",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d23-08",
+    "day": 23,
+    "english": "fun",
+    "meaning": "n.乐趣，趣事；玩笑",
+    "acceptedEnglish": [
+      "fun"
+    ],
+    "acceptedChinese": [
+      "乐趣",
+      "趣事",
+      "玩笑"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 8",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d23-09",
+    "day": 23,
+    "english": "make fun of",
+    "meaning": "拿……开玩笑",
+    "acceptedEnglish": [
+      "make fun of"
+    ],
+    "acceptedChinese": [
+      "取笑",
+      "拿……开玩笑"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 9",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d23-10",
+    "day": 23,
+    "english": "funny",
+    "meaning": "adj. 滑稽的；可笑的",
+    "acceptedEnglish": [
+      "funny"
+    ],
+    "acceptedChinese": [
+      "滑稽的",
+      "可笑的"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 10",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d23-11",
+    "day": 23,
+    "english": "furniture",
+    "meaning": "n. 家具",
+    "acceptedEnglish": [
+      "furniture"
+    ],
+    "acceptedChinese": [
+      "家具"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 11",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d23-12",
+    "day": 23,
+    "english": "future",
+    "meaning": "n. 将来，未来",
+    "acceptedEnglish": [
+      "future"
+    ],
+    "acceptedChinese": [
+      "将来",
+      "未来"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 12",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d23-13",
+    "day": 23,
+    "english": "in the future",
+    "meaning": "在将来",
+    "acceptedEnglish": [
+      "in the future"
+    ],
+    "acceptedChinese": [
+      "在将来"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 13",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d23-14",
+    "day": 23,
+    "english": "gain",
+    "meaning": "v. 得到，获得",
+    "acceptedEnglish": [
+      "gain"
+    ],
+    "acceptedChinese": [
+      "得到",
+      "获得"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 14",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d23-15",
+    "day": 23,
+    "english": "game",
+    "meaning": "n.游戏;运动;比赛",
+    "acceptedEnglish": [
+      "game"
+    ],
+    "acceptedChinese": [
+      "游戏",
+      "运动",
+      "比赛"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 15",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d23-16",
+    "day": 23,
+    "english": "garden",
+    "meaning": "n.花（果菜）园",
+    "acceptedEnglish": [
+      "garden"
+    ],
+    "acceptedChinese": [
+      "花园"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 16",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d23-17",
+    "day": 23,
+    "english": "gas",
+    "meaning": "n.气态;气体;煤气",
+    "acceptedEnglish": [
+      "gas"
+    ],
+    "acceptedChinese": [
+      "气态",
+      "气体",
+      "煤气"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 17",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d23-18",
+    "day": 23,
+    "english": "gate",
+    "meaning": "n. 大门",
+    "acceptedEnglish": [
+      "gate"
+    ],
+    "acceptedChinese": [
+      "大门"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 18",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d23-19",
+    "day": 23,
+    "english": "generally",
+    "meaning": "adv.一般地;普遍地",
+    "acceptedEnglish": [
+      "generally"
+    ],
+    "acceptedChinese": [
+      "一般地",
+      "普遍地"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 19；原中文表行 19",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d23-20",
+    "day": 23,
+    "english": "gentle",
+    "meaning": "adj. 温柔的",
+    "acceptedEnglish": [
+      "gentle"
+    ],
+    "acceptedChinese": [
+      "温柔的"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 20",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d23-21",
+    "day": 23,
+    "english": "gentleman",
+    "meaning": "n. 绅士；先生",
+    "acceptedEnglish": [
+      "gentleman"
+    ],
+    "acceptedChinese": [
+      "绅士",
+      "先生"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 21",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d23-22",
+    "day": 23,
+    "english": "gently",
+    "meaning": "adv. 轻柔地",
+    "acceptedEnglish": [
+      "gently"
+    ],
+    "acceptedChinese": [
+      "轻柔地"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 22",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d23-23",
+    "day": 23,
+    "english": "geography",
+    "meaning": "n. 地理",
+    "acceptedEnglish": [
+      "geography"
+    ],
+    "acceptedChinese": [
+      "地理"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 23；原中文表行 23",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d23-24",
+    "day": 23,
+    "english": "German",
+    "meaning": "n.德国人；德语；adj. 德国的",
+    "acceptedEnglish": [
+      "German"
+    ],
+    "acceptedChinese": [
+      "德国人",
+      "德语",
+      "德国的"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 24；合并英文行 25 / 中文行 25",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d23-25",
+    "day": 23,
+    "english": "Germany",
+    "meaning": "n. 德国",
+    "acceptedEnglish": [
+      "Germany"
+    ],
+    "acceptedChinese": [
+      "德国"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 26",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d23-26",
+    "day": 23,
+    "english": "get",
+    "meaning": "v.成为;变得;得到;到",
+    "acceptedEnglish": [
+      "get"
+    ],
+    "acceptedChinese": [
+      "成为",
+      "变得",
+      "得到",
+      "到"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 27",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d23-27",
+    "day": 23,
+    "english": "get to",
+    "meaning": "到达",
+    "acceptedEnglish": [
+      "get to"
+    ],
+    "acceptedChinese": [
+      "到达"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 28",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d23-28",
+    "day": 23,
+    "english": "get up",
+    "meaning": "起床",
+    "acceptedEnglish": [
+      "get up"
+    ],
+    "acceptedChinese": [
+      "起床"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 29",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d23-29",
+    "day": 23,
+    "english": "girl",
+    "meaning": "n.女孩",
+    "acceptedEnglish": [
+      "girl"
+    ],
+    "acceptedChinese": [
+      "女孩"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 30",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d23-30",
+    "day": 23,
+    "english": "give",
+    "meaning": "v. 给；递给；付出",
+    "acceptedEnglish": [
+      "give"
+    ],
+    "acceptedChinese": [
+      "给",
+      "递给",
+      "付出"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 31",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d23-31",
+    "day": 23,
+    "english": "give sb. a hand",
+    "meaning": "助某人一臂之力",
+    "acceptedEnglish": [
+      "give sb. a hand"
+    ],
+    "acceptedChinese": [
+      "助某人一臂之力"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 32",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d23-32",
+    "day": 23,
+    "english": "give up",
+    "meaning": "放弃",
+    "acceptedEnglish": [
+      "give up"
+    ],
+    "acceptedChinese": [
+      "放弃"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 33",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d23-33",
+    "day": 23,
+    "english": "glad",
+    "meaning": "adj.高兴的;乐意的",
+    "acceptedEnglish": [
+      "glad"
+    ],
+    "acceptedChinese": [
+      "高兴的",
+      "乐意的"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 23,
+      "alignment": "逐项语义对齐；原英文表行 34；原中文表行 34",
+      "originalNumber": 33
+    }
+  },
+  {
+    "id": "d24-01",
+    "day": 24,
+    "english": "glass",
+    "meaning": "n.玻璃；玻璃杯；（ pl.）眼镜",
+    "acceptedEnglish": [
+      "glass"
+    ],
+    "acceptedChinese": [
+      "玻璃",
+      "玻璃杯",
+      "眼镜"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d24-02",
+    "day": 24,
+    "english": "global",
+    "meaning": "adj. 全球的；球形的",
+    "acceptedEnglish": [
+      "global"
+    ],
+    "acceptedChinese": [
+      "全球的",
+      "球形的"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 2",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d24-03",
+    "day": 24,
+    "english": "glove",
+    "meaning": "n.手套",
+    "acceptedEnglish": [
+      "glove"
+    ],
+    "acceptedChinese": [
+      "手套"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 3；原中文表行 3",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d24-04",
+    "day": 24,
+    "english": "go",
+    "meaning": "v. 去；走；驶；通到",
+    "acceptedEnglish": [
+      "go"
+    ],
+    "acceptedChinese": [
+      "去",
+      "走",
+      "驶",
+      "通到"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 4；原中文表行 4",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d24-05",
+    "day": 24,
+    "english": "go on",
+    "meaning": "继续",
+    "acceptedEnglish": [
+      "go on"
+    ],
+    "acceptedChinese": [
+      "继续"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 5",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d24-06",
+    "day": 24,
+    "english": "go on a picnic",
+    "meaning": "去野餐",
+    "acceptedEnglish": [
+      "go on a picnic"
+    ],
+    "acceptedChinese": [
+      "去野餐"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 6",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d24-07",
+    "day": 24,
+    "english": "go on with / doing sth.",
+    "meaning": "继续做某事",
+    "acceptedEnglish": [
+      "go on with / doing sth.",
+      "go on with sth.",
+      "go on doing sth."
+    ],
+    "acceptedChinese": [
+      "继续做某事"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 7",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d24-08",
+    "day": 24,
+    "english": "goal",
+    "meaning": "n. 目标",
+    "acceptedEnglish": [
+      "goal"
+    ],
+    "acceptedChinese": [
+      "目标"
+    ],
+    "note": "中文表 goal/God 处“达到/目标”异常；goal 按语义对应“目标”，未按行机械匹配。",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 9",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d24-09",
+    "day": 24,
+    "english": "God",
+    "meaning": "n.上帝；神",
+    "acceptedEnglish": [
+      "God"
+    ],
+    "acceptedChinese": [
+      "上帝",
+      "神"
+    ],
+    "note": "待核对：中文表“达到/目标”与 goal/God 对应异常；goal 对齐“目标”，God 采用常见释义补正，未沿用“达到”。",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 ",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d24-10",
+    "day": 24,
+    "english": "gold",
+    "meaning": "n.金；黄金",
+    "acceptedEnglish": [
+      "gold"
+    ],
+    "acceptedChinese": [
+      "金",
+      "黄金"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 10",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d24-11",
+    "day": 24,
+    "english": "golden",
+    "meaning": "adj. 金色的",
+    "acceptedEnglish": [
+      "golden"
+    ],
+    "acceptedChinese": [
+      "金色的"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 11",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d24-12",
+    "day": 24,
+    "english": "good",
+    "meaning": "adj. 好；良好",
+    "acceptedEnglish": [
+      "good"
+    ],
+    "acceptedChinese": [
+      "好",
+      "良好"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 12",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d24-13",
+    "day": 24,
+    "english": "goodbye",
+    "meaning": "int. 再见；再会",
+    "acceptedEnglish": [
+      "goodbye"
+    ],
+    "acceptedChinese": [
+      "再见",
+      "再会"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 13",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d24-14",
+    "day": 24,
+    "english": "government",
+    "meaning": "n. 政府",
+    "acceptedEnglish": [
+      "government"
+    ],
+    "acceptedChinese": [
+      "政府"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 14",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d24-15",
+    "day": 24,
+    "english": "grade",
+    "meaning": "n.等级;(学校的)年级",
+    "acceptedEnglish": [
+      "grade"
+    ],
+    "acceptedChinese": [
+      "等级",
+      "年级"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 15",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d24-16",
+    "day": 24,
+    "english": "graduate",
+    "meaning": "v. 大学毕业；毕业；n. 大学毕业生",
+    "acceptedEnglish": [
+      "graduate"
+    ],
+    "acceptedChinese": [
+      "大学毕业",
+      "毕业",
+      "大学毕业生"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 17；合并英文行 17 / 中文行 16",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d24-17",
+    "day": 24,
+    "english": "grandfather",
+    "meaning": "n.（外）祖父",
+    "acceptedEnglish": [
+      "grandfather"
+    ],
+    "acceptedChinese": [
+      "祖父",
+      "外祖父"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 18",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d24-18",
+    "day": 24,
+    "english": "grandmother",
+    "meaning": "n.（外）祖母",
+    "acceptedEnglish": [
+      "grandmother"
+    ],
+    "acceptedChinese": [
+      "祖母",
+      "外祖母"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 19；原中文表行 19",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d24-19",
+    "day": 24,
+    "english": "grass",
+    "meaning": "n.草；草场；牧草",
+    "acceptedEnglish": [
+      "grass"
+    ],
+    "acceptedChinese": [
+      "草",
+      "草场",
+      "牧草"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 20",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d24-20",
+    "day": 24,
+    "english": "great",
+    "meaning": "adj.伟大的;重要的;(口语)美妙的;好极的",
+    "acceptedEnglish": [
+      "great"
+    ],
+    "acceptedChinese": [
+      "伟大的",
+      "重要的",
+      "美妙的",
+      "好极的"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 21",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d24-21",
+    "day": 24,
+    "english": "green",
+    "meaning": "n. 绿色；青色；；adj.绿色的;青色的",
+    "acceptedEnglish": [
+      "green"
+    ],
+    "acceptedChinese": [
+      "绿色",
+      "青色",
+      "绿色的",
+      "青色的"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 22,23",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d24-22",
+    "day": 24,
+    "english": "ground",
+    "meaning": "n.地面；土地；运动场",
+    "acceptedEnglish": [
+      "ground"
+    ],
+    "acceptedChinese": [
+      "地面",
+      "土地",
+      "运动场"
+    ],
+    "note": "原中文“运动”疑漏“场”，按 ground 常见释义补正。",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 23；原中文表行 24",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d24-23",
+    "day": 24,
+    "english": "group",
+    "meaning": "n.群；小组",
+    "acceptedEnglish": [
+      "group"
+    ],
+    "acceptedChinese": [
+      "群",
+      "小组"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 25",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d24-24",
+    "day": 24,
+    "english": "grow",
+    "meaning": "v.生长;发育;种植",
+    "acceptedEnglish": [
+      "grow"
+    ],
+    "acceptedChinese": [
+      "生长",
+      "发育",
+      "种植"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 26",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d24-25",
+    "day": 24,
+    "english": "grow up",
+    "meaning": "成年；长大",
+    "acceptedEnglish": [
+      "grow up"
+    ],
+    "acceptedChinese": [
+      "成年",
+      "长大"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 27",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d24-26",
+    "day": 24,
+    "english": "guess",
+    "meaning": "v. 猜测；推测",
+    "acceptedEnglish": [
+      "guess"
+    ],
+    "acceptedChinese": [
+      "猜测",
+      "推测"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 28",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d24-27",
+    "day": 24,
+    "english": "guest",
+    "meaning": "n. 客人，宾客",
+    "acceptedEnglish": [
+      "guest"
+    ],
+    "acceptedChinese": [
+      "客人",
+      "宾客"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 29",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d24-28",
+    "day": 24,
+    "english": "guide",
+    "meaning": "n.指导；导游；指南",
+    "acceptedEnglish": [
+      "guide"
+    ],
+    "acceptedChinese": [
+      "指导",
+      "导游",
+      "指南"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 30",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d24-29",
+    "day": 24,
+    "english": "gun",
+    "meaning": "n. 炮；枪",
+    "acceptedEnglish": [
+      "gun"
+    ],
+    "acceptedChinese": [
+      "炮",
+      "枪"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 31",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d24-30",
+    "day": 24,
+    "english": "habit",
+    "meaning": "n. 习惯",
+    "acceptedEnglish": [
+      "habit"
+    ],
+    "acceptedChinese": [
+      "习惯"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 32",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d24-31",
+    "day": 24,
+    "english": "get into the habit of",
+    "meaning": "养成……的习惯",
+    "acceptedEnglish": [
+      "get into the habit of"
+    ],
+    "acceptedChinese": [
+      "养成习惯",
+      "养成……的习惯"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 33",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d24-32",
+    "day": 24,
+    "english": "hair",
+    "meaning": "n.头发",
+    "acceptedEnglish": [
+      "hair"
+    ],
+    "acceptedChinese": [
+      "头发"
+    ],
+    "note": "",
+    "source": {
+      "page": 12,
+      "day": 24,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 34",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d25-01",
+    "day": 25,
+    "english": "half",
+    "meaning": "n./adj.一半；半",
+    "acceptedEnglish": [
+      "half"
+    ],
+    "acceptedChinese": [
+      "一半",
+      "半"
+    ],
+    "note": "原英文词性 n & v 有误，按对应中文表修正为 n./adj.。",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1,2",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d25-02",
+    "day": 25,
+    "english": "hamburger",
+    "meaning": "n. 汉堡包",
+    "acceptedEnglish": [
+      "hamburger"
+    ],
+    "acceptedChinese": [
+      "汉堡包"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 4",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d25-03",
+    "day": 25,
+    "english": "hand",
+    "meaning": "n. 手；v. 递；给；交付",
+    "acceptedEnglish": [
+      "hand"
+    ],
+    "acceptedChinese": [
+      "手",
+      "递",
+      "给",
+      "交付"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 3；原中文表行 5；合并英文行 4 / 中文行 6",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d25-04",
+    "day": 25,
+    "english": "hand in",
+    "meaning": "上交",
+    "acceptedEnglish": [
+      "hand in"
+    ],
+    "acceptedChinese": [
+      "上交"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 7",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d25-05",
+    "day": 25,
+    "english": "hang",
+    "meaning": "v. 悬挂",
+    "acceptedEnglish": [
+      "hang"
+    ],
+    "acceptedChinese": [
+      "悬挂"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 8",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d25-06",
+    "day": 25,
+    "english": "happen",
+    "meaning": "v.(偶然)发生;碰巧",
+    "acceptedEnglish": [
+      "happen"
+    ],
+    "acceptedChinese": [
+      "发生",
+      "碰巧"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 9",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d25-07",
+    "day": 25,
+    "english": "happen to do",
+    "meaning": "碰巧做",
+    "acceptedEnglish": [
+      "happen to do"
+    ],
+    "acceptedChinese": [
+      "碰巧做"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 10",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d25-08",
+    "day": 25,
+    "english": "happen to sb.",
+    "meaning": "发生在某人身上",
+    "acceptedEnglish": [
+      "happen to sb."
+    ],
+    "acceptedChinese": [
+      "发生在某人身上",
+      "发生到某人身上"
+    ],
+    "note": "原中文“发生到某人身”不完整，补正为发生在某人身上。",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 11",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d25-09",
+    "day": 25,
+    "english": "happily",
+    "meaning": "adv.幸福地;快乐地",
+    "acceptedEnglish": [
+      "happily"
+    ],
+    "acceptedChinese": [
+      "幸福地",
+      "快乐地"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 12",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d25-10",
+    "day": 25,
+    "english": "happy",
+    "meaning": "adj.幸福的;快乐的",
+    "acceptedEnglish": [
+      "happy"
+    ],
+    "acceptedChinese": [
+      "幸福的",
+      "快乐的"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 13",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d25-11",
+    "day": 25,
+    "english": "harbour",
+    "meaning": "n. 港口；港湾",
+    "acceptedEnglish": [
+      "harbour",
+      "harbor"
+    ],
+    "acceptedChinese": [
+      "港口",
+      "港湾"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 14",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d25-12",
+    "day": 25,
+    "english": "hard",
+    "meaning": "adj.硬的;困难的;艰难的；adv.努力地;(雨,雪等) 猛烈地",
+    "acceptedEnglish": [
+      "hard"
+    ],
+    "acceptedChinese": [
+      "硬的",
+      "困难的",
+      "艰难的",
+      "努力地",
+      "猛烈地"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 15,16",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d25-13",
+    "day": 25,
+    "english": "hardly",
+    "meaning": "adv. 几乎不",
+    "acceptedEnglish": [
+      "hardly"
+    ],
+    "acceptedChinese": [
+      "几乎不"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 17",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d25-14",
+    "day": 25,
+    "english": "hardworking",
+    "meaning": "adj. 勤劳的",
+    "acceptedEnglish": [
+      "hardworking"
+    ],
+    "acceptedChinese": [
+      "勤劳的"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 18",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d25-15",
+    "day": 25,
+    "english": "harmful",
+    "meaning": "adj. 有害的",
+    "acceptedEnglish": [
+      "harmful"
+    ],
+    "acceptedChinese": [
+      "有害的"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 19",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d25-16",
+    "day": 25,
+    "english": "hat",
+    "meaning": "n. 帽子",
+    "acceptedEnglish": [
+      "hat"
+    ],
+    "acceptedChinese": [
+      "帽子"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 20",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d25-17",
+    "day": 25,
+    "english": "hate",
+    "meaning": "v. 憎恨；讨厌",
+    "acceptedEnglish": [
+      "hate"
+    ],
+    "acceptedChinese": [
+      "憎恨",
+      "讨厌"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 21",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d25-18",
+    "day": 25,
+    "english": "have",
+    "meaning": "v. 有",
+    "acceptedEnglish": [
+      "have"
+    ],
+    "acceptedChinese": [
+      "有"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 19；原中文表行 22",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d25-19",
+    "day": 25,
+    "english": "have (got) to",
+    "meaning": "不得不",
+    "acceptedEnglish": [
+      "have (got) to",
+      "have to",
+      "have got to"
+    ],
+    "acceptedChinese": [
+      "不得不"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 23",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d25-20",
+    "day": 25,
+    "english": "have a good time",
+    "meaning": "玩得愉快；过得愉快",
+    "acceptedEnglish": [
+      "have a good time"
+    ],
+    "acceptedChinese": [
+      "玩得愉快",
+      "过得愉快"
+    ],
+    "note": "原释义“玩得/过得愉快”共享后半部分，展开为两个完整答案，不接受残缺“玩得”。",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 24",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d25-21",
+    "day": 25,
+    "english": "head",
+    "meaning": "n. 头，头脑",
+    "acceptedEnglish": [
+      "head"
+    ],
+    "acceptedChinese": [
+      "头",
+      "头脑"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 25",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d25-22",
+    "day": 25,
+    "english": "headache",
+    "meaning": "n.头痛",
+    "acceptedEnglish": [
+      "headache"
+    ],
+    "acceptedChinese": [
+      "头痛"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 23；原中文表行 26",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d25-23",
+    "day": 25,
+    "english": "headline",
+    "meaning": "n.报刊的大字标题",
+    "acceptedEnglish": [
+      "headline"
+    ],
+    "acceptedChinese": [
+      "报刊的大字标题"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 27",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d25-24",
+    "day": 25,
+    "english": "headmaster",
+    "meaning": "n.校长",
+    "acceptedEnglish": [
+      "headmaster"
+    ],
+    "acceptedChinese": [
+      "校长"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 28",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d25-25",
+    "day": 25,
+    "english": "health",
+    "meaning": "n. 健康",
+    "acceptedEnglish": [
+      "health"
+    ],
+    "acceptedChinese": [
+      "健康"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 29",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d25-26",
+    "day": 25,
+    "english": "healthy",
+    "meaning": "adj.健康的;健壮的",
+    "acceptedEnglish": [
+      "healthy"
+    ],
+    "acceptedChinese": [
+      "健康的",
+      "健壮的"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 30",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d25-27",
+    "day": 25,
+    "english": "hear",
+    "meaning": "v.听见;听说;得知",
+    "acceptedEnglish": [
+      "hear"
+    ],
+    "acceptedChinese": [
+      "听见",
+      "听说",
+      "得知"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 31",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d25-28",
+    "day": 25,
+    "english": "hear from",
+    "meaning": "收到……来信",
+    "acceptedEnglish": [
+      "hear from"
+    ],
+    "acceptedChinese": [
+      "收到来信",
+      "收到……来信"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 32",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d25-29",
+    "day": 25,
+    "english": "hear of",
+    "meaning": "听说",
+    "acceptedEnglish": [
+      "hear of"
+    ],
+    "acceptedChinese": [
+      "听说"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 33",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d25-30",
+    "day": 25,
+    "english": "heart",
+    "meaning": "n. 心；心脏",
+    "acceptedEnglish": [
+      "heart"
+    ],
+    "acceptedChinese": [
+      "心",
+      "心脏"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 34",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d25-31",
+    "day": 25,
+    "english": "heat",
+    "meaning": "n. 热度；热量；v. 加热",
+    "acceptedEnglish": [
+      "heat"
+    ],
+    "acceptedChinese": [
+      "热度",
+      "热量",
+      "加热"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 35；合并英文行 33 / 中文行 36",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d25-32",
+    "day": 25,
+    "english": "heavily",
+    "meaning": "adv.沉重地;大量地",
+    "acceptedEnglish": [
+      "heavily"
+    ],
+    "acceptedChinese": [
+      "沉重地",
+      "大量地"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 34；原中文表行 37",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d25-33",
+    "day": 25,
+    "english": "heavy",
+    "meaning": "adj. 重的",
+    "acceptedEnglish": [
+      "heavy"
+    ],
+    "acceptedChinese": [
+      "重的"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "逐项语义对齐；原英文表行 35；原中文表行 38",
+      "originalNumber": 33
+    }
+  },
+  {
+    "id": "d25-34",
+    "day": 25,
+    "english": "hall",
+    "meaning": "n.大厅；礼堂",
+    "acceptedEnglish": [
+      "hall"
+    ],
+    "acceptedChinese": [
+      "大厅",
+      "礼堂"
+    ],
+    "note": "待核对：中文表有“大厅；礼堂”，英文表未见对应条目；补列 hall，原始表保留。",
+    "source": {
+      "page": 13,
+      "day": 25,
+      "alignment": "仅中文表第 3 行；英文缺项，依据释义补列",
+      "originalNumber": null
+    }
+  },
+  {
+    "id": "d26-01",
+    "day": 26,
+    "english": "height",
+    "meaning": "n. 高度",
+    "acceptedEnglish": [
+      "height"
+    ],
+    "acceptedChinese": [
+      "高度"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d26-02",
+    "day": 26,
+    "english": "hello",
+    "meaning": "int. 喂；你好",
+    "acceptedEnglish": [
+      "hello"
+    ],
+    "acceptedChinese": [
+      "喂",
+      "你好"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 2",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d26-03",
+    "day": 26,
+    "english": "help",
+    "meaning": "v&n. 帮助",
+    "acceptedEnglish": [
+      "help"
+    ],
+    "acceptedChinese": [
+      "帮助"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 3；原中文表行 3",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d26-04",
+    "day": 26,
+    "english": "help sb. with sth.",
+    "meaning": "帮助某人做某事",
+    "acceptedEnglish": [
+      "help sb. with sth."
+    ],
+    "acceptedChinese": [
+      "帮助某人做某事"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 4；原中文表行 4",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d26-05",
+    "day": 26,
+    "english": "helpful",
+    "meaning": "adj.有帮助的;有益的",
+    "acceptedEnglish": [
+      "helpful"
+    ],
+    "acceptedChinese": [
+      "有帮助的",
+      "有益的"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 5",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d26-06",
+    "day": 26,
+    "english": "here",
+    "meaning": "adv.这里;在这里;向这里",
+    "acceptedEnglish": [
+      "here"
+    ],
+    "acceptedChinese": [
+      "这里",
+      "在这里",
+      "向这里"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 6",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d26-07",
+    "day": 26,
+    "english": "here and there",
+    "meaning": "到处",
+    "acceptedEnglish": [
+      "here and there"
+    ],
+    "acceptedChinese": [
+      "到处"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 7",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d26-08",
+    "day": 26,
+    "english": "hesitate",
+    "meaning": "v. 犹豫；踌躇",
+    "acceptedEnglish": [
+      "hesitate"
+    ],
+    "acceptedChinese": [
+      "犹豫",
+      "踌躇"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 8",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d26-09",
+    "day": 26,
+    "english": "hide",
+    "meaning": "v.把…藏起来;隐藏",
+    "acceptedEnglish": [
+      "hide"
+    ],
+    "acceptedChinese": [
+      "藏起来",
+      "隐藏",
+      "把……藏起来"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 9",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d26-10",
+    "day": 26,
+    "english": "high",
+    "meaning": "adj. 高的",
+    "acceptedEnglish": [
+      "high"
+    ],
+    "acceptedChinese": [
+      "高的"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 10",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d26-11",
+    "day": 26,
+    "english": "hill",
+    "meaning": "n. 小山",
+    "acceptedEnglish": [
+      "hill"
+    ],
+    "acceptedChinese": [
+      "小山"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 11",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d26-12",
+    "day": 26,
+    "english": "historical",
+    "meaning": "adj.历史的;历史上",
+    "acceptedEnglish": [
+      "historical"
+    ],
+    "acceptedChinese": [
+      "历史的",
+      "历史上"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 12",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d26-13",
+    "day": 26,
+    "english": "history",
+    "meaning": "n.历史",
+    "acceptedEnglish": [
+      "history"
+    ],
+    "acceptedChinese": [
+      "历史"
+    ],
+    "note": "原中文表“历史上”不合名词词性，修正为历史。",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 13",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d26-14",
+    "day": 26,
+    "english": "hit",
+    "meaning": "v. 打击；碰撞",
+    "acceptedEnglish": [
+      "hit"
+    ],
+    "acceptedChinese": [
+      "打击",
+      "碰撞"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 14",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d26-15",
+    "day": 26,
+    "english": "hobby",
+    "meaning": "n.兴趣；嗜好",
+    "acceptedEnglish": [
+      "hobby"
+    ],
+    "acceptedChinese": [
+      "兴趣",
+      "嗜好"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 15",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d26-16",
+    "day": 26,
+    "english": "hold",
+    "meaning": "v.拿; 抱; 握住；举行; 进行；保持；容纳",
+    "acceptedEnglish": [
+      "hold"
+    ],
+    "acceptedChinese": [
+      "拿",
+      "抱",
+      "握住",
+      "举行",
+      "进行",
+      "保持",
+      "容纳"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 16,17,18,19",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d26-17",
+    "day": 26,
+    "english": "hold a meeting",
+    "meaning": "举行会议",
+    "acceptedEnglish": [
+      "hold a meeting"
+    ],
+    "acceptedChinese": [
+      "举行会议"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 20",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d26-18",
+    "day": 26,
+    "english": "hold on",
+    "meaning": "等一等(别挂电话)",
+    "acceptedEnglish": [
+      "hold on"
+    ],
+    "acceptedChinese": [
+      "等一等"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 21",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d26-19",
+    "day": 26,
+    "english": "hole",
+    "meaning": "n. 洞",
+    "acceptedEnglish": [
+      "hole"
+    ],
+    "acceptedChinese": [
+      "洞"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 19；原中文表行 22",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d26-20",
+    "day": 26,
+    "english": "holiday",
+    "meaning": "n.假日; 假期",
+    "acceptedEnglish": [
+      "holiday"
+    ],
+    "acceptedChinese": [
+      "假日",
+      "假期"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 23",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d26-21",
+    "day": 26,
+    "english": "on holiday",
+    "meaning": "在休假",
+    "acceptedEnglish": [
+      "on holiday"
+    ],
+    "acceptedChinese": [
+      "在休假"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 24",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d26-22",
+    "day": 26,
+    "english": "home",
+    "meaning": "n. 家；adv. 家; 在家; 回家",
+    "acceptedEnglish": [
+      "home"
+    ],
+    "acceptedChinese": [
+      "家",
+      "在家",
+      "回家"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 25；合并英文行 23 / 中文行 26",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d26-23",
+    "day": 26,
+    "english": "at home",
+    "meaning": "在家 （里）",
+    "acceptedEnglish": [
+      "at home"
+    ],
+    "acceptedChinese": [
+      "在家"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 27",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d26-24",
+    "day": 26,
+    "english": "go home",
+    "meaning": "回家",
+    "acceptedEnglish": [
+      "go home"
+    ],
+    "acceptedChinese": [
+      "回家"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 28",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d26-25",
+    "day": 26,
+    "english": "homeless",
+    "meaning": "adj. 无家可归的",
+    "acceptedEnglish": [
+      "homeless"
+    ],
+    "acceptedChinese": [
+      "无家可归的"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 29",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d26-26",
+    "day": 26,
+    "english": "homework",
+    "meaning": "n.家庭作业",
+    "acceptedEnglish": [
+      "homework"
+    ],
+    "acceptedChinese": [
+      "家庭作业"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 30",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d26-27",
+    "day": 26,
+    "english": "honest",
+    "meaning": "adj. 诚实的; 正直的",
+    "acceptedEnglish": [
+      "honest"
+    ],
+    "acceptedChinese": [
+      "诚实的",
+      "正直的"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 31",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d26-28",
+    "day": 26,
+    "english": "honesty",
+    "meaning": "n. 诚实",
+    "acceptedEnglish": [
+      "honesty"
+    ],
+    "acceptedChinese": [
+      "诚实"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 32",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d26-29",
+    "day": 26,
+    "english": "honey",
+    "meaning": "n. 蜂蜜",
+    "acceptedEnglish": [
+      "honey"
+    ],
+    "acceptedChinese": [
+      "蜂蜜"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 33",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d26-30",
+    "day": 26,
+    "english": "hope",
+    "meaning": "v.&n. 希望",
+    "acceptedEnglish": [
+      "hope"
+    ],
+    "acceptedChinese": [
+      "希望"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 34",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d26-31",
+    "day": 26,
+    "english": "horse",
+    "meaning": "n. 马",
+    "acceptedEnglish": [
+      "horse"
+    ],
+    "acceptedChinese": [
+      "马"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 35",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d26-32",
+    "day": 26,
+    "english": "hospital",
+    "meaning": "n. 医院",
+    "acceptedEnglish": [
+      "hospital"
+    ],
+    "acceptedChinese": [
+      "医院"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 36",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d26-33",
+    "day": 26,
+    "english": "go to (the) hospital",
+    "meaning": "去医院（看病）",
+    "acceptedEnglish": [
+      "go to (the) hospital",
+      "go to hospital",
+      "go to the hospital"
+    ],
+    "acceptedChinese": [
+      "去医院"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 34；原中文表行 38",
+      "originalNumber": 33
+    }
+  },
+  {
+    "id": "d26-34",
+    "day": 26,
+    "english": "in hospital",
+    "meaning": "住院",
+    "acceptedEnglish": [
+      "in hospital"
+    ],
+    "acceptedChinese": [
+      "住院"
+    ],
+    "note": "",
+    "source": {
+      "page": 13,
+      "day": 26,
+      "alignment": "逐项语义对齐；原英文表行 35；原中文表行 37",
+      "originalNumber": 34
+    }
+  },
+  {
+    "id": "d27-01",
+    "day": 27,
+    "english": "host",
+    "meaning": "n. 主人",
+    "acceptedEnglish": [
+      "host"
+    ],
+    "acceptedChinese": [
+      "主人"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d27-02",
+    "day": 27,
+    "english": "hot",
+    "meaning": "adj. 热的",
+    "acceptedEnglish": [
+      "hot"
+    ],
+    "acceptedChinese": [
+      "热的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 2",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d27-03",
+    "day": 27,
+    "english": "hot dog",
+    "meaning": "n. 热狗",
+    "acceptedEnglish": [
+      "hot dog",
+      "hot-dog"
+    ],
+    "acceptedChinese": [
+      "热狗"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 3；原中文表行 3",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d27-04",
+    "day": 27,
+    "english": "hotel",
+    "meaning": "n. 旅馆",
+    "acceptedEnglish": [
+      "hotel"
+    ],
+    "acceptedChinese": [
+      "旅馆"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 4；原中文表行 4",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d27-05",
+    "day": 27,
+    "english": "hour",
+    "meaning": "n.小时",
+    "acceptedEnglish": [
+      "hour"
+    ],
+    "acceptedChinese": [
+      "小时"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 5",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d27-06",
+    "day": 27,
+    "english": "house",
+    "meaning": "n.房屋; 住宅;家",
+    "acceptedEnglish": [
+      "house"
+    ],
+    "acceptedChinese": [
+      "房屋",
+      "住宅",
+      "家"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 6",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d27-07",
+    "day": 27,
+    "english": "housework",
+    "meaning": "n.家务活",
+    "acceptedEnglish": [
+      "housework"
+    ],
+    "acceptedChinese": [
+      "家务活"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 7",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d27-08",
+    "day": 27,
+    "english": "how",
+    "meaning": "1.adv.(方法,手段,状态)怎样 ;如何,2.(程度,数量,价钱)多少, 3.(感叹)多么",
+    "acceptedEnglish": [
+      "how"
+    ],
+    "acceptedChinese": [
+      "怎样",
+      "如何",
+      "多少",
+      "多么"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 8",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d27-09",
+    "day": 27,
+    "english": "however",
+    "meaning": "adv.&conj. 然而, 可是",
+    "acceptedEnglish": [
+      "however"
+    ],
+    "acceptedChinese": [
+      "然而",
+      "可是"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 9",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d27-10",
+    "day": 27,
+    "english": "huge",
+    "meaning": "adj..巨大的;庞大的",
+    "acceptedEnglish": [
+      "huge"
+    ],
+    "acceptedChinese": [
+      "巨大的",
+      "庞大的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 10",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d27-11",
+    "day": 27,
+    "english": "huge amounts of",
+    "meaning": "大量的",
+    "acceptedEnglish": [
+      "huge amounts of"
+    ],
+    "acceptedChinese": [
+      "大量的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 11",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d27-12",
+    "day": 27,
+    "english": "human",
+    "meaning": "n.人；人类；adj.人的；人类的",
+    "acceptedEnglish": [
+      "human"
+    ],
+    "acceptedChinese": [
+      "人",
+      "人类",
+      "人的",
+      "人类的"
+    ],
+    "note": "原中文形容词行含“人们”，按词性修正。",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 13；合并英文行 13 / 中文行 12",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d27-13",
+    "day": 27,
+    "english": "humour",
+    "meaning": "n. 幽默；幽默感",
+    "acceptedEnglish": [
+      "humour",
+      "humor"
+    ],
+    "acceptedChinese": [
+      "幽默",
+      "幽默感"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 14",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d27-14",
+    "day": 27,
+    "english": "hungry",
+    "meaning": "adj. 饥饿的",
+    "acceptedEnglish": [
+      "hungry"
+    ],
+    "acceptedChinese": [
+      "饥饿的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 16",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d27-15",
+    "day": 27,
+    "english": "hungrily",
+    "meaning": "adv. 饥饿地",
+    "acceptedEnglish": [
+      "hungrily"
+    ],
+    "acceptedChinese": [
+      "饥饿地"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 15",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d27-16",
+    "day": 27,
+    "english": "hunt",
+    "meaning": "v. 打猎",
+    "acceptedEnglish": [
+      "hunt"
+    ],
+    "acceptedChinese": [
+      "打猎"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 17",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d27-17",
+    "day": 27,
+    "english": "hurry",
+    "meaning": "v&n. 赶紧；急忙",
+    "acceptedEnglish": [
+      "hurry"
+    ],
+    "acceptedChinese": [
+      "赶紧",
+      "急忙"
+    ],
+    "note": "原英文第 18、20 行重复 hurry，合并为一项；中文表仅一条对应义。",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 18；合并英文行 20 / 中文行 18",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d27-18",
+    "day": 27,
+    "english": "in a hurry",
+    "meaning": "匆忙",
+    "acceptedEnglish": [
+      "in a hurry"
+    ],
+    "acceptedChinese": [
+      "匆忙"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 19；原中文表行 19",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d27-19",
+    "day": 27,
+    "english": "hurt",
+    "meaning": "v. 痛；使受伤痛",
+    "acceptedEnglish": [
+      "hurt"
+    ],
+    "acceptedChinese": [
+      "痛",
+      "使受伤痛"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 20",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d27-20",
+    "day": 27,
+    "english": "husband",
+    "meaning": "n. 丈夫",
+    "acceptedEnglish": [
+      "husband"
+    ],
+    "acceptedChinese": [
+      "丈夫"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 21",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d27-21",
+    "day": 27,
+    "english": "hut",
+    "meaning": "n. 小屋；棚屋",
+    "acceptedEnglish": [
+      "hut"
+    ],
+    "acceptedChinese": [
+      "小屋",
+      "棚屋"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 23；原中文表行 22",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d27-22",
+    "day": 27,
+    "english": "ice",
+    "meaning": "n.冰",
+    "acceptedEnglish": [
+      "ice"
+    ],
+    "acceptedChinese": [
+      "冰"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 23",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d27-23",
+    "day": 27,
+    "english": "ice cream",
+    "meaning": "n. 冰淇淋",
+    "acceptedEnglish": [
+      "ice cream"
+    ],
+    "acceptedChinese": [
+      "冰淇淋"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 24",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d27-24",
+    "day": 27,
+    "english": "idea",
+    "meaning": "n.主意;意见;打算;想法",
+    "acceptedEnglish": [
+      "idea"
+    ],
+    "acceptedChinese": [
+      "主意",
+      "意见",
+      "打算",
+      "想法"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 25",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d27-25",
+    "day": 27,
+    "english": "have no idea",
+    "meaning": "不清楚",
+    "acceptedEnglish": [
+      "have no idea"
+    ],
+    "acceptedChinese": [
+      "不清楚"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 26",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d27-26",
+    "day": 27,
+    "english": "if",
+    "meaning": "conj.1.(连接状语从句)如果; 假使2.(连接宾语从句)是否 ;是不是",
+    "acceptedEnglish": [
+      "if"
+    ],
+    "acceptedChinese": [
+      "如果",
+      "假使",
+      "是否",
+      "是不是"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 27",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d27-27",
+    "day": 27,
+    "english": "ill",
+    "meaning": "adj.有病的;不健康的",
+    "acceptedEnglish": [
+      "ill"
+    ],
+    "acceptedChinese": [
+      "有病的",
+      "不健康的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 28",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d27-28",
+    "day": 27,
+    "english": "illness",
+    "meaning": "n. 病；疾病",
+    "acceptedEnglish": [
+      "illness"
+    ],
+    "acceptedChinese": [
+      "病",
+      "疾病"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 29",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d27-29",
+    "day": 27,
+    "english": "immediately",
+    "meaning": "adv. 立刻",
+    "acceptedEnglish": [
+      "immediately"
+    ],
+    "acceptedChinese": [
+      "立刻"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 30",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d27-30",
+    "day": 27,
+    "english": "importance",
+    "meaning": "n. 重要性",
+    "acceptedEnglish": [
+      "importance"
+    ],
+    "acceptedChinese": [
+      "重要性"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 31",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d27-31",
+    "day": 27,
+    "english": "important",
+    "meaning": "adj. 重要的",
+    "acceptedEnglish": [
+      "important"
+    ],
+    "acceptedChinese": [
+      "重要的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 27,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 32",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d28-01",
+    "day": 28,
+    "english": "impossible",
+    "meaning": "adj. 不可能的",
+    "acceptedEnglish": [
+      "impossible"
+    ],
+    "acceptedChinese": [
+      "不可能的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d28-02",
+    "day": 28,
+    "english": "improve",
+    "meaning": "v. 改善；改进",
+    "acceptedEnglish": [
+      "improve"
+    ],
+    "acceptedChinese": [
+      "改善",
+      "改进"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 2",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d28-03",
+    "day": 28,
+    "english": "in",
+    "meaning": "1.prep.(位置)在内;在里面; 在…中 2.在…(时间) 3.…(情况,状态)中 4.以…(方法);使用…(语言) 5.穿;戴；adv.在家;在内;向内",
+    "acceptedEnglish": [
+      "in"
+    ],
+    "acceptedChinese": [
+      "在内",
+      "在里面",
+      "在",
+      "在家",
+      "向内",
+      "穿",
+      "戴"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 3；原中文表行 3；合并英文行 4 / 中文行 4",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d28-04",
+    "day": 28,
+    "english": "in one's fifties",
+    "meaning": "在某人五十多岁时",
+    "acceptedEnglish": [
+      "in one's fifties"
+    ],
+    "acceptedChinese": [
+      "在某人五十多岁时"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 5",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d28-05",
+    "day": 28,
+    "english": "inch",
+    "meaning": "n. 英寸",
+    "acceptedEnglish": [
+      "inch"
+    ],
+    "acceptedChinese": [
+      "英寸"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 6",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d28-06",
+    "day": 28,
+    "english": "include",
+    "meaning": "v. 包括;包含",
+    "acceptedEnglish": [
+      "include"
+    ],
+    "acceptedChinese": [
+      "包括",
+      "包含"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 7",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d28-07",
+    "day": 28,
+    "english": "increase",
+    "meaning": "v.增加;增长;增进",
+    "acceptedEnglish": [
+      "increase"
+    ],
+    "acceptedChinese": [
+      "增加",
+      "增长",
+      "增进"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 8",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d28-08",
+    "day": 28,
+    "english": "indeed",
+    "meaning": "adv. 的确；真正的",
+    "acceptedEnglish": [
+      "indeed"
+    ],
+    "acceptedChinese": [
+      "的确",
+      "真正的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 9",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d28-09",
+    "day": 28,
+    "english": "independent",
+    "meaning": "adj.独立的;有主见的",
+    "acceptedEnglish": [
+      "independent"
+    ],
+    "acceptedChinese": [
+      "独立的",
+      "有主见的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 10",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d28-10",
+    "day": 28,
+    "english": "India",
+    "meaning": "n.印度",
+    "acceptedEnglish": [
+      "India"
+    ],
+    "acceptedChinese": [
+      "印度"
+    ],
+    "note": "待核对：英文表 India 的两行与中文“印度人/印度的”不符。保留 India 并补正常见释义，另列 Indian；原始两表保留。",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 ",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d28-11",
+    "day": 28,
+    "english": "Indian",
+    "meaning": "n.印度人；（美洲）印第安人；adj.印度的；印第安人的",
+    "acceptedEnglish": [
+      "Indian"
+    ],
+    "acceptedChinese": [
+      "印度人",
+      "印第安人",
+      "印度的",
+      "印第安人的"
+    ],
+    "note": "待核对：原英文第二行仍印 India adj.，依中文释义校正为 Indian；原表“印第安语”不作为唯一语言名沿用。",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 11,12",
+      "originalNumber": null
+    }
+  },
+  {
+    "id": "d28-12",
+    "day": 28,
+    "english": "individual",
+    "meaning": "adj.个人的;个体的",
+    "acceptedEnglish": [
+      "individual"
+    ],
+    "acceptedChinese": [
+      "个人的",
+      "个体的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 13",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d28-13",
+    "day": 28,
+    "english": "indoor",
+    "meaning": "adj. 室内的",
+    "acceptedEnglish": [
+      "indoor"
+    ],
+    "acceptedChinese": [
+      "室内的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 14",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d28-14",
+    "day": 28,
+    "english": "information",
+    "meaning": "n.信息;情报;资料",
+    "acceptedEnglish": [
+      "information"
+    ],
+    "acceptedChinese": [
+      "信息",
+      "情报",
+      "资料"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 15",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d28-15",
+    "day": 28,
+    "english": "ink",
+    "meaning": "n. 墨水",
+    "acceptedEnglish": [
+      "ink"
+    ],
+    "acceptedChinese": [
+      "墨水"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 16",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d28-16",
+    "day": 28,
+    "english": "inside",
+    "meaning": "prep.在…里面,在…之内；adv.…之内;在里面,在内部",
+    "acceptedEnglish": [
+      "inside"
+    ],
+    "acceptedChinese": [
+      "在里面",
+      "在内部",
+      "在……里面",
+      "在……之内"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 17,18",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d28-17",
+    "day": 28,
+    "english": "instead",
+    "meaning": "adv. 代替；顶替",
+    "acceptedEnglish": [
+      "instead"
+    ],
+    "acceptedChinese": [
+      "代替",
+      "顶替"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 19",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d28-18",
+    "day": 28,
+    "english": "instead of",
+    "meaning": "代替；而不是",
+    "acceptedEnglish": [
+      "instead of"
+    ],
+    "acceptedChinese": [
+      "代替",
+      "而不是"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 19；原中文表行 20",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d28-19",
+    "day": 28,
+    "english": "interest",
+    "meaning": "n. 兴趣；趣味",
+    "acceptedEnglish": [
+      "interest"
+    ],
+    "acceptedChinese": [
+      "兴趣",
+      "趣味"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 21",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d28-20",
+    "day": 28,
+    "english": "interested",
+    "meaning": "adj. 感兴趣的",
+    "acceptedEnglish": [
+      "interested"
+    ],
+    "acceptedChinese": [
+      "感兴趣的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 22",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d28-21",
+    "day": 28,
+    "english": "be interested in",
+    "meaning": "对……感兴趣",
+    "acceptedEnglish": [
+      "be interested in"
+    ],
+    "acceptedChinese": [
+      "感兴趣",
+      "对……感兴趣"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 23",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d28-22",
+    "day": 28,
+    "english": "interesting",
+    "meaning": "adj.有趣的;有意思的",
+    "acceptedEnglish": [
+      "interesting"
+    ],
+    "acceptedChinese": [
+      "有趣的",
+      "有意思的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 23；原中文表行 24",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d28-23",
+    "day": 28,
+    "english": "international",
+    "meaning": "adj. 国际的",
+    "acceptedEnglish": [
+      "international"
+    ],
+    "acceptedChinese": [
+      "国际的"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 25",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d28-24",
+    "day": 28,
+    "english": "Internet",
+    "meaning": "n.英特网",
+    "acceptedEnglish": [
+      "Internet"
+    ],
+    "acceptedChinese": [
+      "英特网"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 26",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d28-25",
+    "day": 28,
+    "english": "interview",
+    "meaning": "v&n.面谈,访谈,采访",
+    "acceptedEnglish": [
+      "interview"
+    ],
+    "acceptedChinese": [
+      "面谈",
+      "访谈",
+      "采访"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 27",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d28-26",
+    "day": 28,
+    "english": "into",
+    "meaning": "prep.1.(动作方向)到… 内;向内2.(表示情况和结果的变化)变成",
+    "acceptedEnglish": [
+      "into"
+    ],
+    "acceptedChinese": [
+      "到里面",
+      "向内",
+      "进入",
+      "变成"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 28",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d28-27",
+    "day": 28,
+    "english": "introduce",
+    "meaning": "v. 介绍",
+    "acceptedEnglish": [
+      "introduce"
+    ],
+    "acceptedChinese": [
+      "介绍"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 29",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d28-28",
+    "day": 28,
+    "english": "invent",
+    "meaning": "v. 发明，创造",
+    "acceptedEnglish": [
+      "invent"
+    ],
+    "acceptedChinese": [
+      "发明",
+      "创造"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 30",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d28-29",
+    "day": 28,
+    "english": "invention",
+    "meaning": "n.发明,创造;发明物",
+    "acceptedEnglish": [
+      "invention"
+    ],
+    "acceptedChinese": [
+      "发明",
+      "创造",
+      "发明物"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 31",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d28-30",
+    "day": 28,
+    "english": "inventor",
+    "meaning": "n. 发明者，发明家",
+    "acceptedEnglish": [
+      "inventor"
+    ],
+    "acceptedChinese": [
+      "发明者",
+      "发明家"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 32",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d28-31",
+    "day": 28,
+    "english": "invitation",
+    "meaning": "n. 邀请",
+    "acceptedEnglish": [
+      "invitation"
+    ],
+    "acceptedChinese": [
+      "邀请"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 33",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d28-32",
+    "day": 28,
+    "english": "invite",
+    "meaning": "v. 邀请",
+    "acceptedEnglish": [
+      "invite"
+    ],
+    "acceptedChinese": [
+      "邀请"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 34",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d28-33",
+    "day": 28,
+    "english": "iron",
+    "meaning": "n. 铁",
+    "acceptedEnglish": [
+      "iron"
+    ],
+    "acceptedChinese": [
+      "铁"
+    ],
+    "note": "",
+    "source": {
+      "page": 14,
+      "day": 28,
+      "alignment": "逐项语义对齐；原英文表行 34；原中文表行 35",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d29-01",
+    "day": 29,
+    "english": "island",
+    "meaning": "n. 岛屿",
+    "acceptedEnglish": [
+      "island"
+    ],
+    "acceptedChinese": [
+      "岛屿"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d29-02",
+    "day": 29,
+    "english": "Italian",
+    "meaning": "n.意大利人;意大利语；adj.意大利的；意大利语的",
+    "acceptedEnglish": [
+      "Italian"
+    ],
+    "acceptedChinese": [
+      "意大利人",
+      "意大利语",
+      "意大利的",
+      "意大利语的"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 2；合并英文行 3 / 中文行 3",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d29-03",
+    "day": 29,
+    "english": "Italy",
+    "meaning": "n. 意大利",
+    "acceptedEnglish": [
+      "Italy"
+    ],
+    "acceptedChinese": [
+      "意大利"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 4；原中文表行 4",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d29-04",
+    "day": 29,
+    "english": "item",
+    "meaning": "n. 节目；项目",
+    "acceptedEnglish": [
+      "item"
+    ],
+    "acceptedChinese": [
+      "节目",
+      "项目"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 5；原中文表行 5",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d29-05",
+    "day": 29,
+    "english": "jacket",
+    "meaning": "n. 短上衣，茄克衫",
+    "acceptedEnglish": [
+      "jacket"
+    ],
+    "acceptedChinese": [
+      "短上衣",
+      "茄克衫"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 6",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d29-06",
+    "day": 29,
+    "english": "jam",
+    "meaning": "n. 果酱；拥挤",
+    "acceptedEnglish": [
+      "jam"
+    ],
+    "acceptedChinese": [
+      "果酱",
+      "拥挤"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 7",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d29-07",
+    "day": 29,
+    "english": "January",
+    "meaning": "n. 一月",
+    "acceptedEnglish": [
+      "January"
+    ],
+    "acceptedChinese": [
+      "一月"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 8",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d29-08",
+    "day": 29,
+    "english": "Japan",
+    "meaning": "n. 日本",
+    "acceptedEnglish": [
+      "Japan"
+    ],
+    "acceptedChinese": [
+      "日本"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 9",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d29-09",
+    "day": 29,
+    "english": "Japanese",
+    "meaning": "n.日本人；日语；adj. 日本的",
+    "acceptedEnglish": [
+      "Japanese"
+    ],
+    "acceptedChinese": [
+      "日本人",
+      "日语",
+      "日本的"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 10；原中文表行 10；合并英文行 11 / 中文行 11",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d29-10",
+    "day": 29,
+    "english": "jeans",
+    "meaning": "n. 牛仔裤",
+    "acceptedEnglish": [
+      "jeans"
+    ],
+    "acceptedChinese": [
+      "牛仔裤"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 12",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d29-11",
+    "day": 29,
+    "english": "job",
+    "meaning": "n. 工作；零活",
+    "acceptedEnglish": [
+      "job"
+    ],
+    "acceptedChinese": [
+      "工作",
+      "零活"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 13",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d29-12",
+    "day": 29,
+    "english": "join",
+    "meaning": "v. 参加；加入",
+    "acceptedEnglish": [
+      "join"
+    ],
+    "acceptedChinese": [
+      "参加",
+      "加入"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 14",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d29-13",
+    "day": 29,
+    "english": "joke",
+    "meaning": "n. 玩笑 v. 开玩笑",
+    "acceptedEnglish": [
+      "joke"
+    ],
+    "acceptedChinese": [
+      "玩笑开玩笑"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 15",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d29-14",
+    "day": 29,
+    "english": "journey",
+    "meaning": "n. 旅行",
+    "acceptedEnglish": [
+      "journey"
+    ],
+    "acceptedChinese": [
+      "旅行"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 16",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d29-15",
+    "day": 29,
+    "english": "joy",
+    "meaning": "n. 欢乐；高兴",
+    "acceptedEnglish": [
+      "joy"
+    ],
+    "acceptedChinese": [
+      "欢乐",
+      "高兴"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 17",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d29-16",
+    "day": 29,
+    "english": "judge",
+    "meaning": "n. 法官，评判员；v. 审判，判定",
+    "acceptedEnglish": [
+      "judge"
+    ],
+    "acceptedChinese": [
+      "法官",
+      "评判员",
+      "审判",
+      "判定"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 18；合并英文行 19 / 中文行 19",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d29-17",
+    "day": 29,
+    "english": "juice",
+    "meaning": "n. 果汁",
+    "acceptedEnglish": [
+      "juice"
+    ],
+    "acceptedChinese": [
+      "果汁"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 20",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d29-18",
+    "day": 29,
+    "english": "July",
+    "meaning": "n. 七月",
+    "acceptedEnglish": [
+      "July"
+    ],
+    "acceptedChinese": [
+      "七月"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 21",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d29-19",
+    "day": 29,
+    "english": "jump",
+    "meaning": "v. 跳；跳跃；n. 跳；跳跃",
+    "acceptedEnglish": [
+      "jump"
+    ],
+    "acceptedChinese": [
+      "跳",
+      "跳跃"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 22；合并英文行 23 / 中文行 23",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d29-20",
+    "day": 29,
+    "english": "June",
+    "meaning": "n. 六月",
+    "acceptedEnglish": [
+      "June"
+    ],
+    "acceptedChinese": [
+      "六月"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 24",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d29-21",
+    "day": 29,
+    "english": "junior",
+    "meaning": "adj. 初级的",
+    "acceptedEnglish": [
+      "junior"
+    ],
+    "acceptedChinese": [
+      "初级的"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 25",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d29-22",
+    "day": 29,
+    "english": "just",
+    "meaning": "adv.正好；恰好；刚才；仅；不过",
+    "acceptedEnglish": [
+      "just"
+    ],
+    "acceptedChinese": [
+      "正好",
+      "恰好",
+      "刚才",
+      "仅",
+      "不过"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 26",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d29-23",
+    "day": 29,
+    "english": "keen",
+    "meaning": "adj. 热心的",
+    "acceptedEnglish": [
+      "keen"
+    ],
+    "acceptedChinese": [
+      "热心的"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 27；原中文表行 27",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d29-24",
+    "day": 29,
+    "english": "be keen on",
+    "meaning": "喜爱",
+    "acceptedEnglish": [
+      "be keen on"
+    ],
+    "acceptedChinese": [
+      "喜爱"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 28",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d29-25",
+    "day": 29,
+    "english": "keep",
+    "meaning": "v.保持；保存；保持 （某种状态） 继续不断",
+    "acceptedEnglish": [
+      "keep"
+    ],
+    "acceptedChinese": [
+      "保持",
+      "保存",
+      "保持继续不断"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 29",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d29-26",
+    "day": 29,
+    "english": "keep a diary",
+    "meaning": "记日记",
+    "acceptedEnglish": [
+      "keep a diary"
+    ],
+    "acceptedChinese": [
+      "记日记"
+    ],
+    "note": "原英文 keep a dairy 拼写误印，依据“记日记”纠正为 diary，不接受 dairy。",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 30",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d29-27",
+    "day": 29,
+    "english": "keep doing sth.",
+    "meaning": "继续做某事",
+    "acceptedEnglish": [
+      "keep doing sth."
+    ],
+    "acceptedChinese": [
+      "继续做某事"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 31",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d29-28",
+    "day": 29,
+    "english": "keep… from",
+    "meaning": "阻止；使……免于",
+    "acceptedEnglish": [
+      "keep… from"
+    ],
+    "acceptedChinese": [
+      "阻止",
+      "使……免于"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 32",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d29-29",
+    "day": 29,
+    "english": "keep in touch (with)",
+    "meaning": "(与……) 保持联系",
+    "acceptedEnglish": [
+      "keep in touch (with)",
+      "keep in touch",
+      "keep in touch with"
+    ],
+    "acceptedChinese": [
+      "保持联系"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 33",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d29-30",
+    "day": 29,
+    "english": "keep off",
+    "meaning": "阻挡;不让…接近",
+    "acceptedEnglish": [
+      "keep off"
+    ],
+    "acceptedChinese": [
+      "阻挡",
+      "不让…接近"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 34；原中文表行 34",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d29-31",
+    "day": 29,
+    "english": "keep quiet",
+    "meaning": "保持安静",
+    "acceptedEnglish": [
+      "keep quiet"
+    ],
+    "acceptedChinese": [
+      "保持安静"
+    ],
+    "note": "原英文 keep quite 拼写误印，依据“保持安静”纠正为 quiet，不接受 quite。",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 35；原中文表行 35",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d29-32",
+    "day": 29,
+    "english": "keep sb. busy",
+    "meaning": "让某人忙个不停",
+    "acceptedEnglish": [
+      "keep sb. busy"
+    ],
+    "acceptedChinese": [
+      "让某人忙个不停"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 29,
+      "alignment": "逐项语义对齐；原英文表行 36；原中文表行 36",
+      "originalNumber": 33
+    }
+  },
+  {
+    "id": "d30-01",
+    "day": 30,
+    "english": "key",
+    "meaning": "n.钥匙；答案",
+    "acceptedEnglish": [
+      "key"
+    ],
+    "acceptedChinese": [
+      "钥匙",
+      "答案"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 1；原中文表行 1",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d30-02",
+    "day": 30,
+    "english": "keyboard",
+    "meaning": "n. 键盘",
+    "acceptedEnglish": [
+      "keyboard"
+    ],
+    "acceptedChinese": [
+      "键盘"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 2；原中文表行 2",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d30-03",
+    "day": 30,
+    "english": "kick",
+    "meaning": "v. 踢",
+    "acceptedEnglish": [
+      "kick"
+    ],
+    "acceptedChinese": [
+      "踢"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 3；原中文表行 3",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d30-04",
+    "day": 30,
+    "english": "kid",
+    "meaning": "n.小孩；v. 开玩笑",
+    "acceptedEnglish": [
+      "kid"
+    ],
+    "acceptedChinese": [
+      "小孩",
+      "开玩笑"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 4；原中文表行 5；合并英文行 5 / 中文行 4",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d30-05",
+    "day": 30,
+    "english": "kill",
+    "meaning": "v. 杀死，弄死",
+    "acceptedEnglish": [
+      "kill"
+    ],
+    "acceptedChinese": [
+      "杀死",
+      "弄死"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 6；原中文表行 6",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d30-06",
+    "day": 30,
+    "english": "kilo",
+    "meaning": "n. 公斤，千克",
+    "acceptedEnglish": [
+      "kilo"
+    ],
+    "acceptedChinese": [
+      "公斤",
+      "千克"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 7；原中文表行 7",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d30-07",
+    "day": 30,
+    "english": "kilometre",
+    "meaning": "n. 公里，千米",
+    "acceptedEnglish": [
+      "kilometre",
+      "kilometer"
+    ],
+    "acceptedChinese": [
+      "公里",
+      "千米"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 8；原中文表行 8",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d30-08",
+    "day": 30,
+    "english": "kind",
+    "meaning": "n. 种；类；adj.友好的;和善的",
+    "acceptedEnglish": [
+      "kind"
+    ],
+    "acceptedChinese": [
+      "种",
+      "类",
+      "友好的",
+      "和善的"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 9；原中文表行 10；合并英文行 10 / 中文行 9",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d30-09",
+    "day": 30,
+    "english": "a kind of",
+    "meaning": "一种；一类",
+    "acceptedEnglish": [
+      "a kind of"
+    ],
+    "acceptedChinese": [
+      "一种",
+      "一类"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 11；原中文表行 11",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d30-10",
+    "day": 30,
+    "english": "kindergarten",
+    "meaning": "n. 幼儿园",
+    "acceptedEnglish": [
+      "kindergarten"
+    ],
+    "acceptedChinese": [
+      "幼儿园"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 12；原中文表行 12",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d30-11",
+    "day": 30,
+    "english": "kindness",
+    "meaning": "n. 仁慈；好意",
+    "acceptedEnglish": [
+      "kindness"
+    ],
+    "acceptedChinese": [
+      "仁慈",
+      "好意"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 13；原中文表行 13",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d30-12",
+    "day": 30,
+    "english": "king",
+    "meaning": "n. 王；国王",
+    "acceptedEnglish": [
+      "king"
+    ],
+    "acceptedChinese": [
+      "王",
+      "国王"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 14；原中文表行 14",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d30-13",
+    "day": 30,
+    "english": "kitchen",
+    "meaning": "n. 厨房",
+    "acceptedEnglish": [
+      "kitchen"
+    ],
+    "acceptedChinese": [
+      "厨房"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 15；原中文表行 15",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d30-14",
+    "day": 30,
+    "english": "kite",
+    "meaning": "n.风筝",
+    "acceptedEnglish": [
+      "kite"
+    ],
+    "acceptedChinese": [
+      "风筝"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 16；原中文表行 16",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d30-15",
+    "day": 30,
+    "english": "knife",
+    "meaning": "n. 小刀",
+    "acceptedEnglish": [
+      "knife"
+    ],
+    "acceptedChinese": [
+      "小刀"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 17；原中文表行 17",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d30-16",
+    "day": 30,
+    "english": "knock",
+    "meaning": "v. 敲；击；敲门；n. 敲门（声）",
+    "acceptedEnglish": [
+      "knock"
+    ],
+    "acceptedChinese": [
+      "敲",
+      "击",
+      "敲门"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 18；原中文表行 18；合并英文行 19 / 中文行 19",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d30-17",
+    "day": 30,
+    "english": "know",
+    "meaning": "v.了解;知道;认识",
+    "acceptedEnglish": [
+      "know"
+    ],
+    "acceptedChinese": [
+      "了解",
+      "知道",
+      "认识"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 20；原中文表行 20",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d30-18",
+    "day": 30,
+    "english": "knowledge",
+    "meaning": "n.知识",
+    "acceptedEnglish": [
+      "knowledge"
+    ],
+    "acceptedChinese": [
+      "知识"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 21；原中文表行 21",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d30-19",
+    "day": 30,
+    "english": "lab",
+    "meaning": "n. 实验室",
+    "acceptedEnglish": [
+      "lab",
+      "laboratory"
+    ],
+    "acceptedChinese": [
+      "实验室"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 22；原中文表行 22",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d30-20",
+    "day": 30,
+    "english": "lady",
+    "meaning": "n. 女士",
+    "acceptedEnglish": [
+      "lady"
+    ],
+    "acceptedChinese": [
+      "女士"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 23；原中文表行 23",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d30-21",
+    "day": 30,
+    "english": "lake",
+    "meaning": "n. 湖",
+    "acceptedEnglish": [
+      "lake"
+    ],
+    "acceptedChinese": [
+      "湖"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 24；原中文表行 24",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d30-22",
+    "day": 30,
+    "english": "lamp",
+    "meaning": "n. 灯",
+    "acceptedEnglish": [
+      "lamp"
+    ],
+    "acceptedChinese": [
+      "灯"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 25；原中文表行 25",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d30-23",
+    "day": 30,
+    "english": "land",
+    "meaning": "n.陆地；土地；v.降落；登陆",
+    "acceptedEnglish": [
+      "land"
+    ],
+    "acceptedChinese": [
+      "陆地",
+      "土地",
+      "降落",
+      "登陆"
+    ],
+    "note": "原中文“登陆”重复，合并。",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 26；原中文表行 26；合并英文行 27 / 中文行 27",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d30-24",
+    "day": 30,
+    "english": "language",
+    "meaning": "n. 语言",
+    "acceptedEnglish": [
+      "language"
+    ],
+    "acceptedChinese": [
+      "语言"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 28；原中文表行 28",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d30-25",
+    "day": 30,
+    "english": "lantern",
+    "meaning": "n.灯笼；提灯",
+    "acceptedEnglish": [
+      "lantern"
+    ],
+    "acceptedChinese": [
+      "灯笼",
+      "提灯"
+    ],
+    "note": "原中文仅“灯”，细化为 lantern 对应的灯笼/提灯。",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 29；原中文表行 29",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d30-26",
+    "day": 30,
+    "english": "large",
+    "meaning": "adj. 大的；巨大的",
+    "acceptedEnglish": [
+      "large"
+    ],
+    "acceptedChinese": [
+      "大的",
+      "巨大的"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 30；原中文表行 30",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d30-27",
+    "day": 30,
+    "english": "last",
+    "meaning": "adj.最后的;最近刚过去的；adv. 最后地；n. 最后；末尾；v.持续",
+    "acceptedEnglish": [
+      "last"
+    ],
+    "acceptedChinese": [
+      "最后的",
+      "最近刚过去的",
+      "最后地",
+      "最后",
+      "末尾",
+      "持续"
+    ],
+    "note": "英文标有 v.，中文表漏动词义；补充 last 的“持续”义。",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 31；原中文表行 31,32,33",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d30-28",
+    "day": 30,
+    "english": "late",
+    "meaning": "adj. 晚的；迟的；adv. 晚；迟",
+    "acceptedEnglish": [
+      "late"
+    ],
+    "acceptedChinese": [
+      "晚的",
+      "迟的",
+      "晚",
+      "迟"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 32；原中文表行 34,35",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d30-29",
+    "day": 30,
+    "english": "be late for",
+    "meaning": "……迟到",
+    "acceptedEnglish": [
+      "be late for"
+    ],
+    "acceptedChinese": [
+      "迟到",
+      "……迟到"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 33；原中文表行 36",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d30-30",
+    "day": 30,
+    "english": "later",
+    "meaning": "adv. 后来，以后",
+    "acceptedEnglish": [
+      "later"
+    ],
+    "acceptedChinese": [
+      "后来",
+      "以后"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 34；原中文表行 37",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d30-31",
+    "day": 30,
+    "english": "laugh",
+    "meaning": "v&n.笑;大笑;嘲笑",
+    "acceptedEnglish": [
+      "laugh"
+    ],
+    "acceptedChinese": [
+      "笑",
+      "大笑",
+      "嘲笑"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 35；原中文表行 38",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d30-32",
+    "day": 30,
+    "english": "laugh at",
+    "meaning": "嘲笑",
+    "acceptedEnglish": [
+      "laugh at"
+    ],
+    "acceptedChinese": [
+      "嘲笑"
+    ],
+    "note": "",
+    "source": {
+      "page": 15,
+      "day": 30,
+      "alignment": "逐项语义对齐；原英文表行 36；原中文表行 39",
+      "originalNumber": 33
+    }
+  }
+]
