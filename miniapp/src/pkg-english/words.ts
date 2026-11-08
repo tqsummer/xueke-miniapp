@@ -1,0 +1,1369 @@
+export interface Word { id: string; day: number; english: string; meaning: string; acceptedEnglish: string[]; acceptedChinese: string[]; note: string; source: { page: number; day: number; alignment: string; originalNumber: number | null } }
+export const words: Word[] = [
+  {
+    "id": "d1-01",
+    "day": 1,
+    "english": "able",
+    "meaning": "adj. 能够；有能力",
+    "acceptedEnglish": [
+      "able"
+    ],
+    "acceptedChinese": [
+      "能够",
+      "有能力"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d1-02",
+    "day": 1,
+    "english": "be able to",
+    "meaning": "能够（短语）",
+    "acceptedEnglish": [
+      "be able to"
+    ],
+    "acceptedChinese": [
+      "能够",
+      "有能力"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d1-03",
+    "day": 1,
+    "english": "ability",
+    "meaning": "n. 能力；才能",
+    "acceptedEnglish": [
+      "ability"
+    ],
+    "acceptedChinese": [
+      "能力",
+      "才能"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d1-04",
+    "day": 1,
+    "english": "about",
+    "meaning": "prep. 关于；adv. 大约；到处",
+    "acceptedEnglish": [
+      "about"
+    ],
+    "acceptedChinese": [
+      "关于",
+      "大约",
+      "到处",
+      "四处"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d1-05",
+    "day": 1,
+    "english": "above",
+    "meaning": "prep. 在……上面",
+    "acceptedEnglish": [
+      "above"
+    ],
+    "acceptedChinese": [
+      "在上面",
+      "在……上面",
+      "在…上面",
+      "上面"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d1-06",
+    "day": 1,
+    "english": "abroad",
+    "meaning": "adv. 在国外",
+    "acceptedEnglish": [
+      "abroad"
+    ],
+    "acceptedChinese": [
+      "在国外",
+      "国外"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d1-07",
+    "day": 1,
+    "english": "accept",
+    "meaning": "v. 接受；认可",
+    "acceptedEnglish": [
+      "accept"
+    ],
+    "acceptedChinese": [
+      "接受",
+      "认可"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d1-08",
+    "day": 1,
+    "english": "according to",
+    "meaning": "按照；根据（短语）",
+    "acceptedEnglish": [
+      "according to"
+    ],
+    "acceptedChinese": [
+      "按照",
+      "根据"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d1-09",
+    "day": 1,
+    "english": "accident",
+    "meaning": "n. 事故；意外的事",
+    "acceptedEnglish": [
+      "accident"
+    ],
+    "acceptedChinese": [
+      "事故",
+      "车祸",
+      "意外",
+      "意外的事"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d1-10",
+    "day": 1,
+    "english": "accurately",
+    "meaning": "adv. 精确地",
+    "acceptedEnglish": [
+      "accurately"
+    ],
+    "acceptedChinese": [
+      "精确地",
+      "准确地"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d1-11",
+    "day": 1,
+    "english": "achieve",
+    "meaning": "v. 得到；实现",
+    "acceptedEnglish": [
+      "achieve"
+    ],
+    "acceptedChinese": [
+      "得到",
+      "实现"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d1-12",
+    "day": 1,
+    "english": "across",
+    "meaning": "prep. 穿过；横过",
+    "acceptedEnglish": [
+      "across"
+    ],
+    "acceptedChinese": [
+      "穿过",
+      "横过"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d1-13",
+    "day": 1,
+    "english": "act",
+    "meaning": "v. 扮演；表演；n. 行动",
+    "acceptedEnglish": [
+      "act"
+    ],
+    "acceptedChinese": [
+      "扮演",
+      "表演",
+      "行动"
+    ],
+    "note": "两份资料不完全一致：中文提示表另列名词“行动”，本词已合并。",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d1-14",
+    "day": 1,
+    "english": "active",
+    "meaning": "adj. 积极的；主动的",
+    "acceptedEnglish": [
+      "active"
+    ],
+    "acceptedChinese": [
+      "积极的",
+      "主动的",
+      "积极",
+      "主动"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d1-15",
+    "day": 1,
+    "english": "activity",
+    "meaning": "n. 活动",
+    "acceptedEnglish": [
+      "activity"
+    ],
+    "acceptedChinese": [
+      "活动"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d1-16",
+    "day": 1,
+    "english": "actor",
+    "meaning": "n. 男演员",
+    "acceptedEnglish": [
+      "actor"
+    ],
+    "acceptedChinese": [
+      "男演员"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d1-17",
+    "day": 1,
+    "english": "actress",
+    "meaning": "n. 女演员",
+    "acceptedEnglish": [
+      "actress"
+    ],
+    "acceptedChinese": [
+      "女演员"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d1-18",
+    "day": 1,
+    "english": "add",
+    "meaning": "v. 加上",
+    "acceptedEnglish": [
+      "add"
+    ],
+    "acceptedChinese": [
+      "加上",
+      "添加",
+      "增加"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d1-19",
+    "day": 1,
+    "english": "add … to",
+    "meaning": "把……加到……（短语）",
+    "acceptedEnglish": [
+      "add … to",
+      "add ... to",
+      "add something to",
+      "add sth. to",
+      "add sth to"
+    ],
+    "acceptedChinese": [
+      "加上",
+      "把……加到……",
+      "把…加到…"
+    ],
+    "note": "模板中的省略号可写 …、... 或 sth.。",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d1-20",
+    "day": 1,
+    "english": "addition",
+    "meaning": "n. 加；增加",
+    "acceptedEnglish": [
+      "addition"
+    ],
+    "acceptedChinese": [
+      "加",
+      "增加"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d1-21",
+    "day": 1,
+    "english": "in addition",
+    "meaning": "另外（短语）",
+    "acceptedEnglish": [
+      "in addition"
+    ],
+    "acceptedChinese": [
+      "另外",
+      "此外"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d1-22",
+    "day": 1,
+    "english": "address",
+    "meaning": "n. 地址",
+    "acceptedEnglish": [
+      "address"
+    ],
+    "acceptedChinese": [
+      "地址"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d1-23",
+    "day": 1,
+    "english": "adopt",
+    "meaning": "v. 采用；采纳；收养",
+    "acceptedEnglish": [
+      "adopt"
+    ],
+    "acceptedChinese": [
+      "采用",
+      "采纳",
+      "收养"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d1-24",
+    "day": 1,
+    "english": "advantage",
+    "meaning": "n. 有利条件；优势；优点",
+    "acceptedEnglish": [
+      "advantage"
+    ],
+    "acceptedChinese": [
+      "有利条件",
+      "优势",
+      "优点"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d1-25",
+    "day": 1,
+    "english": "advertisement",
+    "meaning": "n. 广告",
+    "acceptedEnglish": [
+      "advertisement"
+    ],
+    "acceptedChinese": [
+      "广告"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d1-26",
+    "day": 1,
+    "english": "advice",
+    "meaning": "n. 劝告；忠告",
+    "acceptedEnglish": [
+      "advice"
+    ],
+    "acceptedChinese": [
+      "劝告",
+      "忠告",
+      "建议"
+    ],
+    "note": "原音标 [ədˈvaɪz] 疑似与 advise 混淆，本版暂不展示资料音标。",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d1-27",
+    "day": 1,
+    "english": "take one's advice",
+    "meaning": "听从某人劝告（短语）",
+    "acceptedEnglish": [
+      "take one's advice",
+      "take somebody's advice",
+      "take someone's advice"
+    ],
+    "acceptedChinese": [
+      "听从某人劝告",
+      "听从某人的劝告",
+      "听从建议",
+      "听从某人的建议"
+    ],
+    "note": "one’s 表示某人的；也接受 someone’s / somebody’s。",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d1-28",
+    "day": 1,
+    "english": "afford",
+    "meaning": "v. 担负得起费用；抽得出时间",
+    "acceptedEnglish": [
+      "afford"
+    ],
+    "acceptedChinese": [
+      "担负得起",
+      "担负得起费用",
+      "负担得起",
+      "买得起",
+      "抽得出时间"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d1-29",
+    "day": 1,
+    "english": "afraid",
+    "meaning": "adj. 害怕；担心",
+    "acceptedEnglish": [
+      "afraid"
+    ],
+    "acceptedChinese": [
+      "害怕",
+      "担心"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d1-30",
+    "day": 1,
+    "english": "be afraid of",
+    "meaning": "害怕（短语）",
+    "acceptedEnglish": [
+      "be afraid of"
+    ],
+    "acceptedChinese": [
+      "害怕",
+      "害怕……",
+      "害怕…"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d1-31",
+    "day": 1,
+    "english": "Africa",
+    "meaning": "n. 非洲",
+    "acceptedEnglish": [
+      "Africa"
+    ],
+    "acceptedChinese": [
+      "非洲"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d1-32",
+    "day": 1,
+    "english": "after",
+    "meaning": "prep./adv./conj. 在……之后；后来",
+    "acceptedEnglish": [
+      "after"
+    ],
+    "acceptedChinese": [
+      "在……之后",
+      "在…之后",
+      "之后",
+      "在后面",
+      "后来",
+      "在后"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 32
+    }
+  },
+  {
+    "id": "d1-33",
+    "day": 1,
+    "english": "after all",
+    "meaning": "究竟；毕竟（短语）",
+    "acceptedEnglish": [
+      "after all"
+    ],
+    "acceptedChinese": [
+      "究竟",
+      "毕竟"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 1,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 33
+    }
+  },
+  {
+    "id": "d2-01",
+    "day": 2,
+    "english": "afternoon",
+    "meaning": "n. 下午",
+    "acceptedEnglish": [
+      "afternoon"
+    ],
+    "acceptedChinese": [
+      "下午"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 1
+    }
+  },
+  {
+    "id": "d2-02",
+    "day": 2,
+    "english": "again",
+    "meaning": "adv. 再一次；又",
+    "acceptedEnglish": [
+      "again"
+    ],
+    "acceptedChinese": [
+      "再一次",
+      "再",
+      "又"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 2
+    }
+  },
+  {
+    "id": "d2-03",
+    "day": 2,
+    "english": "against",
+    "meaning": "prep. 反对",
+    "acceptedEnglish": [
+      "against"
+    ],
+    "acceptedChinese": [
+      "反对"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 3
+    }
+  },
+  {
+    "id": "d2-04",
+    "day": 2,
+    "english": "age",
+    "meaning": "n. 时代；年龄",
+    "acceptedEnglish": [
+      "age"
+    ],
+    "acceptedChinese": [
+      "时代",
+      "年龄"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 4
+    }
+  },
+  {
+    "id": "d2-05",
+    "day": 2,
+    "english": "aged",
+    "meaning": "adj. ……岁的；年迈的",
+    "acceptedEnglish": [
+      "aged"
+    ],
+    "acceptedChinese": [
+      "……岁的",
+      "…岁的",
+      "岁的",
+      "年迈的",
+      "年老的",
+      "年迈",
+      "年老"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 5
+    }
+  },
+  {
+    "id": "d2-06",
+    "day": 2,
+    "english": "agent",
+    "meaning": "n. 代理人",
+    "acceptedEnglish": [
+      "agent"
+    ],
+    "acceptedChinese": [
+      "代理人",
+      "代理商"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 6
+    }
+  },
+  {
+    "id": "d2-07",
+    "day": 2,
+    "english": "ago",
+    "meaning": "adv. 以前",
+    "acceptedEnglish": [
+      "ago"
+    ],
+    "acceptedChinese": [
+      "以前"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 7
+    }
+  },
+  {
+    "id": "d2-08",
+    "day": 2,
+    "english": "agree",
+    "meaning": "v. 同意；应允",
+    "acceptedEnglish": [
+      "agree"
+    ],
+    "acceptedChinese": [
+      "同意",
+      "应允"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 8
+    }
+  },
+  {
+    "id": "d2-09",
+    "day": 2,
+    "english": "agree with sb.",
+    "meaning": "同意某人的意见（短语）",
+    "acceptedEnglish": [
+      "agree with sb.",
+      "agree with sb",
+      "agree with somebody",
+      "agree with someone"
+    ],
+    "acceptedChinese": [
+      "同意某人的意见",
+      "同意某人"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 9
+    }
+  },
+  {
+    "id": "d2-10",
+    "day": 2,
+    "english": "ahead",
+    "meaning": "adv. 在前",
+    "acceptedEnglish": [
+      "ahead"
+    ],
+    "acceptedChinese": [
+      "在前",
+      "在前面"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 10
+    }
+  },
+  {
+    "id": "d2-11",
+    "day": 2,
+    "english": "go ahead",
+    "meaning": "先走；向前走；走吧；干吧（短语）",
+    "acceptedEnglish": [
+      "go ahead"
+    ],
+    "acceptedChinese": [
+      "先走",
+      "向前走",
+      "走吧",
+      "干吧"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 11
+    }
+  },
+  {
+    "id": "d2-12",
+    "day": 2,
+    "english": "aim",
+    "meaning": "n. 目的；v. 瞄准",
+    "acceptedEnglish": [
+      "aim"
+    ],
+    "acceptedChinese": [
+      "目的",
+      "目标",
+      "瞄准"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 12
+    }
+  },
+  {
+    "id": "d2-13",
+    "day": 2,
+    "english": "air",
+    "meaning": "n. 空气；大气",
+    "acceptedEnglish": [
+      "air"
+    ],
+    "acceptedChinese": [
+      "空气",
+      "大气"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 13
+    }
+  },
+  {
+    "id": "d2-14",
+    "day": 2,
+    "english": "air-conditioner",
+    "meaning": "n. 空调",
+    "acceptedEnglish": [
+      "air-conditioner",
+      "air conditioner"
+    ],
+    "acceptedChinese": [
+      "空调",
+      "空调机"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 14
+    }
+  },
+  {
+    "id": "d2-15",
+    "day": 2,
+    "english": "airline",
+    "meaning": "n. 航线",
+    "acceptedEnglish": [
+      "airline"
+    ],
+    "acceptedChinese": [
+      "航线"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 15
+    }
+  },
+  {
+    "id": "d2-16",
+    "day": 2,
+    "english": "airport",
+    "meaning": "n. 机场",
+    "acceptedEnglish": [
+      "airport"
+    ],
+    "acceptedChinese": [
+      "机场"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 16
+    }
+  },
+  {
+    "id": "d2-17",
+    "day": 2,
+    "english": "alarm",
+    "meaning": "n. 警报",
+    "acceptedEnglish": [
+      "alarm"
+    ],
+    "acceptedChinese": [
+      "警报"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 17
+    }
+  },
+  {
+    "id": "d2-18",
+    "day": 2,
+    "english": "alive",
+    "meaning": "adj. 活着的",
+    "acceptedEnglish": [
+      "alive"
+    ],
+    "acceptedChinese": [
+      "活着的",
+      "活着"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 18
+    }
+  },
+  {
+    "id": "d2-19",
+    "day": 2,
+    "english": "all",
+    "meaning": "adj./adv./pron./n. 全部；所有；全体人员",
+    "acceptedEnglish": [
+      "all"
+    ],
+    "acceptedChinese": [
+      "全部",
+      "所有",
+      "全体人员",
+      "全",
+      "整",
+      "总"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 19
+    }
+  },
+  {
+    "id": "d2-20",
+    "day": 2,
+    "english": "all day",
+    "meaning": "整天（短语）",
+    "acceptedEnglish": [
+      "all day"
+    ],
+    "acceptedChinese": [
+      "整天",
+      "一整天"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 20
+    }
+  },
+  {
+    "id": "d2-21",
+    "day": 2,
+    "english": "allow",
+    "meaning": "v. 允许；准许",
+    "acceptedEnglish": [
+      "allow"
+    ],
+    "acceptedChinese": [
+      "允许",
+      "准许"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 21
+    }
+  },
+  {
+    "id": "d2-22",
+    "day": 2,
+    "english": "almost",
+    "meaning": "adv. 几乎；差不多",
+    "acceptedEnglish": [
+      "almost"
+    ],
+    "acceptedChinese": [
+      "几乎",
+      "差不多"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 22
+    }
+  },
+  {
+    "id": "d2-23",
+    "day": 2,
+    "english": "alone",
+    "meaning": "adv. 单独地",
+    "acceptedEnglish": [
+      "alone"
+    ],
+    "acceptedChinese": [
+      "单独地",
+      "单独",
+      "独自"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 23
+    }
+  },
+  {
+    "id": "d2-24",
+    "day": 2,
+    "english": "along",
+    "meaning": "prep. 沿着；adv. 向前；一起",
+    "acceptedEnglish": [
+      "along"
+    ],
+    "acceptedChinese": [
+      "沿着",
+      "顺着",
+      "向前",
+      "一起",
+      "一同"
+    ],
+    "note": "英文提示表有词但缺编号，保留为独立词条。",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": null
+    }
+  },
+  {
+    "id": "d2-25",
+    "day": 2,
+    "english": "get along / on (with)",
+    "meaning": "进展；与……相处（短语）",
+    "acceptedEnglish": [
+      "get along / on (with)",
+      "get along",
+      "get on",
+      "get along with",
+      "get on with"
+    ],
+    "acceptedChinese": [
+      "进展",
+      "与……相处",
+      "与…相处",
+      "相处"
+    ],
+    "note": "可写 get along / get on；表示与某人相处时加 with。",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 24
+    }
+  },
+  {
+    "id": "d2-26",
+    "day": 2,
+    "english": "already",
+    "meaning": "adv. 已经",
+    "acceptedEnglish": [
+      "already"
+    ],
+    "acceptedChinese": [
+      "已经"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 25
+    }
+  },
+  {
+    "id": "d2-27",
+    "day": 2,
+    "english": "also",
+    "meaning": "adv. 也",
+    "acceptedEnglish": [
+      "also"
+    ],
+    "acceptedChinese": [
+      "也"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 26
+    }
+  },
+  {
+    "id": "d2-28",
+    "day": 2,
+    "english": "although",
+    "meaning": "conj. 虽然；尽管",
+    "acceptedEnglish": [
+      "although"
+    ],
+    "acceptedChinese": [
+      "虽然",
+      "尽管"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 27
+    }
+  },
+  {
+    "id": "d2-29",
+    "day": 2,
+    "english": "altogether",
+    "meaning": "adv. 总共；全部地",
+    "acceptedEnglish": [
+      "altogether"
+    ],
+    "acceptedChinese": [
+      "总共",
+      "全部地",
+      "全部"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 28
+    }
+  },
+  {
+    "id": "d2-30",
+    "day": 2,
+    "english": "always",
+    "meaning": "adv. 总是；永远",
+    "acceptedEnglish": [
+      "always"
+    ],
+    "acceptedChinese": [
+      "总是",
+      "永远"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 29
+    }
+  },
+  {
+    "id": "d2-31",
+    "day": 2,
+    "english": "a.m.",
+    "meaning": "上午（缩写）",
+    "acceptedEnglish": [
+      "a.m.",
+      "am",
+      "a.m",
+      "A.M.(a.m.)"
+    ],
+    "acceptedChinese": [
+      "上午"
+    ],
+    "note": "可写 a.m. 或 am。",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 30
+    }
+  },
+  {
+    "id": "d2-32",
+    "day": 2,
+    "english": "amazing",
+    "meaning": "adj. 令人惊讶的",
+    "acceptedEnglish": [
+      "amazing"
+    ],
+    "acceptedChinese": [
+      "令人惊讶的",
+      "令人惊讶"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 31
+    }
+  },
+  {
+    "id": "d2-33",
+    "day": 2,
+    "english": "ambition",
+    "meaning": "n. 雄心；野心",
+    "acceptedEnglish": [
+      "ambition"
+    ],
+    "acceptedChinese": [
+      "雄心",
+      "野心"
+    ],
+    "note": "",
+    "source": {
+      "page": 1,
+      "day": 2,
+      "alignment": "人工核对并按词条合并多词性",
+      "originalNumber": 32
+    }
+  }
+]

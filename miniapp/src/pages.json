@@ -1,0 +1,127 @@
+{
+  "pages": [
+    {
+      "path": "pages/home/index",
+      "style": {
+        "navigationBarTitleText": "学科助手"
+      }
+    },
+    {
+      "path": "pages/vocab/index",
+      "style": {
+        "navigationBarTitleText": "生词本"
+      }
+    },
+    {
+      "path": "pages/me/index",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/me/history",
+      "style": {
+        "navigationBarTitleText": "搜索历史"
+      }
+    },
+    {
+      "path": "pages/me/about",
+      "style": {
+        "navigationBarTitleText": "关于与隐私"
+      }
+    }
+  ],
+  "subPackages": [
+    {
+      "root": "pkg-yuwen",
+      "pages": [
+        {
+          "path": "search/index",
+          "style": {
+            "navigationBarTitleText": "搜索"
+          }
+        },
+        {
+          "path": "wenyan/index",
+          "style": {
+            "navigationBarTitleText": "文言文"
+          }
+        },
+        {
+          "path": "entry/index",
+          "style": {
+            "navigationBarTitleText": "一字多义"
+          }
+        },
+        {
+          "path": "articles/index",
+          "style": {
+            "navigationBarTitleText": "100 篇原文"
+          }
+        },
+        {
+          "path": "reader/index",
+          "style": {
+            "navigationBarTitleText": "原文对译"
+          }
+        },
+        {
+          "path": "topics/index",
+          "style": {
+            "navigationBarTitleText": "专题"
+          }
+        }
+      ]
+    },
+    {
+      "root": "pkg-english",
+      "pages": [
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "英语词汇练习"
+          }
+        }
+      ]
+    }
+  ],
+  "preloadRule": {
+    "pages/home/index": {
+      "network": "all",
+      "packages": [
+        "pkg-yuwen"
+      ]
+    }
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#FBFCFA",
+    "backgroundColor": "#F1F4F1"
+  },
+  "tabBar": {
+    "color": "#55636D",
+    "selectedColor": "#1D6A86",
+    "backgroundColor": "#FBFCFA",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "text": "首页",
+        "iconPath": "static/tab/home.png",
+        "selectedIconPath": "static/tab/home-on.png"
+      },
+      {
+        "pagePath": "pages/vocab/index",
+        "text": "生词本",
+        "iconPath": "static/tab/vocab.png",
+        "selectedIconPath": "static/tab/vocab-on.png"
+      },
+      {
+        "pagePath": "pages/me/index",
+        "text": "我的",
+        "iconPath": "static/tab/me.png",
+        "selectedIconPath": "static/tab/me-on.png"
+      }
+    ]
+  }
+}

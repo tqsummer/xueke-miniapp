@@ -1,0 +1,23 @@
+node_modules/
+dist/
+unpackage/
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+.pgdata/
+
+# Build caches and test output
+*.tsbuildinfo
+.vite/
+.cache/
+coverage/
+
+# Local WeChat developer tools settings
+project.private.config.json
+
+# Editor and operating system files
+.idea/
+.DS_Store
+Thumbs.db

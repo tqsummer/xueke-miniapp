@@ -1,0 +1,271 @@
+{
+  "voice": "Microsoft Zira Desktop",
+  "locale": "en-US",
+  "synthetic": true,
+  "items": [
+    {
+      "id": "d1-01",
+      "spoken": "able"
+    },
+    {
+      "id": "d1-02",
+      "spoken": "be able to"
+    },
+    {
+      "id": "d1-03",
+      "spoken": "ability"
+    },
+    {
+      "id": "d1-04",
+      "spoken": "about"
+    },
+    {
+      "id": "d1-05",
+      "spoken": "above"
+    },
+    {
+      "id": "d1-06",
+      "spoken": "abroad"
+    },
+    {
+      "id": "d1-07",
+      "spoken": "accept"
+    },
+    {
+      "id": "d1-08",
+      "spoken": "according to"
+    },
+    {
+      "id": "d1-09",
+      "spoken": "accident"
+    },
+    {
+      "id": "d1-10",
+      "spoken": "accurately"
+    },
+    {
+      "id": "d1-11",
+      "spoken": "achieve"
+    },
+    {
+      "id": "d1-12",
+      "spoken": "across"
+    },
+    {
+      "id": "d1-13",
+      "spoken": "act"
+    },
+    {
+      "id": "d1-14",
+      "spoken": "active"
+    },
+    {
+      "id": "d1-15",
+      "spoken": "activity"
+    },
+    {
+      "id": "d1-16",
+      "spoken": "actor"
+    },
+    {
+      "id": "d1-17",
+      "spoken": "actress"
+    },
+    {
+      "id": "d1-18",
+      "spoken": "add"
+    },
+    {
+      "id": "d1-19",
+      "spoken": "add something to"
+    },
+    {
+      "id": "d1-20",
+      "spoken": "addition"
+    },
+    {
+      "id": "d1-21",
+      "spoken": "in addition"
+    },
+    {
+      "id": "d1-22",
+      "spoken": "address"
+    },
+    {
+      "id": "d1-23",
+      "spoken": "adopt"
+    },
+    {
+      "id": "d1-24",
+      "spoken": "advantage"
+    },
+    {
+      "id": "d1-25",
+      "spoken": "advertisement"
+    },
+    {
+      "id": "d1-26",
+      "spoken": "advice"
+    },
+    {
+      "id": "d1-27",
+      "spoken": "take someone's advice"
+    },
+    {
+      "id": "d1-28",
+      "spoken": "afford"
+    },
+    {
+      "id": "d1-29",
+      "spoken": "afraid"
+    },
+    {
+      "id": "d1-30",
+      "spoken": "be afraid of"
+    },
+    {
+      "id": "d1-31",
+      "spoken": "Africa"
+    },
+    {
+      "id": "d1-32",
+      "spoken": "after"
+    },
+    {
+      "id": "d1-33",
+      "spoken": "after all"
+    },
+    {
+      "id": "d2-01",
+      "spoken": "afternoon"
+    },
+    {
+      "id": "d2-02",
+      "spoken": "again"
+    },
+    {
+      "id": "d2-03",
+      "spoken": "against"
+    },
+    {
+      "id": "d2-04",
+      "spoken": "age"
+    },
+    {
+      "id": "d2-05",
+      "spoken": "aged"
+    },
+    {
+      "id": "d2-06",
+      "spoken": "agent"
+    },
+    {
+      "id": "d2-07",
+      "spoken": "ago"
+    },
+    {
+      "id": "d2-08",
+      "spoken": "agree"
+    },
+    {
+      "id": "d2-09",
+      "spoken": "agree with somebody"
+    },
+    {
+      "id": "d2-10",
+      "spoken": "ahead"
+    },
+    {
+      "id": "d2-11",
+      "spoken": "go ahead"
+    },
+    {
+      "id": "d2-12",
+      "spoken": "aim"
+    },
+    {
+      "id": "d2-13",
+      "spoken": "air"
+    },
+    {
+      "id": "d2-14",
+      "spoken": "air-conditioner"
+    },
+    {
+      "id": "d2-15",
+      "spoken": "airline"
+    },
+    {
+      "id": "d2-16",
+      "spoken": "airport"
+    },
+    {
+      "id": "d2-17",
+      "spoken": "alarm"
+    },
+    {
+      "id": "d2-18",
+      "spoken": "alive"
+    },
+    {
+      "id": "d2-19",
+      "spoken": "all"
+    },
+    {
+      "id": "d2-20",
+      "spoken": "all day"
+    },
+    {
+      "id": "d2-21",
+      "spoken": "allow"
+    },
+    {
+      "id": "d2-22",
+      "spoken": "almost"
+    },
+    {
+      "id": "d2-23",
+      "spoken": "alone"
+    },
+    {
+      "id": "d2-24",
+      "spoken": "along"
+    },
+    {
+      "id": "d2-25",
+      "spoken": "get along with"
+    },
+    {
+      "id": "d2-26",
+      "spoken": "already"
+    },
+    {
+      "id": "d2-27",
+      "spoken": "also"
+    },
+    {
+      "id": "d2-28",
+      "spoken": "although"
+    },
+    {
+      "id": "d2-29",
+      "spoken": "altogether"
+    },
+    {
+      "id": "d2-30",
+      "spoken": "always"
+    },
+    {
+      "id": "d2-31",
+      "spoken": "A M"
+    },
+    {
+      "id": "d2-32",
+      "spoken": "amazing"
+    },
+    {
+      "id": "d2-33",
+      "spoken": "ambition"
+    }
+  ]
+}
